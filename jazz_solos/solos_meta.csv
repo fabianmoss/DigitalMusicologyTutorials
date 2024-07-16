@@ -1,0 +1,1223 @@
+,melid,trackid,compid,recordid,performer,title,titleaddon,solopart,instrument,style,avgtempo,tempoclass,rhythmfeel,key,signature,chord_changes,chorus_count
+0,1,1,1,1,Art Pepper,Anthropology,,1,cl,COOL,218.8,UP,SWING,Bb-maj,4/4,"A1: ||Bb6 G7 |C-7 F7 |Bb G-7 |C-7 F7 |F-7 Bb7 |Eb7 Ab7 |D-7 G7 |C-7 F7 ||
+A2: ||Bb6 G7 |C-7 F7 |Bb G-7 |C-7 F7 |F-7 Bb7 |Eb7 Ab7 |C-7 F7 |Bb6   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bb G7 |C-7 F7 |Bb G-7 |C-7 F7 |F-7 Bb7 |Eb7 Ab7 |C-7 F7 |Bb6   ||",4
+1,2,2,2,2,Art Pepper,Blues for Blanche,,1,as,COOL,198.9,UP,SWING,Eb-maj,4/4,A1: ||Eb7   |Ab7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |Eb7   |F-7   |Bb7   |Eb7   |Bb7   ||,11
+2,3,3,3,1,Art Pepper,Desafinado,,1,as,COOL,140.5,MEDIUM UP,LATIN,F-maj,4/4,"A1: ||Fj7   |Fj7   |G7alt   |G7alt   |G-7   |C7   |Am7b5   |D79b   |G-7   |A79b   |D7   |D79b   |G79b   |G79b   |Gbj7   |Gbj7   ||
+A2: ||Fj7   |Fj7   |G7alt   |G7alt   |G-7   |C7   |Am7b5   |D79b   |G-7   |Bb-   |A-7   |Bm7b5 E79# ||
+B1: ||Aj7   |Bbo7   |B-7   |E7   |Aj7   |F#-7   |B-7   |E7   ||
+C1: ||Cj7   |C#o7   |D-7   |G7   |G-7   |Am7b5 D79b |G-7   |C7alt   ||",2
+3,4,4,4,1,Art Pepper,In a Mellow Tone,,1,cl,COOL,167.6,MEDIUM UP,SWING,Eb-maj,4/4,"A1: ||F7   |Bb7   |Eb6   |Eb6   |Bb-7   |Eb7   |Abj7   |Abj7   |Ab6   |Db7   |Eb6   |C7   |F7   |F7   |Bb7   |C7   ||
+B1: ||F7   |Bb7   |Eb6   |Eb6   |Bb-7   |Eb7   |Abj7   |Abj7   |Ab7   |Ao7   |Eb6   |C7   |F7   |Bb7   |Eb6   |Eb6   ||",4
+4,5,5,5,2,Art Pepper,Stardust,,1,as,COOL,60.7,SLOW,BALLAD,Eb-maj,4/4,"A1: ||Ab6   |Ab6   |Ab-6   |Ab-6 Db7 |Eb F-7 |G-7 C7 |F-7  Eo7|F-7   |Bb7 Bbo |F-7 Bb7 |Ebj7   |G-7 C-7 |F79   |C-7 F7 |Bb7 Bbsus7 |Bbo7 Bb7Eb+7||
+B1: ||Ab6   |Ab6   |Ab-6   |Ab-6 Db7 |Eb   |G-7 C7 |F-7  Eo|F-7   |Ab-7   |Db7913   |Ebj7 C-7 |G-7 C7 |F-7   |Bb7   |Eb6   |Bb-7 Eb7 ||",2
+5,6,5,5,2,Art Pepper,Stardust,,2,as,COOL,60.2,SLOW,BALLAD,Eb-maj,4/4,"B1: ||Ab6   |Ab6   |Ab-6   |Db7   |Ebj7   |G-7 C7 |F-7   |F-7   |Ab-7   |Db7   |Eb C-7 |G-7 C7 |F-7   |Bb7   |Eb7   |Ab7   ||
+C1: ||Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   |Ab7   |Eb7   ||",1
+6,7,6,6,3,Benny Carter,I Got It Bad,,1,as,SWING,68.2,SLOW,SWING,Db-maj,4/4,"A1: ||Dbj7   |F-7 Bb7 |Eb7   |Eb7   |Eb-7   |F7Bb7Eb7Ab7|Db6 Bb-7 |Eb-7 Ab7 ||
+A2: ||Dbj7   |Bb-7   |Eb7   |Eb7   |Eb-7   |F7Bb7Eb7Ab7|Db6   |G7911#   ||
+B1: ||Gbj7   |F#j7   |Gb-6   |B7   |Dbj7 B7 |F-7 Bb7 |Eb-7   |Ab7   ||
+A3: ||Dbj7   |Bb-7   |Eb7   |Eb7   |Eb-7   |F7Bb7Eb7Ab7|Db6   |Eb-7 Ab7 ||
+B2: ||Gbj7   |Gbj7   |Gb-6   |B7   |Dbj7 B7 |F-7 Bb7 |Eb-7   |Ab7   ||
+A4: ||Dbj7   |Bb-7   |Eb7   |Eb7   |Eb-7   |F7Bb7Eb7Ab7|Eb-7 Ab7 |Dbj7   |Dbj7   |Dbj7   ||",1
+7,8,7,7,4,Benny Carter,It's a Wonderful World,,1,as,SWING,124.2,MEDIUM,SWING,C-maj,4/4,"A1: ||Cj7   |E-7 A7 |D-7 G7 |Cj7   ||
+A2: ||Cj7   |E-7 A7 |D-7   |G7   ||
+B1: ||C7   |C7   |F7   |Bb7   ||
+A3: ||Cj7   |E-7 A7 |D-7 G7 |Cj7   ||",3
+8,9,7,7,4,Benny Carter,It's a Wonderful World,,2,as,SWING,127.2,MEDIUM,SWING,C-maj,4/4,"A1: ||Cj7   |E-7 A7 |D- G7 |Cj7 G7 ||
+A2: ||Cj7   |E-7 A7 |D-7   |G7   ||
+B1: ||C7   |C7   |F7   |Bb7   ||
+A3: ||Cj7   |E-7 A7 |D-7 G7 |Cj7   ||",2
+9,10,8,8,4,Benny Carter,Just Friends,,1,as,SWING,204.9,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Bbj7   |Bb-7   |Eb7   |Fj7   |Fj7   |Ab-7   |Db7   |G-7   |C7   |A-7   |D-7   |G7   |G7   |G-7   |C7 B7 ||
+B1: ||Bbj7   |Bbj7   |Bb-7   |Eb7   |Fj7   |Fj7   |Ab-7   |Db7   |G-7   |C7   |Em7b5 A7 |D-7   |G7   |G-7 C7 |F6   |C-7 F7 ||",3
+10,11,9,9,3,Benny Carter,Long Ago and Far Away,,1,as,SWING,185.0,UP,SWING,F-maj,4/4,"A1: ||F6 D-7 |G-7 C7 |Fj7   |G-7 C7 |F6   |G-7 C7 |A-7 D7 |G-7 C7 ||
+B1: ||Ab6   |Bb-7 Eb7 |Abj7   |G7   |Cj7   |A-7  D7|G-7   |C7   ||
+A2: ||F6 D-7 |G-7 C7 |Fj7   |G-7 C7 |F6   |G-7 C7 |A-7 D7 |G-7 C7 ||
+C1: ||C-7   |F7   |Bbj7   |Eb7   |F6 D-7 |G-7 C7 |F6   |G-7 C7 |C7   ||",1
+11,12,9,9,3,Benny Carter,Long Ago and Far Away,,2,as,SWING,185.8,UP,SWING,F-maj,4/4,"A1: ||F6 D-7 |G-7 C7 |Fj7 D-7 |G-7 C7 |F6   |G-7 C7 |F6 D7 |G-7 C7 ||
+B1: ||Ab6 F-7 |Bb-7 Eb7 |Abj7   |G7   |Cj7   |A-7   |G-7   |C7   ||
+A2: ||F6 D-7 |G-7 C7 |Fj7 D-7 |G-7 C7 |F6 D-7 |G-7 C7 |F6 D7 |G-7 C7 ||
+C1: ||C-7   |F7   |Bbj7   |Bb-6 Eb7 |F6/A Abo7 |G-7 C7 |F6   |G-7 C7 |F6/A Abo7 |G-7 C7 |F6   |F6   |F6   |F6   ||",1
+12,13,10,10,4,Benny Carter,Sweet Lorraine,,1,as,SWING,91.5,MEDIUM SLOW,SWING,G-maj,4/4,"A1: ||Gj7F7E7 |A-7 D7Ebo|E-7 D-7G7|C7 B7 |E7 A7 |A-7 D7 |Gj7F7E7 |A7 D7 ||
+A2: ||Gj7F7E7 |A-7 D7Ebo|E-7 D-7G7|C7 B7 |E7 A7 |A-7 D7 |G6 C7Dbo|G6/D G7Db7||
+B1: ||Cj7 Bm7b5E7|A-7Ab7G-7C7|F7 E7 |A-7Ab7G-7C7|F7 E7 |Eb7911# D7 |F7 E7 |Eb7911# D7 ||
+A3: ||Gj7F7E7 |A-7 D7Ebo|E-7 D-7G7|C7 B7 |E7 A7 |A-7 D7 |G6F7E7 |A7 D7 ||",1
+13,14,11,11,5,Benny Goodman,Avalon,,1,cl,SWING,241.0,UP,SWING,Eb-maj,4/4,"A1: ||Bb7   |Bb7   |Bb7   |Bb7   |Eb   |Eb   |Eb   |Eb   |Bb7   |Bb7   |Bb7   |Bb7   |Eb   |Eb   |Eb   |Eb   ||
+B1: ||C7   |C7   |C7   |C7   |F-7   |F-7   |Ab-7   |Ab-7   |Eb   |Eb   |C7   |C7   |F-7   |Bb7   |Eb   |Eb   ||",1
+14,15,12,12,6,Benny Goodman,Handful of Keys,,1,cl,SWING,303.1,UP,SWING,Eb-maj,4/4,"A1: ||Eb F-7 |Eb6 Gbo |F- F-7 |F-6 Gbo |F- F-7 |F-6 Bb7 |Eb C-7 |F-7 Bb7 ||
+A2: ||Eb F-7 |Eb6 Gbo |F- F-7 |F-6 Gbo |F- F-7 |F-6 Bb7 |Eb Bbm7b5 |Eb D7 ||
+I1: ",1
+15,16,13,13,5,Benny Goodman,Nobody's Sweetheart,,1,cl,SWING,311.3,UP,SWING,Ab-maj,4/4,"A1: ||Ab   |Ab   |F7   |F7   |F-7   |F-7   |Bb7   |Bb7   |Eb   |Eb   |C7   |C7   |Ab   |Ab   |Eb7   |Eb7   ||
+B1: ||Ab   |Ab   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   |F-   |F-   |Eo   |Eo   |Ab   |Ab   |Bb-   |Eb7   |Ab   |Ab C7 |F7   |F7   |Bb7   |Eb7   |Ab   |Ab   |Ab   |Ab   ||",1
+16,17,14,14,5,Benny Goodman,Runnin' Wild,,1,cl,SWING,285.0,UP,SWING,Bb-maj,4/4,"A1: ||Bb   |Bb   |Bb7   |Bb7   |Eb   |Eb   |Bb   |Bb   |F7   |C-6 D7 |G-   |Bb-6   |F   |C7   |F7   |F7   ||
+B1: ||Bb   |Bb   |Bb7   |Bb7   |Eb   |Eb   |D7   |D7 G7 |C7   |F7   |Bb   |Bb   |F7   |F7   |Bb   |Bb   ||
+I1: ||NC   ||",1
+17,18,15,15,7,Benny Goodman,Tiger Rag,,1,cl,SWING,268.0,UP,SWING,Ab-maj,4/4,"A1: ||Ab   |Ab   |Ab   |Ab   |Ab   |Ab   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Ab   |Ab   ||
+B1: ||Ab   |Ab   |Ab   |Ab   |Ab7   |Ab7   |Db   |Db   |Db   |Db-   |Ab   |F7   |Bb7   |Eb7   |Ab   |Ab   |Ab   |Ab   ||",1
+18,19,15,15,7,Benny Goodman,Tiger Rag,,2,cl,SWING,271.2,UP,SWING,Ab-maj,4/4,"A1: ||Ab   |Ab   |Ab   |Ab   |Ab   |Ab   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Ab   |Ab   ||
+B1: ||Ab   |Ab   |Ab   |Ab   |Ab7   |Ab7   |Db   |Db   |Db   |Db-   |Ab   |F7   |Bb7   |Eb7   |Ab   |Ab   |Db   |Db-   |Ab   |F7   |Bb7   |Eb7   |Ab   |Ab   |Ab   ||",1
+19,20,16,16,5,Benny Goodman,Whispering,,1,cl,SWING,198.6,UP,SWING,Eb-maj,4/4,"A1: ||Eb   |Eb   |D7   |D7   |Eb   |Eb   |C+7   |C7   |F7   |F7   |Bb7   |Bb7   |Eb   |Eb   |Bb7   |Bb+7   ||
+A2: ||Eb   |Eb   |D7   |D7   |Eb   |Eb   |C+7   |C7   |F7   |F7   |Bb7   |Bb7   |F-7   |Bb7   |Eb   |F-7 Bb7 ||
+I1: ||Eb   |Eb   ||",1
+20,21,17,17,8,Ben Webster,Bye Bye Blackbird,,1,ts,SWING,140.8,MEDIUM UP,SWING,G-maj,4/4,"A1: ||Gj7   |Gj7   |Gj7   |Gj7   |Gj7   |Bbo   |A-7   |D7   |A-7   |D7   |A-7   |D7   |A-7   |D7   |Gj7   |Gj7   ||
+B1: ||G7   |G7   |Bm7b5   |E7   |A-7   |A-7   |C-7 F7 |A-7 D7 |Gj7   |Gj7   |Bm7b5   |E7   |A-7   |D7   |Gj7   |Gj7   ||",3
+21,22,18,18,8,Ben Webster,Did You Call Her Today,,1,ts,SWING,118.4,MEDIUM,SWING,Ab-maj,4/4,A1: ||Bb7   |Eb7   |Ab6   |Ab6   |Eb-7   |Ab7   |Db6   |Db6   |Db7   |Do   |Ab6   |F7   |Bb7   |Bb7   |Bb-7   |Eb7   ||,4
+22,23,19,19,8,Ben Webster,My Ideal,,1,ts,SWING,74.2,SLOW,SWING,Bb-maj,4/4,"A1: ||Bbj7 G7 |C-7   |Ab7 G7 |C7   |C-7 F7 |Am7b5 D7 |G-7 C7 |Gb7 F7 ||
+B1: ||Bbj7 G7 |C-7   |Ab7 G7 |C7   |C-7 Db-7 |Bbj7Ebj7G-7C7|Gb7 F7 |Bb6   ||",2
+23,24,20,20,8,Ben Webster,Night and Day,,1,ts,SWING,182.2,UP,SWING,D-maj,4/4,"A1: ||Em7b5   |A7   |Dj7   |Dj7   |Em7b5   |A7   |Dj7   |Dj7   ||
+B1: ||G#m7b5   |G-7   |F#-7   |Fo   |E-7   |A7   |Dj7   |Dj7   ||
+A2: ||Em7b5   |A7   |Dj7   |Dj7   |Em7b5   |A7   |Dj7   |Dj7   ||
+B2: ||G#m7b5   |G-7   |F#-7   |Fo   |E-7   |A7   |Dj7   |C7   ||
+C1: ||Fj7   |Fj7   |Dj7   |Dj7   |Fj7   |Fj7   |Dj7   |Dj7   ||
+B3: ||G#m7b5   |G-7   |F#-7   |Fo   |E-7   |A7   |D6   |E7 A7 ||",2
+24,25,21,21,8,Ben Webster,Where or When,,1,ts,SWING,82.1,MEDIUM SLOW,SWING,Ab-maj,4/4,"A1: ||Abj7   |Abj7   |Abo7   |Abj7   |Dbj7   |Dbj7   |Dbj7   |Bb-7 Ebsus79 |D7 F7 |Bb7 Eb7 ||
+A2: ||Abj7   |Abj7   |Abo7   |Abj7   |Dbj7   |Dbj7   |Dbj7   |Bb-7 Ebsus79 |G-7   |C7   ||
+B1: ||F-7   |Bb7   |G-7   |C7   |F-7   |Bb7   |Bb7 E7911# |Eb7   ||
+A3: ||Abj7   |D-7 G7 |Db7911# C7 |F-7   |Bb-7   |C-7 F7 |Bb-7   |F7   |Bb-7   |Eb7   |Ab69   |Ab69   ||
+I1: ||NC   ||",1
+25,26,22,22,9,Bix Beiderbecke,I'm Coming Virginia,,1,cor,TRADITIONAL,131.5,MEDIUM,TWOBEAT,F-maj,4/4,"A1: ||F Abo |F6Bbj7A-7D-7|D7 G7 |C7 F7 |Bb A7 |G7 C7 |F7 G-7 |C7G-7EboC7||
+A2: ||F Abo |F   |A-   |A-   |Bm7b5 E7 |Am7b5 D7 |Gbj7 C7 |F7 F ||
+B1: ||Bb6 G-7 |G-7 D- |D-6   |C D7 |G-7   |G7 C7 |F7 G-7 |F   ||",2
+26,27,23,23,10,Bix Beiderbecke,Margie,,1,cor,TRADITIONAL,180.0,UP,TWOBEAT,Eb-maj,4/4,"A1: ||Eb   |Eb   |Eb   |Eb7   |Ab   |Ab   |G7   |G7   |Eb   |Eb   |EbEb7D7Db7|C7   |F-7   |Bb7   |Eb   |Bb7   ||
+I1: ||Eb   ||",1
+27,28,24,24,10,Bix Beiderbecke,Riverboat Shuffle,,1,cor,TRADITIONAL,210.9,UP,TWOBEAT,Ab-maj,4/4,"A1: ||Ab   |Ab  Ao|Eb7   |Eb7   |Ab   |Ab  Ao|Eb7   |Eb7   |Ab   |Ab7   |Db   |Db7 C7B7|Bb7   |Bb7   |Eb7NC  |NC   ||
+B1: ||Ab   |Ab  Ao|Eb7   |Eb7   |Ab7   |Ab7   |Db   |Db   |Db-   |Db-   |Ab   |F7   |Bb7   |Eb7   |Ab   ||",1
+28,29,25,25,10,Bix Beiderbecke,Royal Garden Blues,,1,cor,TRADITIONAL,174.1,MEDIUM UP,TWOBEAT,Bb-maj,4/4,A1: ||Bb   |Bb   |Bb   |Bb   |Eb   |Eb   |Bb   |G7   |C-7   |F7   |Bb   |Bb   |NC   ||,1
+29,30,26,26,9,Bix Beiderbecke,Singin the Blues,,1,cor,TRADITIONAL,134.0,MEDIUM,TWOBEAT,Eb-maj,4/4,"A1: ||F-7   |F-7 Bb7 |Eb   |EbAbEbEbo|Bb7   |Bb7   |Eb   |Eb EboEb||
+B1: ||G7  D-7|G7 CoFo|C7   |C7   |C- C-7 |F7   |Bb7   |Bb7  Ebo||
+C1: ||F-7   |F-7 Bb7 |Eb   |Eb FoEbo|Eo   |Eo C7 |F-  C7|F- C7F-|F-7   |Ebo   |Eb   |Eo C7 |F7   |F7 Bb7 |Eb   |Eb   ||",1
+30,31,27,27,11,Bob Berg,Angles,,1,ts,POSTBOP,270.1,UP,SWING,Ab-maj,4/4,"A1: ||Abj7   |Abj7   |Abj7   |Abj7   |C-7   |C-7   |C-7   |C-7   |Db7   |Db7   |Db7   |Db7   |Eb7   |Eb7   |Eb7   |Eb7   ||
+A2: ||Abj7   |Abj7   |Abj7   |Abj7   |C-7   |C-7   |C-7   |C-7   |Db7   |Db7   |Db7   |Db7   |Eb7   |Eb7   |Eb7   |Eb7   ||
+B1: ||F-7   |F-7   |F-7   |F-7   |Db7911#   |Db7911#   |Db7911#   |Db7911#   |G79#   |G79#   |G79#   |G79#   |D7alt   |D7alt   |D7alt   |D7alt   ||",3
+31,32,28,28,11,Bob Berg,Blues for Bela,,1,ts,POSTBOP,249.4,UP,SWING,C-min,4/4,A1: ||C-7   |C-7   |C-7   |C-7   |F-7   |F-7   |C-7   |C-7   |Ab7   |G7   |C-7   |G7   ||,8
+32,33,29,29,12,Bob Berg,I Didn't Know What Time It Was,,1,ts,POSTBOP,126.7,MEDIUM,SWING,F-maj,4/4,"A1: ||E-7 A7 |D-7 Bm7b5 |E-7 A7 |D-7 G7 |G-7 C7 |D-   |Bbj7 A-7 |G-7 F-7 ||
+A2: ||E-7 A7 |D-7 Bm7b5 |E-7 A7 |D-7 G7 |G-7 C7 |D-   |Bbj7 A-7 |G-7 C7 ||
+B1: ||F6 D-7 |Em7b5   |A7   |D-7 C-7F7|Bbj7 A+7 |D-7   |Gsus79 G7913 |G-7 F-7 ||
+A3: ||E-7 A7 |D-7 Bm7b5 |E-7 A7 |D-7 G7 |G-7 C7 |D-   |Bbj7 A-7 |Bb-7 Eb7 |A-7 D7 |G-7 Csus7 |F6   |F6   ||",3
+33,34,30,30,13,Bob Berg,Nature of the Beast,,1,ts,POSTBOP,131.8,MEDIUM,LATIN,C-min,4/4,A1: ||Fsus   ||,1
+34,35,31,31,13,Bob Berg,No Moe,,1,ts,POSTBOP,161.8,MEDIUM UP,SWING,Bb-maj,4/4,"A1: ||Bb G7 |C-7 F+7 |Bb G7 |C-7 F+7 |F-7 Bb7 |Ebj7 Eo |D-7 G+7 |C-7 F+7 ||
+A2: ||Bb G7 |C-7 F+7 |Bb G7 |C-7 F+7 |F-7 Bb7 |Ebj7 Eo |C-7 F7 |Bb   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bb G7 |C-7 F+7 |Bb G7 |C-7 F+7 |F-7 Bb7 |Ebj7 Eo |C-7 F7 |Bb   ||",2
+35,36,32,32,11,Bob Berg,Second Sight,,1,ts,FUSION,114.3,MEDIUM,FUNK,Bb-maj,4/4,"A1: ||Bb   |Bb   |Bb   |Bb   |Db   |Eb   |Bb   |Bb   ||
+B1: ||Gb7911#   |Ab   |Bb   |Bb   ||",3
+36,37,33,33,14,Bob Berg,You and the Night and the Music,,1,ts,POSTBOP,167.1,MEDIUM UP,LATIN,G-min,4/4,"A1: ||C-69   |Dm7b5 G7 |Gm7b5 C79b |F-6   |Dm7b5   |G79b   |Cj7   |Dm7b5 G7 ||
+A2: ||C-69   |Dm7b5 G7 |Gm7b5 C79b |F-6   |Dm7b5   |G79b   |Cj7   |C7   ||
+B1: ||Ab7   |Am7b5 D79b |G7   |G7   |Ab7   |Am7b5 D79b |G7 Ab7 |G7 Db7911# ||
+A3: ||C-69   |Dm7b5 G7 |Gm7b5 C79b |F-6   |Dm7b5 G79b |C-7 Am7b5 |Ab7 G7 |C-69   ||",2
+37,38,34,34,15,Branford Marsalis,Gutbucket Steepy,,1,ts,POSTBOP,70.1,SLOW,SWING,Db-maj,4/4,A1: ||Db7   |Gb7   |Db7   |Db7   |Gb7   |Gb7   |Db7 C7 |F-7 Bb7 |Eb-7   |Ab7   |Db7   |Eb-7 Ab7 ||,5
+38,39,35,35,15,Branford Marsalis,Housed from Edward,,1,ts,POSTBOP,126.6,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-7   |C7   |F7 D7 |G-7 C7 ||,10
+39,40,35,35,15,Branford Marsalis,Housed from Edward,,2,ts,POSTBOP,121.9,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-7   |C7   |F7 D7 |G-7 C7 ||,2
+40,41,36,36,15,Branford Marsalis,The Nearness of You,,1,ts,POSTBOP,36.8,SLOW,SWING,D-maj,4/4,"A1: ||Dj7   |A-7 Dsus7 |Gj7   |Go7   |F#-7 B7 |E-7 A7 |F#-7 B7 |E-7 A7 ||
+A2: ||Dj7   |A-7 Dsus7 |Gj7   |Go7   |F#-7 B7 |E-7 A7 |Dj7 C7 |D6   ||
+B1: ||E-7   |A7   |Dj7   |A-7 D7 |Gj7   |F#m7b5 B7 |E7   |E-7 A7 ||
+A3: ||Dj7   |A-7 Dsus7 |Gj7   |Go7   |F#-7 B7 |E-7 A7 |Dj7 B-7 |E-7 A7 ||",2
+41,42,37,37,15,Branford Marsalis,Three Little Words,,1,ts,POSTBOP,264.3,UP,SWING,C-maj,4/4,"A1: ||Cj7   |Cj7   |Cj7   |Eb-7 Ab79 |D-7   |G7   |D-7   |G7   ||
+A2: ||Cj7   |Cj7   |Cj7   |Eb-7 Ab79 |D-7   |G7   |D-7   |G7   ||
+B1: ||G-7   |G-7   |Csus79   |C7   |Fj7   |Fj7   |Bb7 A7 |Ab7 G7 ||
+A3: ||Cj7   |Cj7   |Cj7   |Eb-7 Ab79 |D-7   |G7   |C6   |D-7 G7 ||",7
+42,43,38,38,15,Branford Marsalis,U.M.M.G.,,1,ts,POSTBOP,211.6,UP,SWING,Db-maj,4/4,"A1: ||Fm7b5   |Bb79b   |Eb-7   |Ab7   |Dbo7 Db6 |Dbj7   |Db-7   |Gb7   ||
+A2: ||Fm7b5   |Bb79b   |Eb-7   |Ab7   |Dbo7 Db6 |Dbj7   |Ab-7 Db7 |Ab-7 Db7 ||
+B1: ||Gm7b5   |C79b   |Fj7   |Fj7   |Abm7b5   |Db79b   |Gb-   |Ab7   ||
+A3: ||Fm7b5   |Bb79b   |Eb-7   |Ab7   |Dbo7   |Db6   |Dbo7   |Db6   ||",6
+43,44,39,39,16,Buck Clayton,After Theatre Jump,,1,tp,SWING,175.9,MEDIUM UP,SWING,Db-maj,4/4,"A1: ||Db Bb7 |Eb-7 Ab7 |Db Bb-7 |Eb-7 Ab7 |Db Db7 |Gb7 Gb- |Db Bb-7 |Eb-7 Ab7 ||
+A2: ||Db Bb7 |Eb-7 Ab7 |Db Bb-7 |Eb-7 Ab7 |Db Db7 |Gb Gb- |Db Bb-7 |Eb-7 Ab7 ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Eb7   |Ab7   ||
+A3: ||Db Bb7 |Eb-7 Ab7 |Db Bb-7 |Eb-7 Ab7 |Db Db7 |Gb Gb- |Db Bb-7 |Eb-7 Ab7 ||
+I1: ||NC   ||",1
+44,45,40,40,16,Buck Clayton,Destination K.C.,,1,tp,SWING,248.0,UP,SWING,C-maj,4/4,"A1: ||C   |C   |G7   |C   |C   |C   |G7   |C   ||
+A2: ||C   |C   |G7   |C   |C   |C   |G7   |C   ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Ab7   |G7   ||
+A3: ||C   |G7   |G7   |C   |C   |C   |G7   |C   ||",2
+45,46,41,41,17,Buck Clayton,Dickie's Dream,,1,tp,SWING,230.8,UP,SWING,C-min,4/4,"A1: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+A2: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Eb7   |D- G7 ||
+A3: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+I1: ||C- C-/Bb |Ab G7 ||",1
+46,47,42,42,18,Cannonball Adderley,High Fly,,1,as,HARDBOP,128.9,MEDIUM,SWING,Bb-maj,4/4,"A1: ||D-7   |G7   |Cj7 F7 |E-7 A-7 |C-7   |F7   |Bb7   |B7   ||
+A2: ||D-7   |G7   |Cj7 F7 |E-7 A-7 |C-7   |B7   |Dm7b5   |G79b   ||
+B1: ||Cm7b5   |F7   |D-7   |G79b   |Cm7b5   |F7   |E-7 A-7 |Eb-7 Ab-7 ||
+A3: ||D-7   |G7   |Cj7 F7 |E-7 A-7 |C-7   |F7   |Bb6   |B7913   ||",2
+47,48,43,43,19,Cannonball Adderley,So What,,1,as,POSTBOP,142.2,MEDIUM UP,SWING,D-dor,4/4,"A1: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||
+A2: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||
+B1: ||Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   ||
+A3: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||",2
+48,49,44,44,20,Cannonball Adderley,Star Eyes,,1,as,HARDBOP,193.9,UP,SWING,Eb-maj,4/4,"A1: ||Ebj7   |F- Bb7 |Ebj7   |Eb- Ab7 |Dbj7   |Go C7 |Fj7   |Fo Bb7 ||
+A2: ||Ebj7   |F- Bb7 |Ebj7   |Eb- Ab7 |Dbj7   |Go C7 |Fj7   |Bb79 Eb7 ||
+B1: ||Abj7   |Abj7   |Ab-   |Db7   |Gbj7   |Gbj7   |F-   |Bb7   ||
+C1: ||Ebj7   |F- Bb7 |Ebj7   |Eb- Ab7 |Dbj7   |Go C7 |Fj7   |Bb79   |Eb7 D7 |C7 F- |Bb7 Ebj7 |Bb7   ||",2
+49,50,45,45,21,Cannonball Adderley,This Here,,1,as,HARDBOP,174.7,MEDIUM UP,SWING,F-maj,3/4,A1: ||F7  |F7  |F7  |F7  |F7  |F7  |F7NC |NC  |Bb7  |Bb7  |Bb7  |Bb7  |F7  |F7  |F7  |F7  |Bb7  |Bb7  |Bb7A7 |A7  |Ab7  |Ab7  |G7  |G7  |Ab7  |Ab7  |G7  |C7  |F7  |F7  |F7  |F7  ||,5
+50,51,46,46,22,Cannonball Adderley,Work Song,,1,as,HARDBOP,156.3,MEDIUM UP,SWING,F-min,4/4,A1: ||F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |G7   |C7   |F-7   |F-7   |F-7   |F-7   |F7   |Bb7   |G7 C7 |F-7   ||,4
+51,52,47,47,23,Charlie Parker,Billie's Bounce,,1,as,BEBOP,158.5,MEDIUM UP,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-   |C7   |F7   |C7   ||,4
+52,53,48,48,24,Charlie Parker,Blues for Alice,,1,as,BEBOP,168.9,MEDIUM UP,SWING,F-maj,4/4,A1: ||Fj7   |Em7b5 A79b |D-7 G7 |C-7 F7 |Bb7   |Bb-7 Eb7 |A-7 D7 |Ab-7 Db7 |G-7   |C7   |Fj7 D-7 |G-7 C7 ||,3
+53,54,49,49,25,Charlie Parker,Don't Blame Me,,1,as,BEBOP,63.7,SLOW,SWING,C-maj,4/4,"A1: ||C6 F-7Bb7|E-7 A7 |D-7 G7 |Cj7 A-7 |D-7 G7 |Em7b5 A7 |D-7 G7 |C6A7D-7G7||
+A2: ||C6 F-7Bb7|E-7 A7 |D-7 G7 |Cj7 A-7 |D-7 G7 |Em7b5 A7 |D-7 G7 |C6 G-7C7||
+B1: ||Fj7   |E7   |A-7   |A-7   |D7   |D7   |D-7 Ab7 |G7   ||
+A3: ||C6 F-7Bb7|A7   |D-7 G7 |Cj7 A-7 |D-7 G7 |Em7b5 A7 |D-7 G7 |C6A7D-7G7||",1
+54,55,50,50,25,Charlie Parker,Donna Lee,,1,as,BEBOP,225.7,UP,SWING,Ab-maj,4/4,"A1: ||Ab   |F7   |Bb7   |Bb7   |Bb-7   |Eb7   |Ab   |Eb-7 D7 |Db   |Db-7   |Ab   |F7   |Bb7   |Bb7   |Bb-7   |Eb7   ||
+B1: ||Ab   |F7   |Bb7   |Bb7   |C7   |C7   |F-   |C79#   |F-   |C7   |F-   |Abo   |Ab F7 |Bb-7 Eb7 |Ab   |Bb-7 Eb7NC||",2
+55,56,51,51,25,Charlie Parker,Embraceable You,,1,as,BEBOP,72.3,SLOW,SWING,F-maj,4/4,"A1: ||F6   |Abo   |G-7   |C7   |G-7 G-/F |Gm7b5 C7 |F6   |E7 A7 |D-7   |Bm7b5 E7 |A-7   |Fm7b5 F-7 |E-7 A7 |D-7 G7 |C7   |G-7 C7 ||
+B1: ||F6   |Abo   |G-7   |C7   |G-7 G-7/F |Gm7b5 C7 |F6 D-7 |C-7 F7 |Bbj7   |Em7b5 A79b |D-7   |Bm7b5 Bb-7 |A-7 D7 |G-79b C79b |A-7 D7 |G-7 C7 ||
+I1: ||F6   ||",1
+56,57,52,52,26,Charlie Parker,How Deep Is the Ocean,,1,as,BEBOP,71.9,SLOW,SWING,C-min,4/4,"A1: ||C-7   |Bo7   |Eb6/Bb   |Am7b5 D7 |G-7   |Am7b5 D79b |G-7 Gb7 |F-7 Bb7 ||
+B1: ||Bb-7   |Eb7   |Eb-7   |Ab7   |B7   |B7   |Bb7   |Dm7b5 G79b ||
+A2: ||C-7   |Bo7   |Eb6/Bb   |Am7b5 D7 |G-7   |Am7b5 D7 |G-7 Gb7 |F-7 Bb7 ||
+C1: ||Bb-7   |Gm7b5 C79b |F-7   |Db7   |Eb/Bb G7/B |C-7 F7 |F-7 Bb7 |Eb69 Dm7b5G7||",1
+57,58,53,53,24,Charlie Parker,K.C. Blues,,1,as,BEBOP,118.3,MEDIUM,SWING,C-maj,4/4,A1: ||C7   |F7   |C7   |C7   |F7   |F7   |C7   |E-7 A7 |D-7   |G7   |C7 A7 |D-7 G7 ||,2
+58,59,54,54,23,Charlie Parker,Ko-Ko,,1,as,BEBOP,299.4,UP,SWING,Bb-maj,4/4,"B1: ||C#-7   |F#7   |Bj7   |Bj7   |B-7   |E7   |Aj7   |Aj7   |A-7   |D7   |Gj7   |Gj7   |G-7   |C7   |C-7   |F7   ||
+A3: ||Bb6   |Bb6   |F-7   |Bb7   |Ebj7   |Ebj7   |Ab7   |Ab7   |Bb6   |Bb6   |C7   |C7   |C-7   |F7   |Bb6   |Bb6   ||",1
+59,60,55,55,24,Charlie Parker,My Little Suede Shoes,,1,as,BEBOP,145.9,MEDIUM UP,LATIN,Eb-maj,4/4,"A1: ||F-7 Bb7 |Ebj7   |F-7 Bb7 |Ebj7   |F-7 Bb7 |G-7 C7 |F-7 Bb7 |Ebj7   ||
+A2: ||F-7 Bb7 |Ebj7   |F-7 Bb7 |Ebj7   |F-7 Bb7 |G-7 C7 |F-7 Bb7 |Ebj7   ||
+B1: ||Abj7   |G-7 C7 |F-7 Bb7 |Ebj7   |Abj7   |G-7 C7 |F-7 Bb7 |Ebj7   ||
+A3: ||F-7 Bb7 |Ebj7   |F-7 Bb7 |Ebj7   |F-7 Bb7 |G-7 C7 |F-7 Bb7 |Ebj7   ||",1
+60,61,56,56,23,Charlie Parker,Ornithology,,1,as,BEBOP,221.0,UP,SWING,G-maj,4/4,"A1: ||Gj7   |Gj7   |G-7 C7 |G-7 C7 |Fj7   |Fj7   |F-7   |Bb7   ||
+B1: ||Eb7   |D7   |G-   |Cm7b5 D7 |B-7   |E7   |A-7   |D7   ||
+A2: ||Gj7   |Gj7   |G-7 C7 |G-7 C7 |Fj7   |Fj7   |F-7   |Bb7   ||
+B2: ||Eb7   |D7   |G   |A-7 D7 |G/B Bb7 |A-7 Ab7 |Gj7   |A-7 D7 ||
+I1: ",1
+61,62,57,57,25,Charlie Parker,Out of Nowhere,,1,as,BEBOP,67.6,SLOW,SWING,G-maj,4/4,"A1: ||Gj7   |Gj7   |Bb-7   |Eb7   |Gj7   |Gj7   |B-7   |E7   |A-7   |E7   |A-7   |A-7   |Eb7   |Eb7   |A-7   |D7   ||
+B1: ||Gj7   |Gj7   |Bb-7   |Eb7   |Gj7   |Gj7   |B-7   |E7   |A-7   |E7   |A-7   |C-6   |B-7 Bbo |A-7 D7 |G6   |A-7 D7 ||",1
+62,63,58,58,25,Charlie Parker,Scrapple from the Apple,,1,as,BEBOP,165.0,MEDIUM UP,SWING,F-maj,4/4,A1: ||G-7   |C7   |G-7   |C7   |Fj7 F7 |Bbj7 Bo7 |Fj7 Gj7 |A-7 D7 ||,2
+63,64,59,59,26,Charlie Parker,Segment,,1,as,BEBOP,246.9,UP,SWING,Bb-min,4/4,"A1: ||Bb-6   |C-7 F79b |Bb-6   |C-7 F79b |Bb-6   |Cm7b5 F79b |Bb-6   |F+7   ||
+A2: ||Bb-6   |C-7 F79b |Bb-6   |C-7 F79b |Bb-6   |C-7 F79b |Bb-6   |Bb-6   ||
+B1: ||F-7   |Bb7   |Eb-   |Eb-   |Eb-   |Ab7   |Db   |F79b   ||
+A3: ||Bb-6   |C-7 F79b |Bb-6   |C-7 F79b |Bb-6   |Cm7b5 F79b |Bb-6   |F+7   ||",2
+64,65,60,44,26,Charlie Parker,Star Eyes,,1,as,BEBOP,133.8,MEDIUM,SWING,Eb-maj,4/4,"A1: ||Ebj7   |F-7 Bb7 |Ebj7   |Eb-7 Ab7 |Dbj7   |Gm7b5 C+7 |Fj7   |Fm7b5 Bb7 ||
+A2: ||Ebj7   |F-7 Bb7 |Ebj7   |Eb-7 Ab7 |Dbj7   |Gm7b5 C+7 |Fj7   |Fm7b5 Bb7Eb7||
+B1: ||Abj7   |Abj7   |Ab-7   |Db7   |Gbj7   |Gbj7   |Fm7b5   |Bb7 Bb7913 ||
+A3: ||Ebj7   |F-7 Bb7 |Ebj7   |Eb-7 Ab7 |Dbj7   |Gm7b5 C+7 |Fj7   |Fm7b5 Bb7 |Eb7 D7 |Db7 C7 |F-7 Bb7 |Eb6   ||",1
+65,66,61,60,26,Charlie Parker,Steeplechase,,1,as,BEBOP,175.2,MEDIUM UP,SWING,Bb-maj,,"A1: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 Bb7 |Eb6 Eb-7 |Bbj7 G7 |C-7F7Bbj7 ||
+A2: ||Bb G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 Bb7 |Eb6 Eb-7 |Bbj7 G7 |C-7F7Bbj7 ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 Bb7 |Eb6 Eb-7 |Bbj7 G7 |C-7F7Bbj7 ||",1
+66,67,62,61,27,Charlie Parker,Thriving on a Riff,,1,as,BEBOP,227.2,UP,SWING,Bb-maj,4/4,"A1: ||Bb G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 Bb7 |Eb7 Ab7 |D-7 G7 |C-7 F7 ||
+A2: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 Bb7 |Eb7 Ab7 |C-7 F7 |Bbj7   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 Bb7 |Eb7 Ab7 |C-7 F7 |Bbj7   ||",2
+67,68,63,62,23,Charlie Parker,Yardbird Suite,,1,as,BEBOP,209.8,UP,SWING,C-maj,4/4,"A1: ||C6   |F-7 Bb7 |C7 Bb7 |A7   |D7   |G7   |E-7 A7 |D-7 G7 ||
+A2: ||C6   |F-7 Bb7 |C7 Bb7 |A7   |D7   |G7   |C6   |F#m7b5 B79b ||
+B1: ||E-7   |F#m7b5 B79b |E-7   |A7   |D-7   |Em7b5 A7 |D7   |D-7 G7 ||
+A3: ||C6   |F-7 Bb7 |C7 Bb7 |A7   |D7   |G7   |C6   |D-7 G7 ||",1
+68,69,64,63,28,Charlie Shavers,Limehouse Blues,,1,tp,TRADITIONAL,269.1,UP,TWOBEAT,Ab-maj,4/4,"A1: ||Db79   |Db79   |Db79   |Db79   |Bb79   |Bb79   |Bb79   |Bb79   |Ab   |Ab   |C7   |F-   |Bb7   |Bb7   |Eb7   |Ab7   ||
+B1: ||Db79   |Db79   |Db79   |Db79   |Bb7   |Bb7   |Bb7   |Bb7   |Ab   |F7   |Bb- F7 |Bb-   |Bbm7b5   |Eb7   |Ab   |Ab   ||
+I1: ||Ab   |Ab   ||",1
+69,70,65,64,29,Chet Baker,I Fall in Love Too Easily,,1,tp,COOL,65.2,SLOW,SWING,Eb-maj,4/4,"A1: ||F-7 Bb7 |Ebj7 C-7 |Dm7b5 G79b |C-7   |Dm7b5 G79b |C-7   |D7 Ab7911# |Gj7   ||
+B1: ||Am7b5 D79# |G7   |G-7 C7 |F-7 C7 |F-7 Bb79 |Db7911# C7 |F-7 Bb7913 |Eb6   ||
+I1: ",1
+70,71,66,8,29,Chet Baker,Just Friends,,1,tp,COOL,189.9,UP,SWING,G-maj,4/4,"A1: ||Cj7   |Cj7   |C-7   |F7   |F7   |F7   |Bb-7   |Eb7   ||
+B1: ||A-7   |D7   |B-7   |E-7   |A7   |A7   |A-7   |D7 Db7 ||
+A2: ||Cj7   |Cj7   |C-7   |F7   |Gj7   |Gj7   |Bb-7   |Eb7   ||
+B2: ||A-7   |D7   |B-7   |E-7   |A7   |A-7 D7 |G6   |D-7 G7 ||",2
+71,72,67,65,29,Chet Baker,Let's Get Lost,,1,tp,COOL,157.5,MEDIUM UP,SWING,C-maj,4/4,"A1: ||Cj7   |F#m7b5   |Cj7   |F#-7 B7 |Em7b5   |A7   |Em7b5   |A7   ||
+B1: ||D-7   |G7   |Cj7   |F#m7b5 B7 |E-7   |A7   |D7   |D-7 G7 ||
+A2: ||Cj7   |F#m7b5   |Cj7   |F#m7b5 B7 |Em7b5   |A7   |Em7b5   |A7   ||
+C1: ||D-7   |G7   |Cj7 F7 |E7 A-7 |D-7   |G7   |Cj7   |D-7 G7 |G7   ||",1
+72,73,68,9,29,Chet Baker,Long Ago and Far Away,,1,tp,COOL,177.5,MEDIUM UP,SWING,G-maj,4/4,"A1: ||G6 E-7 |A-7 D7 |Gj7 E-7 |A-7 D7 |G6 E-7 |A-7 D7 |G6 E7 |A-7 D7 ||
+B1: ||Bb6 G-7 |C-7 F7 |Bbj7   |A7   |Dj7   |B-7   |A-7   |D7   ||
+A2: ||G6 E-7 |A-7 D7 |Gj7 E-7 |A-7 D7 |G6 E-7 |A-7 D7 |G6 E7 |A-7 C7 ||
+C1: ||D-7   |G7   |Cj7   |C-7 F7 |G6 Bbo |A-7 D7 |G6   |A-7 D7 ||",1
+73,74,69,66,29,Chet Baker,There Will Never Be Another You,,1,tp,COOL,168.7,MEDIUM UP,SWING,F-maj,4/4,"A1: ||Fj7   |Fj7   |Em7b5   |A7   |D-7   |D-7   |C-7   |F7   ||
+B1: ||Bbj7   |Eb7911#   |Fj7   |D-7   |G7   |G7   |G-7   |C7   ||
+A2: ||Fj7   |Fj7   |Em7b5   |A7   |D-7   |D-7   |C-7   |F7   ||
+C1: ||Bbj7   |Eb7911#   |Fj7   |Bm7b5 E7 |Fj7 Bb7 |A-7 D7 |G-7 C7 |Fj7 C7 ||
+I1: ||NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   ||",1
+74,75,69,66,29,Chet Baker,There Will Never Be Another You,,2,tp,COOL,169.8,MEDIUM UP,SWING,F-maj,4/4,"A1: ||Fj7   |Fj7   |Em7b5   |A7   |D-7   |D-7   |C-7   |Bb7   ||
+B1: ||Bbj7   |Eb7911#   |Fj7   |D-7   |G7   |G7   |G-7   |C7   ||
+A2: ||Fj7   |Fj7   |Em7b5   |A7   |D-7   |D-7   |C-7   |F7   ||",1
+75,76,70,67,30,Chet Baker,Two's Blues,,1,tp,COOL,202.2,UP,SWING,G-min,4/4,A1: ||G-7   |G-7   |G-7   |G-7   |C-7   |C-7   |G-7   |G-7   |Eb7alt   |D7   |G-7   |D7 C-7 ||,4
+76,77,71,68,30,Chet Baker,You'd Be So Nice to Come Home to,,1,tp,COOL,225.4,UP,SWING,G-min,4/4,A1: ||G-7   |A7 D7 |G-7   |G-7   |F-7   |Bb7   |Ebj7   |Ebj7   |Am7b5   |D7   |Gbo7   |G-7   |Em7b5   |A7   |Am7b5   |D7   ||,4
+77,78,72,1,31,Chris Potter,Anthropology,,1,ts,POSTBOP,245.3,UP,SWING,Bb-maj,4/4,"A1: ||Bb6 G7 |C-7 F7 |Bb6 G-7 |C-7 F7 |F-7 Bb7 |Eb7 Ab7 |D-7 G7 |C-7 F7 ||
+A2: ||Bb6 G7 |C-7 F7 |Bb6 G-7 |C-7 F7 |F-7 Bb7 |Eb7 Ab7 |C-7 F7 |Bb6   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bb6 G7 |C-7 F7 |Bb6 G-7 |C-7 F7 |F-7 Bb7 |Eb7 Ab7 |C-7 F7 |Bb6   ||",4
+78,79,73,69,32,Chris Potter,Arjuna,,1,ts,FUSION,117.7,MEDIUM,FUNK,D-chrom,4/4,A1: ||D   ||,1
+79,80,74,70,33,Chris Potter,In a Sentimental Mood,,1,ts,POSTBOP,48.6,SLOW,SWING,D-min,4/4,"A1: ||D- D-j7 |D-7 D-6 |G- G-j7 |G-7 G-6A7|D-   |D7   |G-7 C7 |Fj7 Em7b5A7||
+A2: ||D- D-j7 |D-7 D-6 |G- G-j7 |G-7 G-6A7|D- NC |D7  NC|G-7 C7 |Fj7 Eb-7Ab7||
+B1: ||Dbj7 Bb-7 |Eb-7 Ab7 |Db7 Bb7 |Eb7 Ab7 |Dbj7 Bb-7 |Eb-7 Ab7 |G-7   |C7/G   ||
+I1: ||NC   ||",1
+80,81,75,71,34,Chris Potter,"Item 1, D.I.T.",,1,ts,POSTBOP,301.0,UP,SWING,C-maj,4/4,A1: ||C   |Ab7   |Db7   |Gb Go |Ab7   |Ab7   |Ab7   |Db Do |Eb7   |Eb7   |Eb7   |B7   |E7   |A Bbo |B7   |G7   ||,18
+81,82,76,72,32,Chris Potter,Pop Tune #1,,1,ts,FUSION,108.6,MEDIUM SLOW,FUNK,G-min,4/4,A1: ||G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |Bb-7   |Bb-7   |G7   |G7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   |G-7   |Bb-7   |Bb-7   |G-7   ||,1
+82,83,77,73,35,Chris Potter,Rumples,,1,ts,FUSION,134.9,MEDIUM,FUNK,F-min,4/4,"A1: ||F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   ||
+I1: ",1
+83,84,78,74,32,Chris Potter,Togo,,1,ts,FUSION,112.0,MEDIUM,FUNK,F-min,4/4,A1: ||G-7   ||,1
+84,85,79,75,36,Chu Berry,Body and Soul,,1,ts,SWING,81.9,MEDIUM SLOW,SWING,C-maj,4/4,"A1: ||D-7 A79b |D-7 Db7 |Cj7 F7 |E-7 Ebo7 |D-7   |Bm7b5 E7 |A-7D7D-7G7|C6 A7 ||
+A2: ||D-7 A79b |D-7 Db7 |Cj7 F7 |E-7 Ebo7 |D-7   |Bm7b5 E7 |A-7D7D-7G7|C Ab7 ||
+B1: ||Dbj7 Eb-7 |Db/F Gb-7B7|F-7Bb-7Eb-7Ab7|Dbj7   |Db-7 Gb7 |Bj7 D- |Db-7 Gb7 |B7Bb7A7 ||
+A3: ||D-7 A79b |D-7 Db7 |Cj7 F7 |E-7 Ebo7 |D-7   |Bm7b5 E7 |A-7D7D-7G7|C6 NC ||",1
+85,86,79,75,36,Chu Berry,Body and Soul,,2,ts,SWING,92.5,MEDIUM SLOW,SWING,C-maj,4/4,"B1: ||Dj7 E-7 |D/F# G-7C7|F#-7B-7E-7A7|Dj7   |D-7 G7 |Cj7 Eb- |D-7 G7 |C7B7Bb7 ||
+A3: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Em7b5 |Eb-7   |Ab F7 |Bb-7   ||",1
+86,87,80,76,37,Clifford Brown,A Night in Tunisia,,1,tp,HARDBOP,189.7,UP,SWING,D-min,4/4,"A1: ||Eb7   |D-6   |Eb7   |D-6   |Eb7   |D-6   |Em7b5 A7 |D-6   ||
+A2: ||Eb7   |D-6   |Eb7   |D-6   |Eb7   |D-6   |Em7b5 A7 |D-6   ||
+B1: ||Am7b5   |D79b   |G-7   |G-7   |Cm7b5   |C79b   |Fj7   |Em7b5 A7 ||
+A3: ||Eb7   |D-6   |Eb7   |D-6   |Eb7   |D-6   |Em7b5 A7 |D-6   ||",3
+87,88,81,77,38,Clifford Brown,Daahoud,,1,tp,HARDBOP,240.9,UP,SWING,Eb-maj,4/4,"A1: ||Eb-7 Ab7 |Db-7 Gb7 |Bj7   |F-7 Bb7 |Eb-7   |B7 Bb7 |Ebj7   |Ebj7   ||
+A2: ||Eb-7 Ab7 |Db-7 Gb7 |Bj7   |F-7 Bb7 |Eb-7   |B7 Bb7 |Ebj7   |Ebj7   ||
+B1: ||Bb-7   |Eb7   |Abj7   |Abj7   |Ab-7   |Db7   |Gbj7   |F-7 Bb7 ||
+A3: ||Eb-7 Ab7 |Db-7 Gb7 |Bj7   |F-7 Bb7 |Eb-7   |B7 Bb7 |Ebj7   |Ebj7   ||",2
+88,89,82,78,39,Clifford Brown,George's Dilemma,,1,tp,HARDBOP,154.8,MEDIUM UP,A:LATIN/B:SWING,Db-min,4/4,"A1: ||Db-7   |Dj7   |Db-7   |B7   |Db-7   |Db-7   |Eb7 Ab7 |Db-7   ||
+A2: ||Db-7   |Dj7   |Db-7   |B7   |Db-7   |Db-7   |Eb7 Ab7 |Db-7   ||
+B1: ||Gb-7   |B7   |Ab-7 Aj7 |Ab-7 Go |Gb-7   |B7   |Ej7 Aj7 |Dj7 Eb-7Ab7||
+A3: ||Db-7   |Dj7   |Db-7   |B7   |Db-7   |Db-7   |Eb7 Ab7 |Db-7   ||",2
+89,90,83,79,40,Clifford Brown,I'll Remember April,Alternate Take 2,1,tp,HARDBOP,291.5,UP,SWING,G-maj,4/4,"A1: ||Gj7   |G6   |Gj7   |G6   |G-7   |G-6   |G-7   |G-6   |Am7b5   |D7   |Bm7b5   |E7   |A-7   |D7   |Gj7   |Gj7   ||
+B1: ||C-7   |F7   |Bbj7   |G-7   |C-7   |F7   |Bbj7   |Bb6   |A-7   |D7   |Gj7   |G6   |F#-7   |B7   |Ej7   |A-7 D7 ||
+A2: ||Gj7   |G6   |Gj7   |G6   |G-7   |G-6   |G-7   |G-6   |Am7b5   |D7   |Bm7b5   |E7   |A-7   |D7   |Gj7   |Gj7   ||",2
+90,91,84,79,41,Clifford Brown,I'll Remember April,,1,tp,HARDBOP,285.4,UP,SWING,G-maj,4/4,"A1: ||Gj7   |Gj7   |Gj7   |Gj7   |G-7   |G-7   |G-7   |G-7   |A-7   |D7   |Bm7b5   |E79b   |A-7   |D7   |Gj7   |Gj7   ||
+B1: ||C-7   |F7   |Bbj7   |Bbj7   |C-7   |F7   |Bbj7   |Bbj7   |A-7   |D7   |Gj7   |Gj7   |F#-7   |F#-7   |Ej7   |Ej7   ||
+A2: ||Gj7   |Gj7   |Gj7   |Gj7   |G-7   |G-7   |G-7   |G-7   |A-7   |D7   |Bm7b5   |E7   |A-7   |D7   |Gj7   |Gj7   ||",2
+91,92,85,80,42,Clifford Brown,Jordu,,1,tp,HARDBOP,139.0,MEDIUM,SWING,Eb-maj,4/4,"A1: ||D7 G7 |C-6   |F7 Bb7 |Ebj7   |D7 G7 |C-6   |Ab7   |Ab7   ||
+A2: ||D7 G7 |C-6   |F7 Bb7 |Ebj7   |D7 G7 |C-6   |Ab7   |Ab7   ||
+B1: ||G7 C7 |F7 Bb7 |Eb7 Ab7 |Dbj7   |F7 Bb7 |Eb7 Ab7 |Db7 Gb7 |Bj7   ||
+A3: ||D7 G7 |C-6   |F7 Bb7 |Ebj7   |D7 G7 |C-6   |Ab7   |Ab7   ||",2
+92,93,86,81,43,Clifford Brown,Joy Spring,,1,tp,HARDBOP,161.0,MEDIUM UP,SWING,F-maj,4/4,"A1: ||Fj7   |G-7 C7 |Fj7   |Bb-7 Eb7 |Eb7 D7 |G-7 C7 |F   |Ab-7 Db7 |Gbj7   |Ab-7 Db7 |Gbj7   |B-7 E7 |Bb-7 A7 |Ab-7 Db7 |Gb   |A-7 D7 ||
+B1: ||Gj7   |G-7 C7 |Fj7   |F-7 Bb7 |Ebj7   |Ab-7 Db7 |Gbj7   |G-7 C7 ||
+A2: ||Fj7   |G-7 C7 |Fj7   |Bb-7 Eb7 |A-7 D7 |G-7 C7 |F   |G-7 C7 ||",2
+93,94,87,82,44,Clifford Brown,Sandu,,1,tp,HARDBOP,139.5,MEDIUM,SWING,Eb-maj,4/4,A1: ||Eb7   |Ab7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |G-7 C7 |F-7   |Bb7   |Eb7  C-7|F-7 Bb7 ||,2
+94,95,88,83,38,Clifford Brown,Stompin' at the Savoy,,1,tp,HARDBOP,163.9,MEDIUM UP,SWING,Db-maj,4/4,"A1: ||Dbj7   |Dbj7 Ab7 |Dbj7   |Dbj7 Do |Eb-7   |Ab7   |Db6 Bb-7 |Eb-7 Ab7 ||
+A2: ||Dbj7   |Dbj7 Ab7 |Dbj7   |Dbj7 Do |Eb-7   |Ab7   |Db6   |Db7   ||
+B1: ||Gb7 G7 |Gb7   |B7 C7 |B7   |E7 F7 |E7   |A7   |Ab7   ||
+A3: ||Dbj7   |Dbj7 Ab7 |Dbj7   |Dbj7 Do |Eb-7   |Ab7   |Db6   |Eb-7 Ab7 ||",2
+95,96,89,75,45,Coleman Hawkins,Body and Soul,,1,ts,SWING,95.0,MEDIUM SLOW,SWING,Db-maj,4/4,"A1: ||Eb- D+7 |Eb-7 D7 |Dbj7 Eb-7 |F-7 Eo |Eb-7   |Cm7b5 B7 |Bb-7 Eb-7Ab7|Dbj7 Fm7b5Bb79b||
+A2: ||Eb- D+7 |Eb-7 D7 |Db-7 Eb-7 |F-7 Eo |Eb-7   |Cm7b5 B7 |Bb-7 Eb-7Ab7|Db E-7A7||
+B1: ||Dj7 E-7 |B-7F#G-7C7|F#-7B-7E-7A7|Dj7 F#-7E-7|D-7 G7 |Cj7 Ebo |D-7 G7 |C7B7Bbsus7Bb7||
+A3: ||Eb- B+7 |Eb-7 Ab7 |Dbj7 Gb7 |F-7 Eo |Eb-7   |Ab7 Ao |Ao Eb-7Ab+7|Ab+7 Fm7b5Bb7||",2
+96,97,90,84,46,Coleman Hawkins,It's Only a Papermoon,,1,ts,SWING,133.7,MEDIUM,SWING,F-maj,4/4,"A1: ||F6 D7 |G-7 C7NC|G-7 C7NC|F6   |F7  NC|Bb6 Gm7b5 |C7   |F6 C7 ||
+A2: ||F6 D7 |G-7 C7 |G-7 C7 |F6   |F7   |Bb6 Gm7b5 |C7   |F6   ||
+B1: ||Bb Bo |F/C D7 |G-7 C7 |F6 F7 |Bb Bo |F/C D7 |Am7b5 D7 |G-7 C7 ||
+A3: ||F6 D7 |G-7 C7 |G-7 C7 |F6   |F7   |Bb6 Gm7b5 |C7   |F6   ||
+I1: ||F6   ||",1
+97,98,91,85,46,Coleman Hawkins,My Blue Heaven,,1,ts,SWING,132.0,MEDIUM,SWING,Eb-maj,4/4,"A1: ||Eb   |Eb   |Eb D7Db7|C7   |F7   |Bb7   |G-7 Gb7 |F-7 Bb7 ||
+A2: ||Eb   |Eb   |Eb D7Db7|C7   |F7   |Bb7   |Eb   |Eb7  Eb+7||
+B1: ||Ab   |C7   |F-   |F-   |Bb7   |Bb7   |Eb Eo |F-7 Bb7 ||
+A3: ||Eb   |Eb   |Eb D7Db7|C7   |F7   |Bb7   |Eb Ab7 |Eb  NC||",1
+98,99,92,86,46,Coleman Hawkins,Perdido,,1,ts,SWING,177.5,MEDIUM UP,SWING,Bb-maj,4/4,"A1: ||C-7   |F7   |Bb6   |D-7 G7 |C-7   |F7   |Bb6   |D-7 G7 ||
+A2: ||C-7   |F7   |Bb6   |D-7 G7 |C-7   |F7   |Bb6   |Bb6   ||
+B1: ||D7   |D7   |G79   |G+7   |C7   |C7   |F7   |F7   ||
+A3: ||C-7   |F7   |Bb6   |D-7 G7 |C-7   |F7   |Bb6   |D-7 G7 ||",2
+99,100,93,87,46,Coleman Hawkins,Sophisticated Lady,,1,ts,SWING,67.6,SLOW,SWING,Ab-maj,4/4,"A1: ||Bb-7   |Gb7F7E7Eb7|Abj7   |Ab7G7Gb7F7|Bb7   |Bb-7 Eb7 |Abj7   |Ab7 F79b ||
+A2: ||Bb-7   |Gb7F7E7Eb7|Abj7   |Ab7G7Gb7F7|Bb7   |Bb-7 Eb7 |Abj7   |Ab7911# D79b ||
+B1: ||Gj7 E-7 |A-7 D7 |G7 G#o7 |A-7 D7 |Gj7 E-7 |A-7 D7 |G7 C-7 |Eb7 Cm7b5F79b||
+A3: ||Bb-7   |Gb7F7E7Eb7|Abj7   |Ab7G7Gb7F7|Bb7   |Bb-7 Eb7 |Abj7   |Ab7 F79b ||
+B2: ||Gj7 B-7 |A-7F7D7Eb7|G7 G#o7 |A-7G7D7F7|Gj7 E-7 |A-7 D7 |G7 C-7 |Eb7 Cm7b5F79b||
+A4: ||Bb-7   |Gb7F7E7Eb7|Abj7   |Ab7G7Gb7F7|Bb7   |Bb-7 Eb7 |Abj7   |Abj7   ||
+I1: ||Abj7   ||",1
+100,101,94,83,47,Coleman Hawkins,Stompin' at the Savoy,,1,ts,SWING,250.2,UP,SWING,Db-maj,4/4,"A1: ||G D7G|C79   |G   |G G#o |D7   |D7   |G   |A- D7 ||
+A2: ||G D7G|C79   |G   |G G#o |D7   |D7   |G   |G   ||
+B1: ||C   |D7   |C G |G   |E-   |A79   |A-7 D7 |D7   ||
+A3: ||G D7G|C79   |G   |G G#o |D7   |D7   |G CD|A-7 D7 ||",2
+101,102,95,88,48,Curtis Fuller,Blue Train,,1,tb,HARDBOP,131.8,MEDIUM,SWING,Eb-maj,4/4,A1: ||Eb7NC  |Ab7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |G-7 C7 |F-7   |Bb7   |Eb7   |F-7 Bb7 ||,5
+102,103,96,89,49,Curtis Fuller,Down Under,,1,tb,HARDBOP,147.4,MEDIUM UP,SWING,F#-min,4/4,A1: ||Gb-7   |Abm7b5 Db7 |Gb-7   |Gb-7   |G7   |G7   |Gb-7   |E-7 A7 |D7   |Db7   |Gb-7   |Db7   ||,2
+103,104,97,90,50,David Liebman,Begin the Beguine,,1,ss,POSTBOP,120.1,MEDIUM,SWING,Bb-maj,4/4,A1: ||Gbj79   |Abj79   |Bbj79   |Bbj79   |Gbj79   |Abj79   |Bbj79   |Bbj79   |Gbj79   |Abj79   |Bbj79   |Bbj79   |Gbj79   |Abj79   |Bbj79   |Bbj79   |Gbj79   |Abj79   |Bbj79   |Bbj79   |Gbj79   |Abj79   |Bbj79   |Bbj79   |Gbj79   |Abj79   |Bbj79   |Bbj79   |Gbj79   |Abj79   |Bbj79   |Bbj79   |Gbj79   |Abj79   ||,1
+104,105,98,91,51,David Liebman,Day & Nite,,1,ss,POSTBOP,244.9,UP,SWING,Eb-maj,4/4,"A1: ||Bj7911#   |Bb79b13b   |Ebj7911#   |Ebj7911#   |Bj7911#   |Bb79b13b   |Ebj7911#   |Ebj7911#   |Am7b5   |Ab-7   |G-7   |Gb-7   |F-7   |Ej7911#   |D/Eb   |D/Eb   ||
+A2: ||Bj7911#   |Bb79b13b   |Ebj7911#   |Ebj7911#   |Bj7911#   |Bb79b13b   |Bb79b13bEbj7911#  |Ebj7911#   |Am7b5   |Ab-7   |G-7   |Gb-7   |F-7   |Ebj7911#   |D/Eb   |D/Eb   ||
+B1: ||Db-7/Gb   |Db-7/Gb   |Bb-7/Eb   |Bb-7/Eb   |Db-7/Gb   |Db-7/Gb   |Bb-7/Eb   |Bb-7/Eb   |Am7b5   |Ab-7   |G-7   |Gb-7   |F-7   |Ej7911#   |D/Eb   |D/Eb   ||",4
+105,106,99,92,50,David Liebman,I've Got You Under My Skin,,1,ss,POSTBOP,256.2,UP,SWING,Eb-maj,4/4,"A1: ||F-7   |Bb7   |Ebj7   |C7   |F-7   |Bb7   |Ebj7   |C7   |F-7   |Bb7   |Ebj7   |C7   |F-7   |Bb7   |Ebj7   |C7   ||
+B1: ||F-7   |Bb7   |Ebj7   |C7   |Fm7b5   |Bb79b   |Ebj7   |Ebj7   |D-7   |G7   |Cj7   |Cj7   |F-7   |Bb7   |Ebj7   |Ebj7   ||
+C1: ||F-7   |Bbsus Bb7 |Ebj7   |C79b   |F-7   |Bbsus Bb7 |Ebj7   |G7   ||
+D1: ||C-7   |F-7 Bb7 |Ebj7   |C-7   |F-7   |Bb7   |Ebj7   |Bb-7 Eb7 |Abj7   |Db7   |Ebj7   |Gm7b5 C79b |F-7   |Bb7   |Ebj7   |Ebj7   ||",3
+106,107,100,93,52,David Liebman,Milestones,,1,ss,POSTBOP,312.0,UP,SWING,F-maj,4/4,A1: ||G-6/C   |G-6/C   |G-6/C   |G-6/C   |G-6/C   |G-6/C   |Db7911#   |Db7911#   |G-6/C   |G-6/C   |G-6/C   |G-6/C   |G-6/C   |G-6/C   |C+7   |C+7   |A-7   |A-7   |A-7   |A-7   |A-7   |A-7   |C+7   |C+7   |C+7   |C+7   |C+7   |C+7   |C+7   |C+7   |A-7   |A-7   |G-6/C   |G-6/C   |G-6/C   |G-6/C   |G-6/C   |G-6/C   |F+7911#   |F+7911#   ||,3
+107,108,101,94,52,David Liebman,Nica's Dream,,1,ss,POSTBOP,151.2,MEDIUM UP,LATIN,Eb-maj,4/4,"A1: ||Fm7b5   |Bb7   |Ebj7   |Ebj7   |Fm7b5   |Bb7   |Ebj7   |Ebj7   |Am7b5   |Ab-7   |G-7   |Gbo7   |F-7   |Bb7   |Ebj7   |Ebj7   ||
+A2: ||Fm7b5   |Bb7   |Ebj7   |Ebj7   |Fm7b5   |Bb7   |Ebj7   |Ebj7   |Am7b5   |Ab-7   |G-7   |Gbo7   |F-7   |Bb7   |Ebj7   |Db7   ||
+B1: ||Gbj7   |Gbj7   |Ebj7   |Ebj7   |Gbj7   |Gbj7   |Ebj7   |Ebj7   |Am7b5   |Ab-7   |G-7   |Gbo7   |F-7   |Bb7 F-7 |Eb6   |Eb6   ||
+A3: ||Fm7b5   |Bb7   |Ebj7   |Ebj7   |Fm7b5   |Bb7   |Ebj7   |Ebj7   |Am7b5   |Ab-7   |G-7   |Gbo7   |F-7   |Bb7   |Ebj7   |Ebj7   ||
+I1: ||NC   ||",1
+108,109,102,95,53,David Liebman,No Greater Love,,1,ts,POSTBOP,209.1,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Eb7   |Ab7   |G7   |C7   |C7   |C-7   |F7   ||
+A2: ||Bbj7   |Eb7   |Ab7   |G7   |C7   |C-7 F7 |Bb6   |Bb6   ||
+B1: ||Am7b5 D7 |G-6   |G-6 D7 |G-6   |Am7b5 D7 |G-7   |C7   |F7   ||
+A3: ||Bbj7   |Eb7   |Ab7   |G7   |C7   |C-7 F7 |Bb6   |F7   ||",2
+109,110,103,96,51,David Liebman,Pablo's Story,,1,ss,POSTBOP,144.2,MEDIUM UP,LATIN/FUNK,E-min,4/4,"A1: ||E-7   |E-7   |E-7   |E-7   |D7   |D7   |D7   |D7   ||
+B1: ||C7911#   |C7911#   |C7911#   |C7911#   |B79b   |Am7b5   |B/G   |F7alt   ||
+C1: ||Eb/E   |D/Eb   |Eb/E   |Eb/E   |Db/D   |Db/D   |Db/D   |Db/D   ||
+B2: ||C7911#   |C7911#   |C7911#   |C7911#   |Bb79b   |Am7b5   |B/G   |F7alt   ||",4
+110,111,104,97,51,David Liebman,Pendulum,,1,ss,POSTBOP,258.6,UP,FUNK/SWING,F#-chrom,4/4,A1: ||F#-   ||,1
+111,112,105,98,53,David Liebman,Secret Love,,1,ts,POSTBOP,272.7,UP,LATIN,Eb-maj,4/4,"A1: ||Ebj7   |F-7/Bb   |Ebj7   |F-7/Bb   |Eb7 Ab7 |G-7 C7 |F-7   |Bb7   |F-7   |Bb7   |F-7   |Bb7   |F-7   |Bb7   |Ebj7   |F-7 Bb7 ||
+A2: ||Ebj7   |F-7/Bb   |Ebj7   |F-7/Bb   |Eb7 Ab7 |G-7 C7 |F-7   |Bb7   |F-7   |Bb7   |F-7   |Bb7   |F-7   |Bb7   |Ebj7   |Dm7b5 G7 ||
+B1: ||C-7   |F7   |Bbj7   |Bbj7   |Bb-7   |Eb7   |Abj7   |Ab-7 Db7 ||
+C1: ||Ebj7   |F-7/Bb   |Fm7b5   |C79#   |F-7   |Bb7   |Ebj7   |Ebj7   ||",3
+112,113,106,99,51,David Liebman,Softly as in a Morning Sunrise,,1,ss,POSTBOP,260.7,UP,SWING,C-min,4/4,"A1: ||C-   |C-   |C-   |C-   |C-   |C-   |C-   |C-   ||
+A2: ||C-   |C-   |C-   |C-   |C-   |C-   |C-   |C-   ||
+B1: ||Eb79#   |Eb79#   |C79#   |C79#   |Ab7alt   |Ab7alt   |G7alt   |G7alt   ||
+A3: ||C-   |C-   |C-   |C-   |C-   |C-   |C-   |C-   ||",7
+113,114,107,66,53,David Liebman,There Will Never Be Another You,,1,ts,POSTBOP,151.7,MEDIUM UP,SWING,Eb-maj,4/4,"A1: ||Ebj7   |Ebj7   |Dm7b5   |G79b   |C-7   |C-7   |Bb-7   |Eb7   |Abj7   |Fm7b5 Bb7 |Ebj7   |C-7   |F7   |F7   |F-7   |Bb7   ||
+B1: ||Ebj7   |Ebj7   |Dm7b5   |G79b   |C-7   |C-7   |Bb-7   |Eb7   |Abj7   |Fm7b5 Bb7 |Ebj7   |G-7 C7 |Ebj7 D7 |G7 C7 |F-7 Bb7 |Eb6 Bb7 ||",3
+114,115,108,100,54,David Murray,Ask Me Now,,1,ts,POSTBOP,131.2,MEDIUM,SWING,Db-maj,4/4,"A1: ||Eb-7   |Ab   |Dbj7   |F-7 E-7 |Eb-7   |Ab7   |Dbj7   |Dbj7   |Bb-7   |Eb7   |Eb7   |Bb-7   |Eb-7   |Ab7   |Db-7   |Gb7   ||
+B1: ||G-7 C7 |F#-7 B7 |F-7 Bb7 |E-7 A7 |Eb-7   |Ab7   |B7alt   |Bb7   |Eb7   |D7   |Dbj7   |Eb7   |Eb-7   |Ab7   |Db   |Db   ||",1
+115,116,109,101,55,David Murray,Blues for Two,,1,ts,POSTBOP,60.4,SLOW,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7    |Eb7   |Eb7   |Bb7   |Bb7   |C7   |F7   |Bb7   |Bb7   ||,7
+116,117,109,101,55,David Murray,Blues for Two,,2,ts,POSTBOP,61.3,SLOW,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C7   |F7   |Bb7   |Bb7   ||,1
+117,118,110,75,56,David Murray,Body and Soul,,1,ts,POSTBOP,65.9,SLOW,BALLAD,Db-maj,4/4,"A1: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6 Bb7 ||
+A2: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6 E-7A7||
+B1: ||Dj7 E-7 |F#-7 G-7C7|F#-7B-7E-7A7|Dj7   |D-7 G7 |Cj7 Ebo |D-7 G7 |C7B7Bb7 ||
+A3: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6Gb7Fm7b5Bb7||
+I1: ||Eb-7 Bb7 ||",1
+118,119,110,75,56,David Murray,Body and Soul,,2,ts,POSTBOP,65.1,SLOW,BALLAD,Db-maj,4/4,A1: ||Eb-7 Bb7 ||,1
+119,120,111,102,55,David Murray,Chelsea Bridge,,1,ts,POSTBOP,53.0,SLOW,BALLAD,Db-maj,4/4,"A1: ||Eb7   |Db7   |Eb7 Db7 |Bb7   |Eb-7   |Ab7   |Db6   |Db6C7B7Bb7||
+A2: ||Eb7   |Db7   |Eb7 Db7 |Bb7   |Eb-7   |Ab7   |Db6   |Db  B7||
+B1: ||F#-7 B7 |Ej7 G7 |F#-7 F7 |B-7 E7 |Aj7 A-7D7|Gj7   |G-7   |Db7C7B7Bb7||
+A3: ||Eb7   |Db7   |Eb7 Db7 |Bb7   |Eb-7   |Ab7   |Db6   |Db6   ||
+I1: ",1
+120,121,112,103,57,Dexter Gordon,Cheese Cake,,1,ts,HARDBOP,220.9,UP,SWING,C-min,4/4,"A1: ||C-69   |Dm7b5 G+7 |C-69   |C7   |F-69   |C+7   |F-69   |F-69   |Dm7b5   |G+7   |F-7   |Bb7   |Eb-7 Ab7 |Dm7b5 G+7 |C-69   |Dm7b5 G7 ||
+A2: ||C-69   |Dm7b5 G+7 |C-69   |C7   |F-69   |C+7   |F-69   |F-69   |Dm7b5   |Dm7b5   |F-7   |Bb7   |Eb-7 Ab7 |Dm7b5 G+7 |C-69   |C-69   ||
+B1: ||G-7   |C7   |F-7   |Bb7   |Eb-7   |Ab7   |Dm7b5   |G+7   ||
+A3: ||C-69   |Dm7b5 G+7 |C-7   |C7   |F-69   |C+7   |F-69   |F-69   |Dm7b5   |G+7   |F-7   |Bb7   |Eb-7 Ab7 |Dm7b5 G+7 |C-69   |C-69   ||",2
+121,122,113,104,58,Dexter Gordon,Dextivity,,1,ts,BEBOP,93.2,MEDIUM SLOW,SWING,C-maj,4/4,"A1: ||C6   |D7911#   |D-7 G79b |C6Eb7D7Db7||
+A2: ||C6   |D7911#   |D-7 G79b |C6   ||
+B1: ||G-7 C79b |Fj7 B7 |E-7 A-7 |D-7 G7Db7||
+A3: ||C6   |D7911#   |D-7 G79b |C6   ||",2
+122,123,114,105,59,Dexter Gordon,Montmartre,,1,ts,HARDBOP,204.2,UP,SWING,Bb-min,4/4,"A1: ||Bb-   |C-7 F7 |Bb-   |Cb7   |Bb-   |C-7   |C-7   |Cb7   ||
+A2: ||Bb-   |C-7 F7 |Bb-   |Cb7   |Bb-   |F7   |C-7 F7 |Bb-   ||
+B1: ||F-7   |Bb7   |E-7 A7 |Eb7 Ab7 |F-7   |Bb7   |C-7   |F7   ||
+A3: ||Bb-   |C-7 F7 |Bb-   |Cb7   |Bb-   |C-7   |C-7 F7 |Bb-   ||",4
+123,124,115,106,60,Dexter Gordon,Society Red,,1,ts,HARDBOP,113.7,MEDIUM,SWING,Bb-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |D7   |G-7   |C7   |F7   |F7   ||,9
+124,125,116,107,59,Dexter Gordon,Stanley the Steamer,,1,ts,HARDBOP,181.2,UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C-7   |F7   |Bb7   |F7   ||,12
+125,126,117,108,59,Dexter Gordon,The Rainbow People,,1,ts,HARDBOP,120.0,MEDIUM,SWING,Eb-maj,4/4,"A1: ||Eb F-7 |G-7 F-7 |G-7 F-7 |F#-7 B7 |F-7   |Bb7   |Ebj7 C7 |F-7 Bb7 ||
+A2: ||Ebj7 F-7 |G-7 F-7 |G-7 F-7 |F#-7 B7 |F-7   |Bb7   |Eb Db7 |B-7 E7 ||
+B1: ||Bb-7   |Eb7   |Am7b5   |Ab7   |G7   |C7   |F7   |Bb7   ||
+A3: ||Ebj7 F-7 |G-7 F-7 |G-7 F-7 |F#-7 B7 |F-7   |Bb7   |Eb C7 |F-7 Bb7 ||",3
+126,127,39,39,16,Dickie Wells,After Theatre Jump,,1,tb,SWING,173.5,MEDIUM UP,SWING,Db-maj,4/4,"A1: ||Db Bb7 |Eb-7 Ab7 |F-7 Bb-7 |Eb-7 Ab7 |Ab-7 Db7 |Gb7 B7 |F-7 Bb-7 |Eb-7 Ab7 ||
+A2: ||Db Bb7 |Eb-7 Ab7 |F-7 Bb-7 |Eb-7 Ab7 |Ab-7 Db7 |Gb7 B7 |F-7 Bb-7 |Eb7 Ab7 ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Eb7   |Ab7   ||
+A3: ||Db Bb7 |Eb-7 Ab7 |F-7 Bb-7 |Eb-7 Ab7 |Ab-7 Db7 |Gb7 B7 |F-7 Bb-7 |Eb-7 Ab7 ||
+I1: ||NC   ||",1
+127,128,40,40,16,Dickie Wells,Destination K.C.,,1,tb,SWING,249.1,UP,SWING,C-maj,4/4,"A1: ||C   |C   |G7   |C   |C   |C   |G7   |C   ||
+A2: ||C   |C   |G7   |C   |C   |C   |G7   |C   ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Ab7   |G7   ||
+A3: ||C   |C   |G7   |C   |C   |C   |G7   |C   ||
+I1: ||NC   ||",1
+128,129,41,41,17,Dickie Wells,Dickie's Dream,,1,tb,SWING,229.4,UP,SWING,C-min,4/4,"A1: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+A2: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Eb7   |D- G7 ||
+A3: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+I1: ||NC   ||",1
+129,130,118,109,61,Dickie Wells,I Got Rhythm,,1,tb,SWING,243.4,UP,SWING,Bb-maj,4/4,"A1: ||Bb6 G-7 |C-7 F7 |Bb6 G-7 |C-7 F7 |Bb6 Bb7 |Eb6 Eo7 |Bb6 F7 |Bb6   ||
+A2: ||Bb6 G-7 |C-7 F7 |Bb6 G-7 |C-7 F7 |Bb6 Bb7 |Eb6 Eo7 |Bb6 F7 |Bb6   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bb6 G-7 |C-7 F7 |Bb6 G-7 |C-7 F7 |Bb6 Bb7 |Eb6 Eo7 |Bb6 F7 |Bb6   ||",2
+130,131,119,110,61,Dickie Wells,Jo-Jo,,1,tb,SWING,183.4,UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |C-7   |F7   |Bb7   |Bb7   ||,2
+131,132,120,111,16,Dickie Wells,Six Cats and a Prince,,1,tb,SWING,217.6,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Bbj7   |Bo   |Bo   |C-7   |F7   |Bbj7   |F7   ||
+A2: ||Bbj7   |Bbj7   |Bo   |Bo   |C-7   |F7   |Bbj7   |Bbj7   ||
+B1: ||Bb7   |Bb7   |Eb7   |Eb7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7   |Bbj7   |Bo   |Bo   |C-7   |F7   |Bbj7   |Bbj7   ||
+I1: ||Bbj7   ||",1
+132,133,121,1,62,Dizzy Gillespie,Anthropology,,1,tp,BEBOP,245.7,UP,SWING,Bb-maj,4/4,"A1: ||Bb6 G7 |C-7 F7 |Bb6 G-7 |C7 F7 |Bb7   |Eb6 Eb-6 |D-7 G7 |C-7 F7 ||
+A2: ||Bb6 G7 |C-7 F7 |Bb6 G-7 |C7 F7 |Bb7   |Eb6 Eb-6 |D-7 G7 |C-7F7Bb6 ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bb6 G7 |C-7 F7 |Bb6 G-7 |C7 F7 |Bb7   |Eb6 Eb-6 |D-7 G7 |C-7 F7 ||
+I1: ||Bb6   ||",1
+133,134,122,112,63,Dizzy Gillespie,Be-Bop,,1,tp,BEBOP,290.2,UP,SWING,F-min,4/4,"A1: ||F- Gm7b5 |F- Bb-6 |F-   |Gm7b5 C79b |F- Gm7b5 |F- Bb-6 |F-   |C7 F- ||
+A2: ||F- Gm7b5 |F- Bb-6 |F-   |Gm7b5 C79b |F- Gm7b5 |F- Bb-6 |F-   |C7 F- ||
+B1: ||F-7   |Bb79#   |Ebj7   |Ebj7   |Eb-7   |Ab79#   |Dbj7   |Gm7b5 C79# ||
+A3: ||F- Gm7b5 |F- Bb-6 |F-   |Gm7b5 C79b |F- Gm7b5 |F- Bb-6 |F-   |C7 F- ||",3
+134,135,123,113,63,Dizzy Gillespie,Blue 'n Boogie,,1,tp,BEBOP,204.4,UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |C-7   |F7   |Bb7   |Bb7   ||,4
+135,136,124,114,64,Dizzy Gillespie,Cognac Blues,,1,tp,BEBOP,113.6,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |F7   |G-7   |G-7   |F7 D-7 |G-7 C7 ||,2
+136,137,125,115,63,Dizzy Gillespie,Groovin' High,,1,tp,BEBOP,181.9,UP,SWING,Db-maj,4/4,"A1: ||Ebj7   |Ebj7   |Am7b5   |D7   |Ebj7   |Ebj7   |Gm7b5   |C7   |F7   |F7   |F-7   |Bb7   |G-7   |F#-7   |F-7   |Bb7   ||
+A2: ||Ebj7   |Ebj7   |Am7b5   |D7   |Ebj7   |Ebj7   |Gm7b5   |C7   |F7   |F7   |F-7   |Bb7   |F-7   |Ab-7 Db7 |Eb6   |F-7 Bb7 ||",2
+137,138,126,116,63,Dizzy Gillespie,Hot House,,1,tp,BEBOP,171.1,MEDIUM UP,SWING,C-maj,4/4,"A1: ||Gm7b5   |C+7   |Fm7b5   |Bb+7   |Dm7b5   |G+7   |Cj7   |Cj7   ||
+A2: ||Gm7b5   |C+7   |Fm7b5   |Bb+7   |Dm7b5   |G+7   |Cj7   |Cj7   ||
+B1: ||C-7   |F7   |Bbj7   |Bbj7   |Ab7   |Ab7   |G7   |G7   ||
+A3: ||Gm7b5   |C+7   |Fm7b5   |Bb+7   |Dm7b5   |G+7   |Cj7   |Cj7   ||",1
+138,139,122,112,63,Don Byas,Be-Bop,,1,ts,BEBOP,288.6,UP,SWING,F-min,4/4,"A1: ||F- Gm7b5 |F-/Ab Bb-6 |F-/C   |Gm7b5 C7 |F- Gm7b5 |F-/Ab Bb-6 |F-/C   |Gm7b5 F- ||
+A2: ||F-7 Gm7b5 |F-/Ab Bb-6 |F-/C   |Gm7b5 C7 |F- Gm7b5 |F-/Ab Bb-6 |F-/C   |Gm7b5 F- ||
+B1: ||F-7   |Bb79#   |Ebj7   |Ebj7   |Eb-7   |Ab79#   |Dbj7   |Gm7b5 C79b ||
+A3: ||F-7 Gm7b5 |F-/Ab Bb-6 |F-/C   |Gm7b5 C7 |F- Gm7b5 |F-/Ab Bb-6 |F-/C   |C7 F- ||",2
+139,140,127,75,65,Don Byas,Body and Soul,,1,ts,SWING,98.6,MEDIUM SLOW,SWING,Db-maj,4/4,"A1: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6 Bb7 ||
+A2: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db A7 ||
+B1: ||Dj7 E-7 |D G-7C7|F#-7B-7E-7A7|Dj7   |D-7 G7 |Cj7 Ebo |D-7 G7 |C7B7Bb7 ||
+A3: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6 Bb7 ||",2
+140,141,124,114,64,Don Byas,Cognac Blues,,1,ts,SWING,115.9,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |F7   |G-7   |C7   |F7 D-7 |G-7 C7 ||,2
+141,142,128,117,66,Don Byas,Harvard Blues,,1,ts,SWING,98.5,MEDIUM SLOW,SWING,Db-maj,4/4,"A1: ||Db7   |Gb7 Go |Db Db7 |Bb-7 Db7 |Gb7   |Gb7 Go |Db7   |Db7 Ao |Ab7   |Gb7   |Db7   |Db7   ||
+I1: ||NC   ||",1
+142,143,128,117,66,Don Byas,Harvard Blues,,2,ts,SWING,99.3,MEDIUM SLOW,SWING,Db-maj,4/4,"A1: ||Db7   |Gb7 Go |Db7   |Db7   |Gb7   |Gb7 Go |Db7   |Bb- Eb7 |Ab7   |Gb7   |Db7   |Db7   ||
+I1: ||NC   ||",1
+143,144,129,118,64,Don Byas,Infidele (Cry),,1,ts,SWING,120.1,MEDIUM,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Bbj7   |A-7 Abo |G-7 D7/F# |G-7   |G-7   |D-7 Dbo |C-7 Bo7 ||
+B1: ||C-7   |F7   |Bbj7 Ab7 |G7   |Cj7   |C-7   |F7   |C-7 F7 ||",2
+144,145,130,57,66,Don Byas,Out of Nowhere,,1,ts,SWING,55.5,SLOW,BALLAD,G-maj,4/4,"A1: ||Gj7   |Gj7   |Bb-7   |Eb7   |Gj7   |Gj7   |B-7   |E79b   |A-7   |E79b   |A-7   |A-7   |Eb7   |Eb7   ||
+I1: ||NC   |NC   ||",1
+145,146,131,119,64,Don Byas,Un Amour Pleurait,,1,ts,SWING,106.0,MEDIUM SLOW,SWING,F-maj,4/4,"A1: ||F/C Dbo |D- G-7 |C7 G-7C7|Fj7   |Fj7 A7 |D-7 Dbo |C7 G-7C7|Fj7   ||
+A2: ||F/C Dbo |D-7 G-7 |C7 G-7C7|Fj7   |A7   |D-7 Dbo |C7   |F F7 ||
+B1: ||Bb   |Eb C-7 |F7 C-7F7|Bb   |Bb Do |Ebj7 Ab7 |Bb F |BbFG7C7||
+C1: ||C/F Dbo |D-7 G-7 |C7   |Fj7   |A7   |D-7   |C7 G-7C7|Fj7   |Fj7  NC||",1
+146,147,132,120,67,Don Ellis,I Love You,,1,tp,POSTBOP,146.9,MEDIUM UP,SWING,F-maj,,"A1: ||Gm7b5   |C79b   |Fj7   |Fj7   |G-7   |C7   |Fj7   |Fj7   ||
+A2: ||Gm7b5   |C79b   |Fj7   |B-7 E7 |Aj7   |B-7 E7 |Aj7   |Aj7   ||
+B1: ||G-7   |C7   |Fj7   |Fj7   |Am7b5   |D79b   |G7   |C7   ||
+A3: ||Gm7b5   |C79b   |Fj7   |Am7b5 D7 |G7   |G-7 C7 |F6   |F6   ||",2
+147,148,133,121,67,Don Ellis,Johnny Come Lately,,1,tp,POSTBOP,211.3,UP,SWING,G-min,4/4,"A1: ||G-6   |Eb7 D7 |G-6   |Eb7 D7 |G-6   |Eb7 D7 |G-6   |Am7b5 D7 ||
+A2: ||G-6   |Eb7 D7 |G-6   |Eb7 D7 |G-6   |Eb7 D7 |G-6   |F-7 Bb7 ||
+B1: ||Ebj7 F-7 |G-7 F-7 |Ebj7 F-7 |G-7 F-7 |Ebj7 F-7 |G7 C7 |F7 Bb7 |A79b D+7 ||
+A3: ||G-6   |Eb7 D7 |G-6   |Eb7 D7 |G-6   |Eb7 D7 |G-6   |G-6   ||",2
+148,149,134,57,67,Don Ellis,Out of Nowhere,,1,tp,POSTBOP,151.9,MEDIUM UP,SWING,G-maj,4/4,"A1: ||Gj7   |Gj7   |Bb-7   |Eb7   |Gj7   |Gj7   |B-7   |E79b   ||
+B1: ||A-7   |E79b   |A-7   |A-7   |Eb7   |Eb7   |Dsus7   |D79b   ||
+A2: ||Gj7   |Gj7   |Bb-7   |Eb7   |Gj7   |Gj7   |B-7   |E79b   ||
+C1: ||A-7   |E79b   |A-7   |C-6   |B-7 Bbo |A-7 D7 |G   |G   ||",1
+149,150,135,122,67,Don Ellis,Sweet and Lovely,,1,tp,POSTBOP,134.1,MEDIUM,SWING,C-maj,4/4,"A1: ||G-7   |C7   |G-7   |C7   |F7   |Bbj7 Eb7 |Cj7 G7 |C6   ||
+A2: ||G-7   |C7   |G-7   |C7   |F7   |Bbj7 Eb7 |Cj7 G7 |C6   ||
+B1: ||F-7 Bb7 |Cj7   |F-7 Bb7 |Cj7   |Ab-7 Db7 |Ebj7   |Eb-7 Ab7 |D-7 G7 ||
+A3: ||G-7   |C7   |G-7   |C7   |F7   |Bbj7 Eb7 |Cj7 G7 |C6   ||",2
+150,151,136,123,67,Don Ellis,You Stepped Out of a Dream,,1,tp,POSTBOP,199.5,UP,SWING,D-maj,4/4,"A1: ||Dj7   |Dj7   |Ebj7   |Ebj7   |F7   |F7   |Bbj7   |Bbj7   |A-7   |D7   |Gj7   |Gj7   |B-7   |E7   |F-7 Bb7 |E-7 A7 ||
+B1: ||Dj7   |Dj7   |Ebj7   |Ebj7   |F7   |F7   |Ab7   |G7   |Em7b5   |A7   |F-7   |Bb7   |E-7   |A7   |Dj7   |Dj7   ||",1
+151,152,136,123,67,Don Ellis,You Stepped Out of a Dream,,2,tp,POSTBOP,168.9,MEDIUM UP,SWING,D-maj,4/4,"A1: ||Dj7   |Dj7   |Ebj7   |Ebj7   |F7   |F7   |Bbj7   |Bbj7   |A-7   |D7   |Gj7   |Gj7   |B-7   |E7   |F-7 Bb7 |E-7 A7 ||
+B1: ||Dj7   |Dj7   |Ebj7   |Ebj7   |F7   |F7   |Ab7   |G7    |Em7b5   |A7   |F#-7   |B7   |E-7   |A7   |Dj7   |Dj7 NC ||",1
+152,153,137,124,68,Eric Dolphy,245,,1,as,POSTBOP,71.2,SLOW,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F#-7 B7 |Bb7   |Bo   |E79# A7913b |A-7 Ab-7 |G-7   |Db-7 F#7 |B+7   |B+7   ||,3
+153,154,138,125,69,Eric Dolphy,Aisha,,1,as,POSTBOP,62.9,SLOW,SWING,A-min,4/4,"A1: ||A-79   |G-79   |A-79   |F-79   |F-7 Bb7 |G-7 C79b |A-7 D79b |G-7C7F-7E7||
+A2: ||A-79   |G-79   ||",1
+154,155,139,126,69,Eric Dolphy,Dahomey Dance,,1,as,POSTBOP,128.9,MEDIUM,SWING,G-maj,4/4,A1: ||G7   |G7   |G7   |G7913   |F7   |F7   |G7   |G7913   |Dsus7   |D7   |G7   |G7913   ||,6
+155,156,140,127,70,Eric Dolphy,Les,,1,as,POSTBOP,235.4,UP,SWING,F-maj,4/4,A1: ||F7alt   |Bb7alt   |F7alt   |F7alt   |Bb7   |Bo7   |F7   |Db-7 Gb7 |G-7 C7 |Ab-7 Db+7 |A-7 D7 |G7alt   |C Db/C |D/C Eb/C ||,4
+156,157,141,128,70,Eric Dolphy,On Green Dolphin Street,,1,bcl,POSTBOP,172.5,MEDIUM UP,SWING,Eb-maj,4/4,"A1: ||Ebj7   |Ebj7   |Eb-7   |Eb-7   |F7/Eb   |F7/Eb E/Eb |Ebj7   |Ebj7   ||
+B1: ||F-7   |Bb7   |Ebj7   |Ebj7   |Ab-7   |D7   |Gbj7   |Gbj7   ||
+A2: ||Ebj7   |Ebj7   |Eb-7   |Eb-7   |F7/Eb   |F7/Eb E/Eb |Ebj7   |Ebj7   ||
+C1: ||F-7 F-/Eb |Dm7b5 G79b |C-7 C-/Bb |Am7b5 D7 |G-7 C7 |F-7 Bb7 |Ebj7   |F-7 Bb7 ||",2
+157,158,142,129,70,Eric Dolphy,Serene,,1,bcl,POSTBOP,75.2,SLOW,SWING,Eb-maj,4/4,A1: ||Ebj7   |Ab7911#   |Db7   |Eb7   |Ab7   |D7alt   |Ebj7   |Db-7 Gb7 |Fm7b5   |Bb7alt B-7E7|Ab7911#   |Ab7911#   ||,3
+158,159,143,1,71,Fats Navarro,Anthropology,No1,1,tp,BEBOP,300.7,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7 G7 |C-7 F7 |D-7 G7 |C-7 F7 |F-7 Bb7 |Eb7 Eb-7 |D-7 G7 |C-7 F7 ||
+A2: ||Bbj7 G7 |C-7 F7 |D-7 G7 |C-7 F7 |F-7 Bb7 |Eb7 Eb-7 |C-7 F7 |Bb6   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7 G7 |C-7 F7 |D-7 G7 |C-7 F7 |F-7 Bb7 |Eb7 Eb-7 |C-7 F7 |Bb6   ||",2
+159,160,144,130,72,Fats Navarro,Double Talk,,1,tp,BEBOP,225.8,UP,SWING,F-maj,4/4,"A1: ||F   |F   |F-7   |Bb7   |G-7   |C7913   |A-7 Abo |G-7 Gb7 ||
+A2: ||F   |F   |F-7   |Bb7   |G-7   |C7   |F-7 Bb-7 |Eb-7 Ab7/D ||
+B1: ||Db   |D-7   |Eb-7   |F-7 B7913 |F-7 Bb79#13 |Eb-7 Ab79# |Db   |C7alt   ||
+A3: ||F   |F   |F-7   |Bb7   |G-7   |C7913   |A-7 Abo |G-7 Gb7 ||",3
+160,161,145,131,71,Fats Navarro,Good Bait,Alternate Take,1,tp,BEBOP,146.2,MEDIUM UP,SWING,Bb-maj,4/4,"A1: ||Bb6 G7 |C-7 F7F7/Eb|D-7 G7 |C-7 F7 |Bbj7 Bb7/D |Ebj7 Eo |D-7/FG7C-7F7|Bb6 F7 ||
+A2: ||Bb6 G7 |C-7 F7F7/Eb|D-7 G7 |C-7 F7 |Bbj7 Bb7/D |Ebj7 Eo |D-7/FG7C-7F7|Bbj7 Bb+7 ||
+B1: ||Eb6 C7 |F-7 Bb7Bb7/Ab|G-7 C7 |F-7 Bb7 |Ebj7 Eb7/G |Abj7 Ao |G-7C7F-7Bb7|Eb6 F79 ||
+A3: ||Bb6 G7 |C-7 F7F7/Eb|D-7 G7 |C-7 F7 |Bbj7 Bb7/D |Ebj7 Eo |D-7/FG7C-7F7|Bb6   |Bb6   ||",1
+161,162,146,131,71,Fats Navarro,Good Bait,,1,tp,BEBOP,147.4,MEDIUM UP,SWING,Bb-maj,4/4,"A1: ||Bbj7 G-7 |C-7 F7 |Bbj7 G-7 |C-7 F7 |Bbj7 Bb7 |Ebj7 Ab7 |D-7G7C-7F7|Bbj7 F7 ||
+A2: ||Bbj7 G-7 |C-7 F7 |Bbj7 G-7 |C-7 F7 |Bbj7 Bb7 |Ebj7 Ab7 |D-7G7C-7F7|Bbj7 Bb7 ||
+B1: ||Ebj7 C-7 |F-7 Bb7 |Ebj7 C-7 |F-7 Bb7 |Ebj7 Eb7 |Abj7 Db7 |G-7C7F-7Bb7|Ebj7 F7 ||
+A3: ||Bbj7 G-7 |C-7 F7 |Bbj7 G-7 |C-7 F7 |Bbj7 Bb7 |Ebj7 Ab7 |D-7G7C-7F7|Bbj7 F7 ||
+I1: ||Bbj7 G7 ||",1
+162,163,147,132,71,Fats Navarro,Our Delight,,1,tp,BEBOP,200.7,UP,SWING,Ab-maj,4/4,"A1: ||Bb7913   |Eb79#   |Abj7   |F7   |Bb7   |Bb-7 Bo7 |Ab/C Bo7 |Bb-7 Eb7913B7911#||
+A2: ||Bb7913   |Eb79#   |Abj7   |F7   |Bb7   |Bb-7 Bo7 |Ab/C Bo7 |Ebsus7 Abj7 ||
+B1: ||Eb-7   |Ab+79b   |Dbj7   |Dbj7   |Db-7 Gb7 |C-7 F7 |B-7 E7 |Eb7 B7911# ||
+A3: ||Bb7913   |Eb79#   |Abj7   |F7   |Bb7   |Bb-7 Bo7 |Ab/C Bo7 |Ebsus7 Abj7 ||",1
+163,164,148,133,72,Fats Navarro,The Skunk,,1,tp,BEBOP,163.8,MEDIUM UP,SWING,Db-maj,4/4,A1: ||Db7   |Gb7   |Db7   |Db7   |Gb7   |Gb7   |Db7   |Bb7   |Eb7   |Ab7   |Db7   |Ab7   ||,2
+164,165,137,124,68,Freddie Hubbard,245,,1,tp,POSTBOP,73.0,SLOW,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F#- B7 |Bb7   |Bo   |E79# Ab7913b |A-7 Ab-7 |G-7   |C#- F#7 |B+7   |B+7   ||,3
+165,166,149,134,73,Freddie Hubbard,Dolphin Dance,,1,tp,POSTBOP,118.9,MEDIUM,SWING,,4/4,"A1: ||C-7   |Ab7911#   |C-7   |A-7 D7 |Gj7   |Ab-7   |F-7911   |F-7911   |C-7   |C-7   |A-7911   |D7913   ||
+B1: ||Gj7   |G7913   |A   |Ebm7b5   |F7913   |F79b13   |F7913   |E-79 A7913 |Eb7911#   |A-7 D7913 |B-7   |E7913 D-7 |C#-7   |F#7913   |D-7   |C-7   |D-7   |C-7   ||
+C1: ||Dbj7   |Bb79b13   |C79#   |G79#   ||",2
+166,167,96,89,49,Freddie Hubbard,Down Under,,1,tp,HARDBOP,146.1,MEDIUM UP,SWING,F#-min,4/4,A1: ||Gb-7   |Abm7b5 Db7 |Gb-7   |Gb-7   |G7   |G7   |Gb-7   |E-7 A7 |D7   |Db7   |Gb-7   |Db7   ||,2
+167,168,150,135,74,Freddie Hubbard,Maiden Voyage,,1,tp,POSTBOP,126.0,MEDIUM,SWING,,4/4,"A1: ||Dsus7   |Dsus7   |Dsus7   |Dsus7   |Fsus7   |Fsus7   |Fsus7   |Fsus7   ||
+A2: ||Dsus7   |Dsus7   |Dsus7   |Dsus7   |Fsus7   |Fsus7   |Fsus7   |Fsus7   ||
+B1: ||Ebsus7   |Ebsus7   |Ebsus7   |Ebsus7   |Dbsus7   |Dbsus7   |Dbsus7   |Dbsus7   ||
+A3: ||Dsus7   |Dsus7   |Dsus7   |Dsus7   |Fsus7   |Fsus7   |Fsus7   |Fsus7   ||",2
+168,169,115,106,60,Freddie Hubbard,Society Red,,1,tp,HARDBOP,113.6,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |D79b   |G-7   |C7   |A-7 D-7 |Gm7b5 C7 ||,6
+169,170,151,136,75,Freddie Hubbard,Speak No Evil,,1,tp,POSTBOP,143.2,MEDIUM UP,SWING,C-min,4/4,"A1: ||C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7 Eb-7 |E-7911 C-7 |D-7911 Bb-7 |A7alt   |Bb-7   |A7alt   |Bb-7   ||
+A2: ||C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7 Eb-7 |E-7911 C-7 |D-7911 Bb-7 |A7alt   |Bb-7   |A7alt   |Bb-7   ||
+B1: ||Am7b5   |Ab7   |G-7   |Gb7   |F-7   |Bb7   |Ebj79#11#   |Dbj7911#   ||
+A3: ||C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7 Eb-7 |E-7911 C-7 |D-7911 Bb-7 |A7alt   |Bb-7   |A7alt   |Bb-7   ||",1
+170,171,150,135,74,George Coleman,Maiden Voyage,,1,ts,POSTBOP,125.4,MEDIUM,SWING,,4/4,"A1: ||Dsus7   |Dsus7   |Dsus7   |Dsus7   |Fsus7   |Fsus7   |Fsus7   |Fsus7   ||
+A2: ||Dsus7   |Dsus7   |Dsus7   |Dsus7   |Fsus7   |Fsus7   |Fsus7   |Fsus7   ||
+B1: ||Ebsus7   |Ebsus7   |Ebsus7   |Ebsus7   |Dbsus7   |Dbsus7   |Dbsus7   |Dbsus7   ||
+A3: ||Dsus7   |Dsus7   |Dsus7   |Dsus7   |Fsus7   |Fsus7   |Fsus7   |Fsus7   ||",1
+171,172,152,137,76,Gerry Mulligan,Bunny,,1,bs,COOL,115.2,MEDIUM,SWING,C-maj,4/4,"A1: ||A-7 D7 |G E7 |A-7 D7 |D-7 G-7 |C C-7F7|Bb Bb-7Eb7|A-7 D7 |G   ||
+A2: ||A-7 D7 |G E7 |A-7 D7 |D-7 G7 |C C-7F7|Bb Bb-7Eb7|A-7 D7 |G C ||
+B1: ||D-7 G7 |C A7 |D-7 G7 |C   |C-7 F7 |Bb   |A-7 D7 |B-7 E7 ||
+A3: ||A-7 D7 |G E7 |A-7 D7 |D-7 G-7 |C C-7F7|Bb Bb-7Eb7|A-7 D7 |G C ||
+I1: ||NC   ||",1
+172,173,153,138,76,Gerry Mulligan,Line for Lyons,,1,bs,COOL,173.1,MEDIUM UP,SWING,Bb-maj,4/4,"A1: ||Bb69 Bb7 |Eb-7 Ab7 |D-7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 ||
+A2: ||Bb69 Bb7 |Eb-7 Ab7 |D-7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7   |Bb7   ||
+B1: ||Ebj7   |Em7b5 A7 |D-7   |G79b   |C-7   |F7   |D-7 G7 |C-7 F7 ||
+A3: ||Bb69 Bb7 |Eb-7 Ab7 |D-7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7   |C-7 F7 ||
+I1: ||Bb6 Bb7 ||",1
+173,174,154,58,76,Gerry Mulligan,Scrapple from the Apple,,1,bs,COOL,252.0,UP,SWING,G-min,4/4,"A1: ||G-7   |C7   |G-7   |C79b   |Fj7   |G-7 C7 |Fj7 G-7 |A-7 D7 ||
+A2: ||G-7   |C7   |G-7   |C79b   |Fj7   |G-7 C7 |Fj7 G-7 |F   ||
+B1: ||A7   |A7   |D7   |D7   |G7   |G7   |C7   |C7   ||
+A3: ||G-7   |C7   |G-7   |C79b   |Fj7   |G-7 C7 |Fj7 G-7C79b|F   ||",4
+174,175,155,139,76,Gerry Mulligan,The Red Door,,1,bs,COOL,236.4,UP,SWING,G-maj,4/4,"A1: ||G   |C-7 F7 |G   |C-7 F7 |Bb   |A-7 D7 |G   |A-7 D7 ||
+A2: ||G   |C-7 F7 |G   |C-7 F7 |Bb   |A-6 D7 |G   |G7   ||
+B1: ||C-   |Ab7 G7 |C-   |Ab7 G7 |Eb   |F-7 Bb7 |Eb7   |A-7 D7 ||
+A3: ||G   |C-7 F7 |G   |C-7 F7 |Bb   |A-7 D7 |G   |A-7 D7 ||",2
+175,176,156,140,76,Gerry Mulligan,This Can't Be Love,,1,bs,COOL,269.1,UP,SWING,Ab-maj,4/4,"A1: ||Ab6   |Ab6   |Db7   |Db7   |Abj7   |F-7   |Bb-7   |Eb7   ||
+A2: ||Ab6   |Ab6   |Db7   |Db7   |C-7 F-7 |Bb-7 Eb7 |Abj7   |Abj7   ||
+B1: ||G-7   |C7   |F-7   |F-7   |Cm7b5   |F7alt   |Bb7   |Eb7   ||
+A3: ||Abj7   |Abj7   |Db7   |Db7   |C-7 F-7 |Bb-7 Eb7 |Ab6   |Bb-7 Eb7 ||",6
+176,177,157,141,77,Gerry Mulligan,Walking Shoes,,1,bs,COOL,137.2,MEDIUM,SWING,G-maj,4/4,"A1: ||G   |C7   |G   |F7 E-7 |A-7   |C#-7 F#7 |G Go |A-7 D7 ||
+A2: ||G   |C7   |G   |F7 E-7 |A-7   |C#-7 F#7 |G Go |A-7 D7 ||
+B1: ||F#-7   |B7   |E-   |F#-7 B7 |E-   |A7   |A-7   |D7   ||
+A3: ||G   |C7   |G   |F7 E7 |Eb7 D7 |A-7 D7 |G   |A-7 D7 |G   |G   |G   ||",1
+177,178,158,142,78,Hank Mobley,Doodlin',,1,ts,HARDBOP,121.3,MEDIUM,SWING,Db-maj,4/4,A1: ||Db7   |Gb7   |Db7   |Db7   |Gb7   |Gb7   |Db7   |Db7 Bb7 |Eb-7   |Ab79   |Db7   |Ab7   ||,3
+178,179,159,143,79,Hank Mobley,Lady Bird,,1,ts,HARDBOP,220.7,UP,SWING,C-maj,4/4,A1: ||Cj7   |Cj7   |F-7   |Bb7   |Cj7   |Cj7   |Bb-7   |Eb7   |Abj7   |Abj7   |A-7   |D7   |D-7   |G7   |Cj7 Ebj7 |Abj7 Dbj7 ||,6
+179,180,160,144,80,Hank Mobley,Remember,,1,ts,HARDBOP,165.9,MEDIUM UP,SWING,Ab-maj,4/4,"A1: ||Db7   |C7   |B7911#   |Bb7   |Bb-7   |Eb79b   |Abj7   |Eb-7 Ab7 ||
+A2: ||Db7   |C7   |B7911#   |Bb7   |Bb-7   |Eb79b   |Abj7   |Eb-7 Ab7 ||
+B1: ||Dbj7   |Dbj7   |Eb-7   |Gb7   |Abj7   |Abj7   |Gm7b5   |C7   ||
+A3: ||Db7   |C7   |B7911#   |Bb7   |Bb-7   |Eb7   |Abj7   |Eb-7 Ab7 ||",3
+180,181,161,145,80,Hank Mobley,Soul Station,,1,ts,HARDBOP,101.6,MEDIUM SLOW,SWING,Eb-maj,4/4,"A1: ||Eb7   |Eb7   |Eb7   |Eb7   |Ab7   |Ab7   |Bb7   |Bb7   ||
+B1: ||Eb7   |Bb-7 Eb7 |Ab7   |Ao   |Eb7 C7 |F-7 Bb7 |Eb7   |Eb7   ||",5
+181,182,18,18,8,Harry Edison,Did You Call Her Today,,1,tp,SWING,118.5,MEDIUM,SWING,Ab-maj,4/4,"A1: ||Bb7   |Eb7   |Ab6   |Ab6   |Eb-7   |Ab7   |Db6   |Db6   ||
+B1: ||Db7   |Do   |Ab   |F7   |Bb7   |Bb7   |Bb-7   |Eb7   ||
+A'2: ||Bb7   |Eb7   |Ab6   |Ab6   |Eb-7   |Ab7   |Db6   |Db6   ||
+C1: ||Db7   |Do   |Ab   |F7   |Bb-7   |Eb7   |Ab   |Ab   ||",2
+182,183,162,146,28,Henry Allen,Baby Won't You Please Come Home,,1,tp,TRADITIONAL,211.5,UP,TWOBEAT,Bb-maj,4/4,"A1: ||Bb D7 |G7   |C7   |C7   |F7 F#o |G-   |C7   |F7   ||
+B1: ||Bb D7 |G7   |C- Eb |D7   |Eb Eo |Bb G7 |C7 F7 |Bb G7 |C- F7 |Bb   ||",2
+183,184,163,147,81,Herbie Hancock,Agitation,,1,p,POSTBOP,293.8,UP,SWING,,4/4,"A1: ||NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   ||
+B1: ||Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   |Db/Ab   ||",2
+184,185,164,148,82,Herbie Hancock,Dolores,,1,p,POSTBOP,282.3,UP,SWING,,4/4,"A1: ||NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   |NC   ||
+I1: ||D-   ||",1
+185,186,165,149,82,Herbie Hancock,Gingerbread Boy,,1,p,POSTBOP,285.8,UP,SWING,,4/4,A1: ||Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |F7   |F7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   ||,9
+186,187,166,150,83,Herbie Hancock,Hand Jive,,1,p,POSTBOP,262.1,UP,SWING,,4/4,A1: ||NC   ||,1
+187,188,167,151,82,Herbie Hancock,Orbits,,1,p,POSTBOP,264.9,UP,SWING,,4/4,A1: ||NC   ||,1
+188,189,162,146,28,J.C. Higginbotham,Baby Won't You Please Come Home,,1,tb,TRADITIONAL,209.5,UP,TWOBEAT,Bb-maj,4/4,"A1: ||Bb D7 |G7   |C7   |C7   |F7 F#o |G-   |C7   |F7   ||
+B1: ||Bb D7 |G7   |C- Eb |D7   |Eb Eo |Bb G7 |C7 F7 |Bb G7 |C- F7 |Bb   ||",2
+189,190,168,152,84,J.J. Johnson,Blue Mode,,1,tb,BEBOP,64.1,SLOW,SWING,Bb-maj,4/4,"A1: ||Bb7   |Eb7 Em7b5 |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C-7   |F7   |Bb7 F7 |Bb7G7C-7F7||
+B1: ||Bb7   |A-7 D7 |G-7   |F-7 Bb7 |Eb7   |Eb7   |Eb-7 D7 |Db7 G7 |C-7   |C7 F7 |Bb7 G7 |C-7 F7 ||
+I1: ||Bb7   ||",1
+190,191,169,153,85,J.J. Johnson,Blues in the Closet,,1,tb,BEBOP,234.4,UP,SWING,Bb-blues,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |G7   |C-7   |F7   |Bb7   |F7   ||,16
+191,192,170,154,85,J.J. Johnson,Crazy Rhythm,,1,tb,BEBOP,277.3,UP,SWING,F-maj,4/4,"A1: ||Fj7   |Fj7   |Fj7   |Fj7/A Abo7 |G-7   |C7   |F6   |G-7 C7 ||
+A2: ||Fj7   |Fj7   |Fj7   |Fj7/A Abo7 |G-7   |C7   |F6   |F6  C7||
+B1: ||C-7   |F7   |Bb F7 |Bb   |Bb-   |Eb79   |D7   |G7 C7 ||
+A3: ||Fj7   |Fj7   |G7   |G7   |C7   |C7   |F   |F   ||",5
+192,193,171,155,86,J.J. Johnson,Elora,,1,tb,BEBOP,196.9,UP,SWING,Bb-maj,4/4,"A1: ||C-7   |F7   |Bbj7 Ebj7 |D-7 Db7 |C-7 G7 |C-7 F7 |Bbj7   |D-7 Db7 ||
+A2: ||C-7   |F7   |Bbj7 Ebj7 |D-7 Db7 |C-7 G7 |C-7 F7 |Bbj7   |F-7 Bb7 ||
+B1: ||Ebj7   |Eb-7 Ab7 |Bb-7   |A-7 D7 |G-7   |C7   |C-7   |F7   ||
+A3: ||C-7   |F7   |Bbj7 Ebj7 |D-7 Db7 |C-7 G7 |C-7 F7 |Bbj7   |D-7 Db7 ||
+I1: ||C-7   ||",1
+193,194,172,156,85,J.J. Johnson,My Funny Valentine,,1,tb,BEBOP,133.3,MEDIUM,SWING,F-min,4/4,"A1: ||F-   |F-j7   |F-7   |F-6   |Dbj7   |Bb-7   |Gm7b5   |C79b   ||
+A2: ||F-   |F-j7   |F-7   |F-6   |Dbj7   |Bb-7   |Bb-7   |Eb7   ||
+B1: ||Abj7 Bb-7 |C-7 Bb-7 |Abj7 Bb-7 |C-7 Bb-7 |Abj7 C7 |F-7 Eb-7D7|Dbj7   |Gm7b5 C7 ||
+A3: ||F-   |F-j7   |F-7   |F-6   |Dbj7   |Gm7b5 C79b |F-7 E7 |Eb-7 Ab7 |Dbj7   |Bb-79 Eb7 |Ab6   |Gm7b5 C7 ||",2
+194,195,173,157,84,J.J. Johnson,Teapot,,1,tb,BEBOP,315.2,UP,SWING,F-maj,4/4,"A1: ||F7   |C7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb-7   |Eb7   |Bb-7   |Eb7   |Ab6   |Ab6   |Bb-7 Eb7 |Ab6 C7 ||
+B1: ||F7   |C7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   |F-7   |C7   |F-7   |F-7   |C-7   |F7   |Bb-7 Eb7 |Ab6 C7 ||",2
+195,196,174,158,87,J.J. Johnson,Walkin',,1,tb,HARDBOP,127.9,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |F7   |G-7   |C7   |F7   |G-7 C7 ||,7
+196,197,175,159,85,J.J. Johnson,Yesterdays,,1,tb,BEBOP,125.1,MEDIUM,SWING,D-min,4/4,"A1: ||D-   |Em7b5 A79b |D-   |Em7b5 A79b |D- D-/C# |D-/C   |Bm7b5   |E7   ||
+B1: ||A+7   |D7   |G7   |C7   |C-7 F7 |Bbj7   |Em7b5   |A79b   ||",4
+197,198,176,160,88,Joe Henderson,In 'n Out,,1,ts,POSTBOP,276.7,UP,SWING,Eb-maj,4/4,A1: ||Fsus7913   |Fsus7913   |Fsus7913   |Gbsus7913   |Fsus7913   |Fsus7913   |F7 Eb7 |D79   |Ebj7911#   |Ebj7911#   |Ebj7911#   |Ebj7911#   ||,18
+198,199,176,160,88,Joe Henderson,In 'n Out,,2,ts,POSTBOP,299.5,UP,SWING,Eb-maj,4/4,A1: ||Fsus7913   |Fsus7913   |Fsus7913   |Gbsus7913   |Fsus7913   |Fsus7913   |Fsus7913 Ebsus7913 |D79   |Ebj7911#   |Ebj7911#   |Ebj7911#   |Ebj7911#   ||,8
+199,200,177,121,89,Joe Henderson,Johnny Come Lately,,1,ts,POSTBOP,247.6,UP,SWING,G-min,4/4,"A1: ||G-6   |Eb7 D79b |G-6   |Eb7 D79b |G-6   |Eb7 D79b |G-6   |Eb7 D79b ||
+A2: ||G-6   |Eb7 D79b |G-6   |Eb7 D79b |G-6   |Eb7 D79b |G-6   |F-7 Bb7 ||
+B1: ||Ebj7 F-7 |G- F- |Ebj7 F- |G- F- |Ebj7 F- |G- C7 |F- Bb7 |A79b D79b ||
+A3: ||G-   |Eb7 D79b |G-   |Eb7 D79b |G-   |Eb7 D79b |G-6   |Eb7 D79b ||",3
+200,201,178,161,88,Joe Henderson,Punjab,,1,ts,POSTBOP,160.1,MEDIUM UP,SWING,D-chrom,4/4,"A1: ||Dj7   |Dj7 Bb7913 |Bj7   |Abj7   |Fm7b5   |Bb7   |E6911#   |E6911#   |E6911#   |E6911# Eb7 ||
+B1: ||Abj7   |G7913   |Gb7913 Bj7 |F79   |Fsus79   |Fsus79   |Gj7 Aj7 |Bj7 Cj7911# ||",5
+201,202,179,162,88,Joe Henderson,Serenity,,1,ts,POSTBOP,157.3,MEDIUM UP,SWING,Eb-maj,4/4,A1: ||Dm7b5NC  |G+7   |Abj7 Gbj7 |E-7 A7 |F-7 Bb7 |Ebj7 Dm7b5G7|C-7 C-7/Bb |Ab-7 Db7 |G+7 Gb7 |F7   |Ej7   |F-7 Bb+7 |Ebj7   |Dm7b5 G+7 ||,5
+202,203,180,163,90,Joe Henderson,The Sidewinder,,1,ts,POSTBOP,153.5,MEDIUM UP,LATIN,Eb-maj,4/4,A1: ||Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Ab7   |Ab7   |Ab7   |Ab7   |Eb7   |Eb7   |Eb7   |Eb7   |Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Eb7   |Eb7   ||,3
+203,204,181,164,90,Joe Henderson,Totem Pole,,1,ts,POSTBOP,137.6,MEDIUM,SWING,Eb-min,4/4,"A1: ||Eb-79   |Eb-79   |F7   |F7   |E7   |E7   |Eb-79   |Eb- Bb7 ||
+A2: ||Eb-79   |Eb-79   |F7   |F7   |E7   |E7   |Eb-79   |Eb-79   ||
+B1: ||Bb-7   |Eb7   |Abj7   |Abj7   |Ab-7   |Db7   |Gbj7   |Bb+79   ||
+A3: ||Eb-79   |Eb-79   |F7   |F7   |E7   |E7   |Eb-79   |Bb7   ||",2
+204,205,182,38,89,Joe Henderson,U.M.M.G.,,1,ts,POSTBOP,219.2,UP,SWING,Db-maj,4/4,"A1: ||Fm7b5   |Bb7   |Eb-7   |Ab7   |Dbo7 Db6 |Dbj7   |Db-7   |Gb7   ||
+A2: ||Fm7b5   |Bb7   |Eb-7   |Ab7   |Dbo7 Db6 |Dbj7   |Ab-7 Db7 |Ab-7 Db7 ||
+B1: ||Gm7b5   |C79b   |Fj7   |Fj7   |Abm7b5   |Db79b   |Gb-   |Ab7   ||
+A3: ||Fm7b5   |Bb79b   |Eb-7   |Ab7   |Dbo7   |Db6   |Dbo   |Db6   ||",2
+205,206,183,75,91,Joe Lovano,Body and Soul,,1,ts,POSTBOP,60.5,SLOW,SWING,Db-maj,4/4,"A1: ||Eb-7 B79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6 Bb7 ||
+A2: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db A7 ||
+B1: ||Dj7 E-7 |D/F# G-7C7|F#-7B7E-7A7|Dj7   |D-7 G7 |Cj7 Ebo |D-7 G7 |C7B7Bb7 ||
+A3: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6 Bb7 ||",2
+206,207,183,75,91,Joe Lovano,Body and Soul,,2,ts,POSTBOP,59.6,SLOW,SWING,Db-maj,4/4,"B1: ||Dj7 E-7 |D/F# G-7C7|F#-7B-7E-7A7|Dj7   |D-7 G7 |Cj7 Ebo |D-7 G7 |C7B7Bb7 ||
+A3: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6 Bb7 ||
+I1: ||NC   |NC   |NC   |NC   |NC   |NC   ||",1
+207,208,184,165,91,Joe Lovano,Central Park West,,1,ts,POSTBOP,62.6,SLOW,SWING,B-maj,4/4,A1: ||Bj7 E-7A7|Dj7 Bb-7Eb7|Abj7 G-7C7|Fj7 C#-7F#7|Bj7 E-7A7|Dj7 C#-7F#7|Bj7   |C#-7 F#7 |Bj7   |C#-7 F#7 ||,5
+208,209,185,166,92,Joe Lovano,Con Alma,,1,ts,POSTBOP,124.6,MEDIUM,LATIN/SWING,C-maj,4/4,"A1: ||Ej7 G#7/D# |C#-7 B7 |Bb79b E7alt |Ebj7 Eb-7Ab7|Dbj7 F7/C |Bb-7 Ab7 |G7 Db7alt |Cj7 F#-7B7||
+A2: ||Ej7 G#7/D# |C#-7 B7 |Bb7 E7alt |Ebj7 Eb-7Ab7|Dbj7 F7/C |Bb-7 Ab7 |G7 Db7alt |Cj7   ||
+B1: ||Cm7b5   |F79b   |F#m7b5   |B79b   |Ej7   |Ej7   |F-7   |Bb7   ||
+A3: ||Ej7 G#7/D# |C#-7 B7 |Bb79b E7alt |Ebj7 Eb-7Ab7|Dbj7 F7/C |Bb-7 Ab7 |G7 Db7alt |Cj7 F#-7B7||",1
+209,210,186,167,93,Joe Lovano,I Can't Get Started,,1,ts-c,POSTBOP,106.8,MEDIUM SLOW,SWING,C-maj,4/4,"A1: ||Cj7 A-7 |D-7 G7 |E7 Am7b5 |D-7 Gsus7 |Cj7 A-7 |D-7 G7 |E7 A7 |D-7 Gsus7 ||
+A2: ||Cj7 A-7 |D-7 G7 |E7 Am7b5 |D7 Gsus7 |Cj7 A-7 |D-7 G7 |C6 Bb7 |Cj7   ||
+B1: ||E-7 A7 |E-7 A7 |Dj7 Gj7 |Dj7   |D-7 G7 |D-7 G7 |E-7 A7 |D7 Gsus7 ||
+A3: ||Cj7 A-7 |D-7 G7 |E7 A7 |D7 Gsus7 |Cj7 A79b |D-7 G7 |C6   |D-7 G7 ||",3
+210,211,187,168,94,Joe Lovano,Little Willie Leaps in,,1,ts,POSTBOP,303.7,UP,SWING,F-maj,4/4,"A1: ||F   |G-7 C7 |A-7 D79b |G-7 C79b |Fj7   |G-7 C7 |A-7   |D79b   |B-7 E7 |A-7 D7 |G-7 C7 |Fj7   |E-7 A7 |D-7 G7 |G-7   |C7   ||
+B1: ||F   |G-7 C7 |A-7 D79b |G-7 C79b |Fj7   |G-7 C7 |A-7   |D79b   |B-7 E7 |A-7 D7 |G-7 C7 |F69   |G-7   |C7   |F69   |F69   ||",8
+211,212,188,169,94,Joe Lovano,Lonnie's Lament,,1,ts,POSTBOP,201.0,UP,SWING,C-min,4/4,A1: ||C-7   ||,11
+212,213,189,170,91,Joe Lovano,Work,,1,ss,POSTBOP,208.7,UP,SWING,G-min,4/4,"A1: ||C#7   |C#7   |F#7   |F#7   |F7 E7 |Eb7   |D7   |D7   ||
+A2: ||C#7   |C#7   |F#7   |F#7   |F7 E7 |Eb7   |D7   |D7   ||
+B1: ||D-7 G7 |G7alt   |C7   |C7   |C-7   |C-7   |E7 A7Ab7|D7   ||
+A3: ||C#7   |C#7   |F#7   |F#7   |F7 E7 |Eb7   |D7   |D7   ||",3
+213,214,190,171,95,John Abercrombie,Ralph's Piano Waltz,,1,g,POSTBOP,196.5,UP,SWING,,3/4,"A1: ||G  |G  |Bb  |Bb  |Ebj7911#  |Ebj7911#  |Ebj7911#  |Ebj7911#  |Dbj7  |Dbj7  |Dbj7  |Dbj7  |Dbj7  |Dbj7  |Dbj7  |Dbj7  |A-79  |A-79  |F+j7  |F+j7  ||
+B1: ||A-  |F  |A-  |F  |A-  |F  |A-  |F  ||",3
+214,215,191,172,96,John Coltrane,26-2,,1,ts,HARDBOP,194.5,UP,SWING,F-maj,4/4,A1: ||NC   ||,4
+215,216,192,173,97,John Coltrane,Bessie's Blues,,1,ts,POSTBOP,184.3,UP,SWING,Eb-maj,4/4,A1: ||Eb7   |Ab7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |Eb7   |Bb7   |Ab7   |Eb7   |Eb7   ||,5
+216,217,193,174,98,John Coltrane,Blues by Five,,1,ts,HARDBOP,176.5,MEDIUM UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |C-7   |F7   |Bb7   |F7   ||,7
+217,218,95,88,48,John Coltrane,Blue Train,,1,ts,HARDBOP,141.4,MEDIUM UP,SWING,Eb-maj,4/4,A1: ||Eb7   |Ab7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |C7   |F-7   |Bb7   |Eb7   |Eb7   ||,8
+218,219,194,75,99,John Coltrane,Body and Soul,Alternate Take,1,ts,POSTBOP,138.0,MEDIUM,SWING,Db-maj,4/4,"A1: ||Eb- Eb-j7Eb-7|Ab7   |Eb- Eb-j7Eb-7|Ab7   |Db/Ab   |F+/Ab G+/Ab |F-7/Ab   |E-7 A7 |Absus   |Absus   |Ab7   |B7911#   |F+/Ab G+/Ab |F+/Ab G+/Ab |F+/Ab Ab79b |Db F79b13bBb+7||
+A2: ||Eb- Eb-j7Eb-7|Ab7   |Eb- Eb-j7Eb-7|Ab7   |Db/Ab   |F+/Ab G+/Ab |F-7/Ab   |E-7 A7 |Absus   |Absus   |Ab7   |B7911#   |F+/Ab G+/Ab |F+/Ab G+/Ab |F+/Ab Ab79b |Db E-7A7||
+B1: ||Dj7   |E-7   |D/F#   |G-7 C7 |Dj7 F7 |Bbj7 Db7 |Gbj7 A7 |Dj7   |Dm7b5   |G79b   |Cj7   |Eb7   |Ab7 B7 |Ej7 G7 |Cj7 B7 |Bbsus Bb7 ||",2
+219,220,195,75,99,John Coltrane,Body and Soul,,1,ts,POSTBOP,141.6,MEDIUM UP,SWING,Db-maj,4/4,"A1: ||Eb-/Ab Eb-79/Ab |Ab7   |Eb-/Ab   |Ab7   |Db79/Ab   |F+/Ab G+/Ab |F-7/Ab   |E-7 A7 |Absus   |Absus   |Ab7   |B7911#   |F+/Ab G+/Ab |F+/Ab G+/Ab |F+/Ab Ab7 |Db79 F79b13bBb+7||
+A2: ||Eb-/Ab Eb-79/Ab |Ab7   |Eb-/Ab Eb-79/Ab |Ab7   |Db79/Ab   |F+/Ab G+/Ab |F-7/Ab   |E-7 A7 |Absus   |Absus   |Ab7   |B7911#   |F+/Ab G+/Ab |F+/Ab G+/Ab |F+/Ab Ab7 |Db79 E-7A7||
+B1: ||D79   |E-7   |D/F#   |G-7 C7 |Dj7 F7 |Bbj7 Db7 |Gbj7 A7 |Dj7   |Dm7b5   |G79b   |C79   |Eb7   |Abj7 B7 |Ej7 G7 |Cj7 B7 |Bbsus Bb7913 ||
+A3: ||Eb-/Ab Eb-79/Ab |Ab7   |Eb-/Ab Eb-79/Ab |Ab7   |Db79/Ab   |F+/Ab G+/Ab |F-7/Ab   |E-7 A7 |Absus   |Absus   |Ab7   |B7911#   |F+/Ab G+/Ab |F+/Ab G+/Ab |F+/Ab Ab7 |Db79 F79b13bBb+7||",1
+220,221,196,175,100,John Coltrane,Countdown,,1,ts,HARDBOP,337.6,UP,SWING,Bb-maj,4/4,A1: ||E-7 F7 |Bbj7 Db7 |Gbj7 A7 |Dj7   |D-7 Eb7 |Abj7 B7 |Ej7 G7 |Cj7   |C-7 Db7 |Gbj7 A7 |Dj7 F7 |Bbj7   |E7   |F7   |Bbj7   |Eb7   ||,8
+221,222,197,176,101,John Coltrane,Giant Steps,,1,ts,HARDBOP,290.3,UP,SWING,Eb-maj,4/4,A1: ||Cbj7 D7 |Gj7 Bb7 |Ebj7   |A-7 D7 |Gj7 Bb7 |Ebj7 Gb7 |Cbj7   |F-7 Bb7 |Ebj7   |A-7 D7 |Gj7   |Db-7 Gb7 |Cbj7   |F-7 Bb7 |Ebj7   |Db-7 Gb7 ||,11
+222,223,197,176,101,John Coltrane,Giant Steps,,2,ts,HARDBOP,299.2,UP,SWING,Eb-maj,4/4,A1: ||Bj7 D7 |Gj7 Bb7 |Ebj7   |A-7 D7 |Gj7 Bb7 |Ebj7 F#7 |Bj7   |F-7 Bb7 |Ebj7   |A-7 D7 |Gj7   |C#-7 F#7 |Bj7   |F-7 Bb7 |Ebj7   |C#-7 F#7 ||,2
+223,224,198,177,102,John Coltrane,Impressions,1961,1,ts,POSTBOP,293.4,UP,SWING,D-min,4/4,"A1: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||
+A2: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||
+B1: ||Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   ||
+A3: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||",31
+224,225,199,177,103,John Coltrane,Impressions,1963,1,ts,POSTBOP,278.7,UP,SWING,D-min,4/4,"A1: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||
+A2: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||
+B1: ||Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   ||
+A3: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||",13
+225,226,200,178,100,John Coltrane,Mr. P.C.,,1,ts,HARDBOP,258.2,UP,SWING,C-min,4/4,A1: ||C-7   |C-7   |C-7   |C-7   |F-7   |F-7   |C-7   |C-7   |Ab7   |G7   |C-7   |C-7   ||,16
+226,227,201,179,104,John Coltrane,My Favorite Things,,1,ss,POSTBOP,179.3,MEDIUM UP,SWING,E-min,3/4,"A1: ||E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  |E-7  ||
+I1: ||E-7  |E-7 NC||",1
+227,228,201,179,104,John Coltrane,My Favorite Things,,2,ss,POSTBOP,178.9,MEDIUM UP,SWING,E-maj,3/4,"A1: ||Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  |Ej7  ||
+I1: ||Ej7  |NC  |NC  |NC  ||",1
+228,229,202,180,105,John Coltrane,Nature Boy,,1,ts,POSTBOP,186.1,UP,SWING,E-min,4/4,A1: ||E-7   ||,1
+229,230,203,181,106,John Coltrane,Nutty,,1,ts,HARDBOP,137.8,MEDIUM,SWING,Bb-maj,4/4,"A1: ||Bbj7 G79b/B |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 G79b/B |C-7 F7 |Bbj7   |C-7 F7 ||
+A2: ||Bbj7 G79b/B |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 G79b/B |C-7 F7 |Bbj7   |F-7 Bb7 ||
+B1: ||Ebj7 C79b |F-7 Bb7 |Ebj7 C7 |F-7 Bb7 |Ebj7 C79b |F-7 Bb7 |Ebj7   |C-7 F7 ||
+A3: ||Bbj7 G79b |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 G79b |C-7 F7 |Bbj7   |Bbj7   ||",3
+230,231,204,182,107,John Coltrane,Oleo,,1,ts,HARDBOP,266.2,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C- F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |C-7 F7 ||
+A2: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |Bbj7   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |C-7 F7 ||",4
+231,232,205,183,106,John Coltrane,Soultrane,,1,ts,HARDBOP,82.1,MEDIUM SLOW,SWING,Eb-maj,4/4,"A1: ||Ebj7   |Gm7b5 C7 |F-7   |Db7   |Ab-7 Db7Do|Ebj7 G7C7|F7 Bb7 |G-7C7F-7Bb7||
+A2: ||Ebj7   |Gm7b5 C7 |F-7   |Db7   |Ab-7 Db7Do|Ebj7 G7C7|F7 Bb7 |Ebj7 Am7b5D7||
+B1: ||G-7   |Am7b5 D7 |G-7   |C7 B7 |Bbj7 G-7 |Cm7b5 F7 |F-7/Bb Bbo |B7 Bb7E7||
+A3: ||Ebj7   |Gm7b5 C7 |F-7   |Db7   |Ab-7 Db7Do|Ebj7 G7C7|F7 Bb7 |Ebj7   ||",1
+232,233,43,43,19,John Coltrane,So What,,1,ts,POSTBOP,141.6,MEDIUM UP,SWING,D-maj,4/4,"A1: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||
+A2: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||
+B1: ||Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   |Eb-7   ||
+A3: ||D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   |D-7   ||",2
+233,234,206,184,106,John Coltrane,Trane's Blues,,1,ts,HARDBOP,164.9,MEDIUM UP,SWING,Bb-maj,4/4,A1: ||Bb7NC  |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C-7   |F7   |Bb7   |C-7 F7 ||,7
+234,235,207,185,108,Johnny Dodds,Got No Blues,,1,cl,TRADITIONAL,141.9,MEDIUM UP,TWOBEAT,F-maj,4/4,"A1: ||Eb C7 |F7 Bb7 |Eb C7 |F7 Bb7 |Eb   |Eb C7 |F7   |Bb7   ||
+B1: ||Eb C7 |F7 Bb7 |C- B-Bb|A D7 |Eb C7 |F7 Bb7 |Eb   |Eb   ||",1
+235,236,208,186,108,Johnny Dodds,Heebie Jeebies,,1,cl,TRADITIONAL,165.8,MEDIUM UP,TWOBEAT,Ab-maj,4/4,A1: ||Eb7   |Eb7   |Ab   |Ab   |Eb7 F-7 |Co Eb7 |Ab7 Db6 |Do Ab |Eb7   |Eb7   |Ab   |Ab7   |Db Fo |Ab F7 |Bb7 Eb7 |Ab F7 |Bb7 Eb7 |Ab   |Ab   ||,1
+236,237,209,187,108,Johnny Dodds,Hotter than That,,1,cl,TRADITIONAL,212.4,UP,TWOBEAT,Eb-maj,4/4,"A1: ||Eb   |Eb   |Eb   |Eb   |Eb   |Eb   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Eb   |Eb   ||
+B1: ||Eb   |Eb   |Eb   |Eb   |Eb7   |Eb7   |Ab   |Ab   |Ab   |Ao   |Eb   |C7   |F7   |Bb7   |Eb   ||",1
+237,238,210,188,108,Johnny Dodds,Muskrat Ramble,,1,cl,TRADITIONAL,185.1,UP,TWOBEAT,Ab-maj,4/4,"A1: ||Bb7   |Eb7   |Ab   |Ab Abo |Eb7   |Eb7   |Ab   |Ab   |Bb7   |Eb7   |Ab   |Ab   |F7   |Bb-   |Bb7 Eb7 |Ab   ||
+I1: ||NC   ||",1
+238,239,211,189,108,Johnny Dodds,My Heart,,1,cl,TRADITIONAL,192.2,UP,TWOBEAT,Eb-maj,4/4,"A1: ||Eb   |Bb+7   |Eb   |Do   |Eb7   |Ab7   |F-7   |Bb7   ||
+B1: ||Bb7   |Bb7   |Eb   |C7   |F7   |F7   |Bb7   |Bb7   ||
+I1: ||NC   |NC   ||",1
+239,240,212,190,108,Johnny Dodds,Once in a While,,1,cl,TRADITIONAL,208.5,UP,TWOBEAT,C-maj,4/4,"A1: ||C   |C   |E7   |E7   |A-   |A-   |C7   |C7   |F   |F   |C   |A7   |D7   |D7   |G7   |G7   ||
+B1: ||C   |C   |E7   |E7   |A-   |A-   |C7   |C7   |F   |F   |C   |A7   |D7   |G7   |C   |C   ||",1
+240,241,152,137,76,Johnny Hodges,Bunny,,1,as,SWING,114.4,MEDIUM,SWING,C-maj,4/4,"A1: ||A-7 D7 |G E7 |A-7 D7 |D-7 G7 |C F7 |Bb Bb-7Eb7|A-7 D7 |G C ||
+A2: ||A-7 D7 |G E7 |A-7 D7 |D-7 G7 |Cj7 F7 |Bb Bb-7Eb7|A-7 D7 |G C ||
+B1: ||D-7 G7 |Cj7 A7 |D-7 G7 |Cj7   |C-7 F7 |Bb   |A-7 D7 |B-7 E7 ||
+A3: ||A-7 D7 |G E7 |A- D7 |D-7 G7 |C F7 |Bb Bb-7Eb7|A-7 D7 |G C ||
+I1: ||NC   ||",1
+241,242,213,191,109,Johnny Hodges,Early Morning Rock,,1,as,SWING,175.6,MEDIUM UP,SWING,Eb-maj,4/4,A1: ||Eb7   |Eb7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |F7   |Bb7   |Ab7   |Eb7   |Eb7   ||,2
+242,243,214,192,110,Joshua Redman,Blues on Sunday,,1,ts,POSTBOP,132.7,MEDIUM,SWING,Eb-maj,4/4,A1: ||Eb7   |Ab7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |C7   |F-7   |Bb7   |Eb7   |Bb7   ||,6
+243,244,215,193,111,Joshua Redman,Home Fries,,1,ts,POSTBOP,181.4,UP,SWING,Eb-maj,4/4,A1: ||Eb7   |Eb7   |Eb7   |Eb7   |Ab7   |Gb7911#   |F7   |Bb7   |Eb7   |Eb7   |Ab7   |Ao   |G-7 C7 |F-7 Bb7 |Eb7   |Eb7   ||,6
+244,245,216,194,110,Joshua Redman,I Got You,,1,ts,FUSION,145.2,MEDIUM UP,FUNK,G-min,4/4,A1: ||D79#   |D79#   |D79#   |D79#   |G79#   |G79#   |D79#   |D79#   |A79#   |G79#   |D7   |A+79#   ||,3
+245,246,217,195,112,Joshua Redman,Sweet Sorrow,,1,ts,POSTBOP,53.0,SLOW,BALLAD,G-min,6/8,"A1: ||G-j7   |G-j7   |G-j7   |G-j7   |G-j7   |G-j7   |G-j7   |G-j7   |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb ||
+A2: ||G-j7   |G-j7   |G-j7   |G-j7   |G-j7   |G-j7   |G-j7   |G-j7   |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Eb7 Ab-6/Eb |Db7911# C-7 |B+7 Eb/Bb |Am7b5 D79# |G-j7   |G-j7   |G-j7   |G-j7   |G-j7 NC ||",1
+246,247,218,196,113,Joshua Redman,Tears in Heaven,,1,ts,FUSION,84.0,MEDIUM SLOW,FUNK,Bb-maj,4/4,"A1: ||Bb F/A |G- G-/F |Eb/G Bb/F |F  F7|Bb F/A |G- G-/F |Eb/G Bb/F |F F#o ||
+B1: ||G-   |D/F#   |F-   |G7   |C-   |Fsus   |Bb F/A |G- G-/F |Eb/G FsusF|Bb Absus7Ab7||
+C1: ||Db Co |Bb- Eb/G |Ab Eb/GC|F- Ab |Db Co |Bb- Eb/G |Ab Go |F7   ||",2
+247,248,219,197,71,Kai Winding,Tiny's Blues,,1,tb,BEBOP,222.5,UP,SWING,F-maj,4/4,A1: ||F7   |F7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G7   |C7   |F7   |C7   ||,5
+248,249,220,198,86,Kenny Dorham,Blues in Be-Bop,,1,tp,BEBOP,186.7,UP,SWING,Eb-maj,4/4,A1: ||Eb7   |Eb7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |Eb7   |Bb7   |Ab7   |Eb7   |Eb7   ||,2
+249,250,158,142,78,Kenny Dorham,Doodlin',,1,tp,HARDBOP,121.1,MEDIUM,SWING,Db-maj,4/4,A1: ||Db7   |Gb7   |Db7   |Db7   |Gb7   |Gb7   |Db7   |Db7 Bb7 |Eb-7   |Ab79   |Db7   |Ab7   ||,3
+250,251,176,160,88,Kenny Dorham,In 'n Out,,1,tp,POSTBOP,294.0,UP,SWING,Eb-maj,4/4,A1: ||Fsus7913NC  |NC   |NC   |Gbsus7913   |Fsus7913   |Fsus7913   |F7 Eb7 |D79   |Ebj7911#   |Ebj7911#   |Ebj7911#   |Ebj7911#   ||,12
+251,252,159,143,79,Kenny Dorham,Lady Bird,,1,tp,HARDBOP,211.6,UP,SWING,C-maj,4/4,A1: ||Cj7   |Cj7   |F-7   |Bb7   |Cj7   |Cj7   |Bb-7   |Eb7   |Abj7   |Abj7   |A-7   |D7   |D-7   |G7   |Cj7 Ebj7 |Abj7 Dbj7 ||,5
+252,253,221,199,78,Kenny Dorham,Prince Albert,,1,tp,HARDBOP,152.9,MEDIUM UP,SWING,F-min,4/4,"A1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |D-7 G7 |Cj7   |Cj7   ||
+B1: ||C-7   |F-7   |Bb7   |Ebj7   |Abj7   |Am7b5 D7 |Gj7   |Gj7   ||
+C1: ||Am7b5   |D7   |Gj7   |Gj7   |F#m7b5   |B7   |Ej7   |C7   ||
+D1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |Db-7   |C-7   |Bo   |Bb-7   |Eb7   |Abj7   |Gm7b5 C7 ||",3
+253,254,178,161,88,Kenny Dorham,Punjab,,1,tp,POSTBOP,154.9,MEDIUM UP,SWING,D-chrom,4/4,"A1: ||Dj7   |Dj7 Bb7 |Bj7   |Abj7   |Fm7b5   |Bb7   |Ej7911#   |Ej7911#   |Ej7911#   |Ej7911# Eb7 ||
+B1: ||Abj7   |G7913   |Gb7913   |Cbj7 F7 |F7   |F7   |Gj7 Aj7 |Bj7 Cj7911# ||",4
+254,255,179,162,88,Kenny Dorham,Serenity,,1,tp,POSTBOP,154.9,MEDIUM UP,SWING,Eb-maj,4/4,A1: ||Dm7b5   |G+7   |Abj7 Gbj7 |E-7 A7 |F-7 Bb7 |Ebj7 Dm7b5G7|C-7 C-7/Bb |Ab-7 Db7 |G+7 Gb7 |F7   |Ej7   |F-7 Bb+7 |Ebj7   |Dm7b5 G+7 ||,2
+255,256,222,200,114,Kenny Garrett,Brother Hubbard,,1,as,FUSION,148.0,MEDIUM UP,FUNK,D-min,4/4,"A1: ||D-   |G-   |D-   |G-   |D-   |G-   |D-   |G-   |Abj7   |G-   |Abj7   |G- A7 |D-   |G-   |D-   |G-   ||
+A2: ||D-   |G-   |D-   |G-   |D-   |G-   |D-   |G-   |Abj7   |G-   |Abj7   |G- A7 |D-   |G-   |D-   |G-   ||
+B1: ||G- A7 |D-   |G- A7 |D-   |G- A7 |D-   |G-   |A7 Eb7 |D-   |A7 Eb7 ||
+A3: ||D-   |G-   |D-   |G-   |D-   |Bb-   |D-   |G-   ||",1
+256,257,222,200,114,Kenny Garrett,Brother Hubbard,,2,as,FUSION,143.2,MEDIUM UP,FUNK,D-min,4/4,"A1: ||D-7911   |G-7   |D-7911   |G-7   |D-7911   |G-7   |D-7911   |G-7   |Abj7   |G-7   |Abj7   |E7 A7 |D-7911   |G-7   |D-7911   |G-7   ||
+A2: ||D-7911   |G-7   |D-7911   |G-7   |D-7911   |G-7   |D-7911   |G-7   |Abj7   |G-7   |Abj7   |E7 A7 |D-7911   |G-7   |D-7911   |G-7   ||
+B1: ||G-7 A-7 |D-7   |G-7 A-7 |D-7   |G-7 A-7 |D-7   |G-7   |A7 Bbj7 |Bbj7   |A7911#   |D-7911   |G-7   |D-7911   |G-7   |D-7911   |G-7   |D-7911   |G-7   ||",2
+257,258,223,201,115,Kenny Wheeler,Double Vision,,1,tp,POSTBOP,155.1,MEDIUM UP,LATIN/FUNK,D#-maj,4/4,A1: ||D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   |D#7   |E7   ||,1
+258,259,224,202,116,Kenny Wheeler,Pass It On,,1,tp,FUSION,105.7,MEDIUM SLOW,FUNK,C-min,4/4,"A1: ||C-7   |Eb   |C-7   |Eb   ||
+A2: ||C-7   |Eb   |C-7   |Eb   ||
+B1: ||F-   |Db   |F-   |Gb7   ||
+A3: ||C-7   |Eb   |C-7   |Eb   ||",2
+259,260,225,203,116,Kenny Wheeler,Slipped again,,1,tp,POSTBOP,130.1,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-7   |C7   |F7   |G-7 C7 ||,3
+260,261,207,185,108,Kid Ory,Got No Blues,,1,tb,TRADITIONAL,144.7,MEDIUM UP,TWOBEAT,F-maj,4/4,"A1: ||Eb C7 |F7 Bb7 |Eb C7 |F7 Bb7 |Eb   |Eb C7 |F7   |Bb7   ||
+B1: ||Eb C7 |F7 Bb7 |C- B-Bb|A D7 |Eb C7 |F7 Bb7 |Eb   |Eb   ||
+I1: ||Eb   ||",1
+261,262,226,204,108,Kid Ory,Gut Bucket Blues,,1,tb,TRADITIONAL,149.8,MEDIUM UP,TWOBEAT,C-maj,4/4,A1: ||C   |F   |C   |C   |F   |F   |C   |C   |G7   |F   |C   |C   ||,1
+262,263,210,188,108,Kid Ory,Muskrat Ramble,,1,tb,TRADITIONAL,184.0,UP,TWOBEAT,Ab-maj,4/4,A1: ||Ab   |Ab Abo |Eb7   |Eb7   |Ab   |Ab   |Bb7   |Eb7   |Ab   |Ab   |F7   |Bb-   |Bb7 Eb7 |Ab   ||,1
+263,264,227,205,108,Kid Ory,Savoy Blues,,1,tb,TRADITIONAL,129.6,MEDIUM,TWOBEAT,G-maj,4/4,"A1: ||G7   |C7 C#o |G7/D   |G7/D   |C7   |C7   |G7   |G7   |D7   |D7   |G7   |G7   ||
+I1: ||G7   ||",1
+264,265,228,206,108,Kid Ory,Who's it,,1,tb,TRADITIONAL,211.6,UP,TWOBEAT,C-maj,4/4,"A1: ||C   |A7   |D7   |D7   |G7   |G7   |C   |G7   |C   |C   |G   |G   |A-   |D7   |G7   |G7   ||
+B1: ||C   |A7   |D7   |D7   |D-6   |E7   |A-   |C7   |F   |F   |C   |A7   |D-7   |G7   |C   |C   |C   |C   ||",1
+265,266,229,207,117,Lee Konitz,All the Things You Are,,1,as,COOL,192.5,UP,SWING,Ab-maj,4/4,"A1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |G7   |Cj7   |Cj7   ||
+A2: ||C-7   |F-7   |Bb7   |Ebj7   |Abj7   |D7   |Gj7   |Gj7   ||
+B1: ||A-7   |D7   |Gj7   |Gj7   |F#-7   |B7   |Ej7   |C+7   ||
+C1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |Db-7   |C-7   |Bo7   |Bb-7   |Eb7   |Abj7   |G7 C7 ||",3
+266,267,230,208,117,Lee Konitz,Bop Goes to Leesel,,1,as,COOL,229.2,UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C7   |F7   |Bb7   |F7   ||,6
+267,268,231,209,118,Lee Konitz,Crosscurrent,,1,as,COOL,255.8,UP,SWING,F-maj,4/4,"A1: ||Fj7   |G-7 C7 |A-7   |G-7 C7 |F7   |Bbj7   |G-7 C7 |Fj7   ||
+A2: ||Fj7   |G-7 C7 |A-7   |G-7 C7 |F7   |Bbj7   |G-7 C7 |Fj7   ||
+B1: ||Bb-7   |Aj7   |Ab-7   |Gj7   |Gbj7   |F7 D7 |G-7   |C7   ||
+A3: ||Fj7   |G-7 C7 |A-7   |G-7 C7 |F7   |Bbj7   |G-7 C7 |Fj7   |Fj7   ||",1
+268,269,232,79,117,Lee Konitz,I'll Remember April,,1,as,COOL,211.2,UP,SWING,G-maj,4/4,"A1: ||Gj7   |G6   |Gj7   |G6   |G-7   |G-6   |G-7   |G-6   |Am7b5   |D7   |Bm7b5   |E7   |A-7   |D7   |G   |G79b   ||
+B1: ||C-7   |F7   |Bbj7   |G-7   |C-7   |F7   |Bbj7   |Bb6   |A-7   |D7   |Gj7   |G6   |F#-7   |B7   |Ej7   |A-7 D7 ||
+A2: ||Gj7   |G6   |Gj7   |G6   |G-7   |G-6   |G-7   |G-6   |Am7b5   |D7   |Bm7b5   |E7   |A-7   |D7   |G   |G   ||",3
+269,270,233,210,119,Lee Konitz,Marshmallow,,1,as,COOL,298.6,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |C-7   |F7   |Bbj7   |Bbj7   |C7   |C7   |C-7   |Dm7b5 G7 |C-7   |F+7   ||
+A2: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |Eb-7   |Ab7   |Bbj7   |Bbj7   |C7   |C7   |C-7   |F7   |Bbj7   |Bbj7   ||
+B1: ||C#-7   |F#7   |Bj7   |Bj7   |B-7   |E7   |Aj7   |Aj7   |A-7   |D7   |Gj7   |Gj7   |G-7   |C7   |C-7   |F+7   ||
+A3: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |Eb-7   |Ab7   |Bbj7   |Bbj7   |C7   |C7   |C-7   |F7   |Bbj7   |Bbj7   ||",1
+270,271,234,211,117,Lee Konitz,Mean to Me,,1,as,COOL,138.9,MEDIUM,SWING,Eb-maj,4/4,"B1: ||Abj7   |Bb7 Eb7 |Abj7   |Db7 C7 |F-7   |Db7 C7 |F7   |F-7 Bb7 ||
+A3: ||Ebj7 Eo |F-7 Bb7 |Ebj7 Bb-7Eb7|Abj7 Db7 |G-7 C7 |F-7 Bb7 |Ebj7 C-7 |F-7 Bb7 ||",2
+271,272,235,212,119,Lee Konitz,Tautology,,1,as,COOL,265.8,UP,SWING,F-maj,4/4,"A1: ||F   |F7   |A-   |D7   |G-   |C7   |Fj7   |Fj7   ||
+B1: ||Cj7911# Bb7911# |Ab7911# Gbj7911# |Fj7   |D7   |G-   |C7   |Fj7   |Fj7   ||
+C1: ||Bb-7   |Eb7   |Bbo Bb-7 |Ab   |A-7   |D7   |G7   |C7   ||
+A2: ||F   |F7   |A-   |D7   |G-   |C7   |Fj7   |Fj7   ||",2
+272,273,236,213,118,Lee Konitz,Wow,,1,as,COOL,173.7,MEDIUM UP,SWING,F-maj,4/4,"A1: ||G-7   |C7   |F6   |A- Abj7 |Gj7   |Gb-7   |F6   |F#o   ||
+B1: ||G-7   |C7   |F6   |A-7 Abj7 |Gj7   |Gb-7   |Fj7   |Fj7   ||
+I1: ||C-   ||",1
+273,274,95,88,48,Lee Morgan,Blue Train,,1,tp,HARDBOP,133.6,MEDIUM,SWING,Eb-maj,4/4,"A1: ||Eb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |Eb7   |C-7   |F-7   |Bb7   |Eb7   |Bb7   ||
+A2: ||Eb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |Eb7   |C-7   |F-7   |Bb7   |Eb7   |Bb7   ||
+A3: ||Eb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |Eb7   |C-7   |F-7   |Bb7   |Eb7   |Bb7   ||
+A4: ||Eb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |Eb7   |C-7   |F-7   |Bb7   |Eb7   |Bb7   ||
+A5: ||Eb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |Eb7   |C-7   |F-7   |Bb7   |Eb7   |Bb7   ||
+A6: ||A6   |A6   ||",1
+274,275,237,214,120,Lee Morgan,Just One of Those Things,,1,tp,HARDBOP,318.7,UP,SWING,D-min,4/4,"A1: ||D-7   |D-7   |E-7   |A7   |F7   |F7   |Bbm7b5   |Bb-6   |F/A   |D-7   |G-7   |C7   |Fj7   |F#o7   |G-7   |Em7b5 A79# ||
+A2: ||D-7   |D-7   |E-7   |A7   |F7   |F7   |Bm7b5   |Bb-6   |F/A   |D-7   |G-7   |C7   |Fj7   |F#o7   |F-7   |Bb7   ||
+B1: ||Ebj7   |Eo7   |F-7   |Bb7   |Ebj7   |Ebj7   |D-7   |G7   |Cj7   |A-7   |F#m7b5 Fj7 |F-7   |E-7   |F#o7   |G-7   |Em7b5 A79# ||
+A3: ||D-7   |D-7   |E-7   |A7   |F7   |F7   |Bm7b5   |Bb-6   |A-7   |D7   |G-7   |C7   |Fj7   |Fj7   |Fj7   |Fj7   ||",2
+275,276,180,163,90,Lee Morgan,The Sidewinder,,1,tp,HARDBOP,156.3,MEDIUM UP,LATIN,Eb-maj,4/4,A1: ||Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Eb7   |Ab7   |Ab7   |Ab7   |Ab7   |Eb7   |Eb7   |Eb7   |Eb7   |Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Eb7   |Eb7   ||,3
+276,277,181,164,90,Lee Morgan,Totem Pole,,1,tp,POSTBOP,138.4,MEDIUM,SWING,Eb-min,4/4,"A1: ||Eb-79   |Eb-79   |F7   |F7   |E7   |E7   |Eb-79   |Eb-79 Bb7 ||
+A2: ||Eb-79   |Eb-79   |F7   |F7   |E7   |E7   |Eb-79   |Eb-79   ||
+B1: ||Bb-7   |Eb7   |Abj7   |Abj7   |Ab-7   |Db7   |Gbj7   |Bb+79   ||
+A3: ||Eb-79   |Eb-79   |F7   |F7   |E7   |E7   |Eb-79   |Eb-79 Bb7 ||",2
+277,278,39,39,16,Lester Young,After Theatre Jump,,1,ts,SWING,176.0,MEDIUM UP,SWING,Db-maj,4/4,"A1: ||Db Bb7 |Eb-7 Ab7 |F-7 Bb-7 |Eb-7 Ab7 |Ab-7 Db7 |Gb7 B7 |F-7 Bb-7 |Eb-7 Ab7 ||
+A2: ||Db Bb7 |Eb-7 Ab7 |F-7 Bb-7 |Eb-7 Ab7 |Ab-7 Db7 |Gb7 B7 |F-7 Bb-7 |Eb7 Ab7 ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Eb7   |Ab7   ||
+A3: ||Db Bb7 |Eb-7 Ab7 |F-7 Bb-7 |Eb-7 Ab7 |Ab-7 Db7 |Gb7 B7 |F-7 Bb-7 |Eb-7 Ab7 ||",2
+278,279,238,75,121,Lester Young,Body and Soul,,1,ts,SWING,79.2,SLOW,SWING,Db-maj,4/4,"A1: ||Eb- D7 |Fb-7 D7 |Dbj7 Eb-7 |F-7 Eo |Eb-7   |C-7 B7 |Bb-7 Eb-7Ab7|Dbj7 F-7Bb7||
+A2: ||Eb- D7E7|Eb-7 D7Eb|Dbj7 Eb-7 |F-7 Eo |Eb-7 D7 |C-7 B7 |Bb-7 Eb-7Ab7|Db E-7A7||
+B1: ||Dj7 E-7 |B-7 G-7 |F#-7 E-7 |Dj7   |D-7 G7 |Cj7 Ebo |D-7 G7 |C7B7Bb7 ||
+A3: ||Eb- D7 |Eb-7 Ab7 |Dbj7 Gb7 |F-7 Eo |Eo   |Ab7 Ao |Bb-7 Eb-7 |Db F-7Bb7||",1
+279,280,239,215,122,Lester Young,D.B. Blues,,1,ts,SWING,151.1,MEDIUM UP,SWING,Bb-maj,4/4,"A1: ||Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |G7   |C-7   |F7   |Bb7   |F7   ||
+A2: ||Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |G7   |C-7   |F7   |Bb7   |Bb7   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |G7   |C-7   |F7   |Bb7   ||
+I1: ",1
+280,281,40,40,123,Lester Young,Destination K.C.,,1,ts,SWING,246.0,UP,SWING,C-maj,4/4,"A1: ||C   |C   |G7   |C   |C   |C   |G7   |C   ||
+A2: ||C   |C   |G7   |C   |C   |C   |G7   |C   ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Ab7   |G7   ||
+A3: ||C   |C   |G7   |C   |C   |C   |G7   |C   ||",2
+281,282,41,41,124,Lester Young,Dickie's Dream,,1,ts,SWING,229.3,UP,SWING,C-min,4/4,"A1: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+A2: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+B1: ||C7   |C7   |F7   |F7   |Bb7   |Bb7   |Eb7   |D- G7 ||
+A3: ||C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 |C- C-/Bb |Ab G7 ||
+I1: ||C-   ||",1
+282,283,240,216,125,Lester Young,Lester Leaps In,,1,ts,SWING,251.4,UP,SWING,Bb-maj,4/4,"A1: ||Bb   |Bb   |Bb   |Bb   |Bb   |Bb   |Bb   |Bb   ||
+A2: ||Bb   |Bb   |Bb   |Bb   |Bb   |Bb   |Bb   |Bb   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bb   |Bb   |Bb   |Bb   |Bb   |Bb   |Bb   |Bb   ||",2
+283,284,120,111,123,Lester Young,Six Cats and a Prince,,1,ts,SWING,220.1,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Bbj7   |Bo   |Bo   |C-7   |F7   |Bbj7   |F7   ||
+A2: ||Bbj7   |Bbj7   |Bo   |Bo   |C-7   |F7   |Bbj7   |Bbj7   ||
+B1: ||Bb7   |Bb7   |Eb7   |Eb7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7   |Bbj7   |Bo   |Bo   |C-7   |F7   |Bbj7   |F7   ||",2
+284,285,11,11,5,Lionel Hampton,Avalon,,1,vib,SWING,241.0,UP,SWING,Eb-maj,4/4,"A1: ||Ab7   |Ab7   |Ab7   |Ab7   |Eb6   |Eb6   |Eb6   |Eb6   |Ab7   |Ab7   |Ab7   |Ab7   |Eb6   |Eb6   |Eb6   |Eb6   ||
+B1: ||C7   |C7   |C7   |C7   |F-7   |F-7   |Ab-7   |Db7   |Eb6   |Eb6   |C7   |C7   |F-7   |B7   |Eb6   |Eb6   ||
+I1: ||Ab7   ||",1
+285,286,241,217,126,Lionel Hampton,Dinah,,1,vib,SWING,199.5,UP,SWING,Ab-maj,4/4,"A1: ||Ab   |Ab   |Ab   |F-7   |Bb-7   |Eb7   |Ab Eb7 |Ab   ||
+A2: ||Ab   |Ab   |Ab   |F-7   |Bb-7   |Eb7   |Ab Eb7 |Ab   ||
+B1: ||F-   |Ab+   |Ab   |F-6   |F-7 Ab+ |F-7 Bb7 |Bb-7   |Eb7   ||
+A3: ||Ab   |Ab   |Ab   |F-7   |Bb-7   |Eb7   |Ab Eb7 |Ab   ||",2
+286,287,242,218,126,Lionel Hampton,High Society,,1,vib,SWING,245.1,UP,SWING,Eb-maj,4/4,"A1: ||Eb   |Eb   |Eb   |Eb   |Eb   |Eb Ab |Eb   |Eb   |Bb7   |Bb7 D7 |Eb   |Eb   |F7   |F7   |Bb7   |Bb7   ||
+B1: ||Eb   |Eb   |Eb   |Bb7   |Eb   |Eb Ab |Eb   |Eb7   |Ab   |Ao   |Eb   |C7   |F7   |Bb7   |Eb   |Eb   ||",1
+287,288,243,219,126,Lionel Hampton,Memories of You,,1,vib,SWING,81.8,MEDIUM SLOW,SWING,Eb-maj,4/4,"A1: ||Eb Eo7 |F-7 D7/F# |Eb6 C-7 |F7   |Eb6 C-7 |G-7 C79 |F7 Bb79 |Eb6 F-7Bb79||
+A2: ||Eb6 Eo7 |F-7 D7/F# |Eb6/G C-7 |F7   |Eb6 C-7 |G-7 C79 |F7 Bb79 |Eb6 G7 ||
+B1: ||C-7   |F-7   |C-7   |F79   |C-7   |F79   |G-7 Gb-7 |F-7 Bb7 ||
+A3: ||Eb6 Eo7 |F-7 D7/F# |Eb6/G C-7 |F7   |Eb6 C-7 |G-7 C79 |F7 Bb79 |Eb6 F-7Bb7||",1
+288,289,14,14,5,Lionel Hampton,Runnin' Wild,,1,vib,SWING,281.1,UP,SWING,Bb-maj,4/4,"A1: ||Bb   |Bb   |Bb7   |Bb7   |Eb   |Eb   |Bb   |Bb   |F7   |C-6 D7 |G-   |Bb-6   |F   |C7   |F7   |F7   ||
+B1: ||Bb   |Bb   |Bb7   |Bb7   |Eb   |Eb   |D7   |D7 G7 |C7   |F7   |Bb   |Bb   |F7   |F7   |Bb   |Bb   ||",1
+289,290,16,16,5,Lionel Hampton,Whispering,,1,vib,SWING,99.5,MEDIUM SLOW,SWING,Eb-maj,4/4,"A1: ||Eb   |D7   |Eb   |C+7 C7 |F7   |Bb7   |Eb   |Bb7   ||
+A2: ||Eb   |D7   |Eb   |C+7 C7 |F7   |Bb7   |F-7 Bb7 |Eb   ||
+I1: ||Eb   ||",1
+290,291,244,220,127,Louis Armstrong,Basin Street Blues,,1,tp,TRADITIONAL,107.2,MEDIUM SLOW,TWOBEAT,Bb-maj,4/4,A1: ||Bb   |D7   |G7   |G7   |C7   |F7   |Bb Bbo |C-7 F7 ||,3
+291,292,245,221,108,Louis Armstrong,Big Butter and Egg Man,,1,cor,TRADITIONAL,196.7,UP,TWOBEAT,G-maj,4/4,"A1: ||G   |G   |A7   |A7   |D7   |D7   |G   |G  D7||
+A2: ||G   |Go   |A-   |D7   |D7   |D7   |G   |G   ||
+B1: ||G7   |G7   |C   |C   |E7   |E7   |A7   |D7   ||
+C1: ||G   |G   |A7   |A7   |A-7   |D7   |G   |G   ||
+I1: ||G   |G   ||",1
+292,293,246,222,108,Louis Armstrong,Cornet Chop Suey,,1,cor,TRADITIONAL,192.2,UP,TWOBEAT,F-maj,4/4,A1: ||F   |F   |F   |C7   |F   |Bb Bb- |F   |G7C7F |F   |F   |F   |C7   |F   |Bb Bb- |F   |G7C7F ||,1
+293,294,207,185,108,Louis Armstrong,Got No Blues,,1,cor,TRADITIONAL,142.8,MEDIUM UP,TWOBEAT,F-maj,4/4,A1: ||F   |C   |F   |C   |F   |F   |C   |Bb   |F   |C   |F   |C   |F   |C   |F   |F   ||,2
+294,295,226,204,108,Louis Armstrong,Gut Bucket Blues,,1,cor,TRADITIONAL,146.0,MEDIUM UP,TWOBEAT,C-maj,4/4,A1: ||C7   |F7   |C7   |C7   |F7   |F7   |C7   |C7   |G7   |F7   |C7   |G7   ||,1
+295,296,210,188,108,Louis Armstrong,Muskrat Ramble,,1,cor,TRADITIONAL,183.7,UP,TWOBEAT,Ab-maj,4/4,"A1: ||Bb7   |Eb7   |Ab   |Ab Abo |Eb7   |Eb7   |Ab   |Ab   |Bb7   |Eb7   |Ab   |Ab G7Gb7|F7   |Bb-   |Bb7 Eb7 |Ab   ||
+I1: ||Bb7   ||",1
+296,297,212,190,108,Louis Armstrong,Once in a While,,1,cor,TRADITIONAL,197.7,UP,TWOBEAT,F-maj,4/4,"A1: ||C   |C   |E7   |E7   |A-   |A-   |C7   |C7   |F   |F-   |C   |A7   |D7   |D7   |G7   |G7   ||
+A2: ||C   |C   |E7   |E7   |A-   |A-   |C7   |C7   |F   |F-   |C   |A7   |D7   |G7   |C   |C   |C   |C   |C   ||",1
+297,298,227,205,108,Louis Armstrong,Savoy Blues,,1,cor,TRADITIONAL,129.3,MEDIUM,TWOBEAT,G-maj,4/4,A1: ||G   |C C#o |G/D   |G7   |C   |C   |G   |G   |D7   |D7   |G C7 |G D7 ||,2
+298,299,247,223,128,Michael Brecker,Cabin Fever,,1,ts,POSTBOP,299.9,UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |G7   |C-7   |F7   |Bb7   |F7   ||,16
+299,300,248,224,129,Michael Brecker,Confirmation,,1,ts,POSTBOP,208.9,UP,SWING,F-maj,4/4,"A1: ||Fj7   |Em7b5 A7 |D-7 G7 |C-7 F7 |F-7 Bb7 |Am7b5 D7 |G7   |C7   ||
+A2: ||Fj7   |Em7b5 A7 |D-7 G7 |C-7 F7 |F-7 Bb7 |Am7b5 D7 |G-7 C7 |Fj7   ||
+B1: ||C-7   |F7   |Bbj7   |Bbj7   |Eb-7   |Ab7   |Dbj7   |G-7 C7 ||
+A3: ||Fj7   |Em7b5 A7 |D-7 G7 |C-7 F7 |F-7 Bb7 |Am7b5 D7 |G-7 C7 |Fj7   ||",7
+300,301,249,225,130,Michael Brecker,Delta City Blues,,1,ts,POSTBOP,281.7,UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Eb7   |Eb7   |Bb7   |Bb7   |Bb7   |Bb7   |C-7   |C-7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   ||,4
+301,302,250,226,131,Michael Brecker,I Mean You,,1,ts,POSTBOP,180.0,UP,SWING,F-maj,4/4,"A1: ||F6   |F6   |Db7   |D7   |G-7   |C7   |F6   |G-7 C7 ||
+A2: ||F6   |F6   |Db7   |D7   |G-7   |C7   |F6   |F6   ||
+B1: ||Eb7   |Eb7   |F6   |F6   |Db7   |Db7   |Gb7   |G-7 C7 ||
+A3: ||F6   |F6   |Db7   |D7   |G-7   |C7   |F6   |F6   ||",2
+302,303,251,227,132,Michael Brecker,Midnight Voyage,,1,ts,POSTBOP,125.6,MEDIUM,SWING,C-min,4/4,"A1: ||C-6   |Dm7b5 G7 |C-6   |Asus7 A7 |Absus7 Ab7 |G79#   |C-   |G79#   ||
+A2: ||C-6   |Dm7b5 G7 |C-6   |Asus7 A7 |Eb-7 Ab7 |G7   |C-   |C79#   ||
+B1: ||F-7   |G-7   |F-7   |A79#   |Absus7 Ab7 |G7   |C-   |C79#   |F-7   |G-7   |F-7   |A79#   |Eb-7 Ab7 |G7   |C-   |G79#   ||
+A3: ||C-   |Dm7b5 G7 |C-7   |Asus7 A7 |Absus7 Ab7 |G7   |C-   |G7   ||",2
+303,304,252,228,133,Michael Brecker,Naked Soul,,1,ts,POSTBOP,92.4,MEDIUM SLOW,SWING,,4/4,"A1: ||G-   |G-   |G7911#   |D79#11#   |F-7911   |E/G G |Csus7   |C79#   ||
+B1: ||Fsus   |D79#11#   |Bbsus   |Gb/A   |C/Ab   |C7alt   |Fj7   |Ej79# D7alt ||
+C1: ||G-79   |F7/G   |Gj7911#   |D79#11#   |Gb/F   |E/B G7alt |G-7   |A/C   ||
+D1: ||Dbj7   |Eb6   |Db+/C A/B |Bj7/A#   |C/Ab   |Db79#11# C7alt |F-j7   |F-j7   ||",2
+304,305,253,229,134,Michael Brecker,Never Alone,,1,ts,POSTBOP,48.8,SLOW,BALLAD,Ab,4/4,"A1: ||Ab   |Bb/Ab C/Ab |Gb/Bb Eb/G |C/Ab F-/Ab |Absus  Aj7911#/Ab|Ab79b13 Db-69/AbDb-69/Db|Gbsus7913 Eb-7911E-7911|Dbsus7913  G79#13|C-7911 G7913 |C-7911 G7913 |Eb-j7 Bb79# |Eb-j7 D+79# |G-7911 D+79# |G-7911 G+79# |C-7911 G7913 |C-7911 G7913 |Eb-j7 Bb79# |Eb-j7 D+79#  ||
+I1: ||Ab    ||",1
+305,306,254,230,135,Michael Brecker,Nothing Personal,,1,ts,POSTBOP,243.8,UP,SWING,G-min,4/4,A1: ||G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |G-7   |C-7   |C-7   |C-7   |C-7   |G-7   |G-7   |G-7   |G-7   |Eb7   |Eb7   |D7   |D7   |G-7   |G-7   |G-7   |G-7   ||,5
+306,307,255,231,136,Michael Brecker,Peep,,1,ts,POSTBOP,319.7,UP,SWING,,4/4,A1: ||Dbj7911#/C   |Dbj7911#/C   |C-j7913   |C-j7913   |C-j7911#   |C-j7911#   |Ab79/C   |Ab79/C   |B/C   |Ab+j7/C   |C-j7913   |C-j7913   |C-j7911#   |C-j7911#   |C-7911   |C-7911   |B+79#   |B+79#   |Bb-7913   |Bb-7913   |F/A   |F/A   |Bb-7911   |Bb-7911   |B+79#   |B+79#   |Bb-7913   |Bb-7913   |Gsus/A   |Gsus/A   |Bb-7911   |Bb-7911   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   |Ebsus79   ||,4
+307,308,256,232,133,Michael Brecker,Song for Bilbao,,1,ts,POSTBOP,184.1,UP,SWING,C-maj,,"A1: ||C7   |C7   |C7   |C7   |Ab7   |Ab7   |C7   |C7   ||
+A2: ||C7   |C7   |C7   |C7   |Ab7   |Ab7   |C7   |C7   ||
+B1: ||A-7 Bbj7|G-7 Abj7|F-7 G-7|A-7 B-7||
+A3: ||C7   |C7   |C7   |C7   |Ab7   |Ab7   |C7   |C7   ||",2
+308,309,163,147,81,Miles Davis,Agitation,,1,tp,POSTBOP,252.8,UP,SWING,,4/4,"A1: ||Gsus   |Gsus   |Gsus   |Gsus   |Gsus   |Gsus   |Gsus   |Gsus   |Gsus   |Gsus   ||
+B1: ||Ab   |Db Ab |Ab Db |Ab   |Db Ab |Db   |Ab Db |Db Csus |Gsus   ||",5
+309,310,257,233,137,Miles Davis,Airegin,,1,tp,HARDBOP,241.3,UP,SWING,Ab-maj,4/4,"A1: ||F-7   |C79#   |F-7   |F79b   |Bb-7   |F79#   |Bb-7   |Bb-7   ||
+B1: ||Dbj7   |D-7 G7 |Cj7   |C#-7 F#7 |Bj7   |C-7 F7 |Bbj7   |Bbj7   |Bb-7   |Eb7   |Abj7   |Gm7b5 C7 ||
+A2: ||F-7   |C79#   |F-7   |F79b   |Bb-7   |F79#   |Bb-7   |Bb-7   ||
+B2: ||Dbj7   |Dm7b5 G7 |Cm7b5 Gb7 |F7 B7 |Bb-7   |Eb7   |Ab6   |Gm7b5 C7 ||",3
+310,311,258,234,138,Miles Davis,Bitches Brew,,1,tp,FUSION,97.5,MEDIUM SLOW,FUNK,C-chrom,4/4,A1: ||Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus ||,1
+311,312,258,234,138,Miles Davis,Bitches Brew,,2,tp,FUSION,99.6,MEDIUM SLOW,FUNK,C-chrom,4/4,A1: ||Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus |Bbsus Bsus |Csus Bsus ||,1
+312,313,193,174,98,Miles Davis,Blues by Five,,1,tp,HARDBOP,177.9,MEDIUM UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |F-7 Bb7 |Eb7   |Eb7   |Bb7   |G7   |C-7   |F7   |Bb7   |F7   ||,8
+313,314,164,148,139,Miles Davis,Dolores,,1,tp,POSTBOP,274.6,UP,SWING,,4/4,"A1: ||D-   |F-7 Bb7 |Ebj7   |A-7 D7 |F-7911   |Am7b5 D7 |Dbsus7   |Dbsus7   ||
+B1: ||G-7   |D7   |G-7   |F-7   |E-7   |Eb   ||
+C1: ||G-7   |F-7 Bb7 |Ebj7   |A-7 D7 |F-7   |Am7b5 D7 |Dbsus7   |Dbsus7   ||",5
+314,315,259,235,140,Miles Davis,E.S.P.,,1,tp,POSTBOP,291.4,UP,SWING,F-maj,4/4,"A1: ||E7alt   |E7alt   |Fj7   |Fj7   |E7alt   |E7alt   |Ebj7911#   |Ebj7911#   |D7   |Ebj7911#   |E7   |Fj7 Ebj7 |D-79   |G7   |G-7   |Gb7   ||
+A2: ||E7alt   |E7alt   |Fj7   |Fj7   |E7alt   |E7alt   |Ebj7911#   |Ebj7911#   |D7   |Ebj7911#   |E7   |Fj7 Ebj7 |Db7911#   |G-7   |Db-7 Gb7 |Fj7   ||",6
+315,316,260,236,140,Miles Davis,Eighty-One,,1,tp,POSTBOP,138.3,MEDIUM,SWING,F-maj,4/4,A1: ||Fsus7   |Bbsus7   |Fsus7   |Fsus7   |Bbsus7   |Bbsus7   |Fsus7   |Fsus7   |Csus7   |Bbsus7   |Fsus7   |Fsus7   ||,6
+316,317,53,53,24,Miles Davis,K.C. Blues,,1,tp,BEBOP,120.1,MEDIUM,SWING,C-maj,4/4,A1: ||C7   |F7   |C7   |C7   |F7   |F7   |C7   |E-7 A7 |D-7   |G7   |C7   |D-7 G7 ||,2
+317,318,261,237,141,Miles Davis,Miles Runs the Voodoo Down,,1,tp,FUSION,118.3,MEDIUM,FUNK,F-maj,4/4,A1: ||F79#   ||,1
+318,319,261,237,141,Miles Davis,Miles Runs the Voodoo Down,,2,tp,FUSION,117.9,MEDIUM,FUNK,F-maj,4/4,A1: ||F79#   ||,1
+319,320,204,182,107,Miles Davis,Oleo,,1,tp,HARDBOP,271.1,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |C-7 F7 ||
+A2: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |Bbj7   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |Bbj7   ||",2
+320,321,204,182,107,Miles Davis,Oleo,,2,tp,HARDBOP,268.0,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |C-7 F7 ||
+A2: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |Bbj7   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |Bbj7   ||",2
+321,322,167,151,139,Miles Davis,Orbits,,1,tp,POSTBOP,264.3,UP,SWING,,4/4,A1: ||NC   ||,1
+322,323,43,43,19,Miles Davis,So What,,1,tp,POSTBOP,138.5,MEDIUM,SWING,D-maj,4/4,"A1: ||D-   |D-   |D-   |D-   |D-   |D-   |D-   |D-   ||
+A2: ||D-   |D-   |D-   |D-   |D-   |D-   |D-   |D-   ||
+B1: ||Eb-   |Eb-   |Eb-   |Eb-   |Eb-   |Eb-   |Eb-   |Eb-   ||
+A3: ||D-   |D-   |D-   |D-   |D-   |D-   |D-   |D-   ||",2
+323,324,206,184,106,Miles Davis,Trane's Blues,,1,tp,HARDBOP,164.0,MEDIUM UP,SWING,Bb-maj,4/4,"A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C-7   |F7   |Bb7   |C-7 F7 ||
+A2: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C-7   |F7   |Bb7   |C-7 F7 ||",5
+324,325,262,238,142,Miles Davis,Tune Up,,1,tp,HARDBOP,281.5,UP,SWING,D-maj,4/4,"A1: ||E-7   |A7   |Dj7   |Dj7   |D-7   |G7   |Cj7   |Cj7   |C-7   |F7   |Bbj7   |Ebj7   |E-7   |F7   |Bbj7   |E-7 A79# ||
+A2: ||E-7   |A7   |Dj7   |Dj7   |D-7   |G7   |Cj7   |Cj7   |C-7   |F7   |Bbj7   |Ebj7   |E-7   |A7   |Dj7   |E-7 A79# ||",3
+325,326,263,239,143,Miles Davis,Vierd Blues,,1,tp,HARDBOP,114.7,MEDIUM,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |G79b   |C-   |F7   |Bb7 G79b |C-7 F7 ||,3
+326,327,174,158,87,Miles Davis,Walkin',,1,tp,HARDBOP,127.7,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-7   |C7   |F7   |G-7 C7 ||,7
+327,328,264,207,144,Milt Jackson,All the Things You Are,,1,vib,COOL,166.9,MEDIUM UP,SWING,Ab-maj,4/4,"A1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |G7   |Cj7   |Cj7   ||
+A2: ||C-7   |F-7   |Bb7   |Ebj7   |Abj7   |A-7 D7 |Gj7   |Gj7   ||
+B1: ||A-7   |D79#   |Gj7   |Gj7   |F#-7   |B7   |Ej7   |C+7   ||
+C1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |Db-7   |C-7   |Bo   |Bb-7   |Eb7   |Abj7   |G7 C7 ||",1
+328,329,265,240,145,Milt Jackson,Bag's Groove,,1,vib,BEBOP,175.1,MEDIUM UP,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |F7   |G-7   |C7   |F7   |C7   ||,2
+329,330,266,241,146,Milt Jackson,Bemsha Swing,,1,vib,COOL,152.3,MEDIUM UP,SWING,C-maj,4/4,"A1: ||Cj7 A-7 |Abj7 Db7 |Cj7 Eb7 |D7 Db7 |Cj7 A-7 |Abj7 Db7 |Cj7 Bb7 |Ab7 Gb7 ||
+B1: ||Fj7 D-7 |Dbj7 Gb7 |Fj7 Ab7 |G7 Db7 |Cj7 A-7 |Abj7 Db7 |Cj7 Bb7 |Ab7 G7 ||",5
+330,331,267,242,145,Milt Jackson,Don't Get Around Much Anymore,,1,vib,BEBOP,182.6,UP,SWING,C-maj,4/4,"A1: ||Cj7D-7D#oE-7|E-7   |A7   |A7   |D-7   |G7   |C   |G7   ||
+A2: ||Cj7D-7D#oE-7|E-7   |A7   |A7   |D-7   |G7   |C   |C7   ||
+B1: ||F   |F-   |E-7 C |C7   |F6   |F#m7b5 B79b |E-7 D7 |D-7   ||
+A3: ||Cj7D-7D#oE-7|E-7   |A7   |A7   |D-   |G7   |C   |C G7 ||
+I1: ||NC   |NC   ||",1
+331,332,268,99,144,Milt Jackson,Softly as in a Morning Sunrise,,1,vib,COOL,137.3,MEDIUM,SWING,C-min,4/4,"A1: ||C-7   |Dm7b5 G7 |C-7   |Dm7b5 G7 |C-7   |Dm7b5 G7 |C-7   |Dm7b5 G7 ||
+A2: ||C-7   |Dm7b5 G7 |C-7   |Dm7b5 G7 |C-7   |Dm7b5 G7 |C-7   |F-7 Bb7 ||
+B1: ||Ebj7   |Gm7b5   |C7   |C79b   |F-   |C7 Ab7911# |D-/G   |G7   ||
+A3: ||C-7   |Dm7b5 G7 |C-7   |Dm7b5 G7 |C-7   |Dm7b5 G7 |C-7   |G79   ||",3
+332,333,269,243,145,Milt Jackson,What's New,,1,vib,BEBOP,71.5,SLOW,SWING,C-maj,4/4,"B1: ||F6   |Eb-7 Ab7 |Dbj7   |Gm7b5 C7 |F-7 Dm7b5 |Gm7b5 C7 |F-6   |Dm7b5 G7 ||
+A3: ||C6   |Bb-7 Eb7 |Abj7   |Dm7b5 G7 |C-7 Am7b5 |Dm7b5 G7 |C6 A-7 ||",1
+333,334,270,244,18,Nat Adderley,Bohemia After Dark,,1,tp,HARDBOP,295.4,UP,SWING,G-min,4/4,"A1: ||D79b   |D79b   ||
+A2: ||G-7   |Am7b5 D79b |G-7   |Am7b5 D79b |G-7   |Am7b5 D79b |G-7   |G-7   |G-7   |C7   |C7   |C7   |C7   |C7   |Am7b5   |D7   ||
+A3: ||G-7   |Am7b5 D79b |G-7   |Am7b5 D79b |G-7   |Am7b5 D79b |G-7   |G-7   ||",3
+334,335,46,46,22,Nat Adderley,Work Song,,1,tp,HARDBOP,155.4,MEDIUM UP,SWING,F-min,4/4,A1: ||F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |G7   |C7   |F-7   |F-7   |F-7   |F-7   |F7   |Bb7   |G7 C7 |F-7   ||,3
+335,336,271,245,147,Ornette Coleman,Bird Food,,1,as,FREE,255.8,UP,SWING,,,A1: ||NC   ||,1
+336,337,272,246,148,Ornette Coleman,Chronology,,1,as,FREE,236.0,UP,SWING,,,A1: ||NC   ||,1
+337,338,273,247,148,Ornette Coleman,Congeniality,,1,as,FREE,232.6,UP,SWING,,,A1: ||NC   ||,1
+338,339,274,248,148,Ornette Coleman,Peace,,1,as,FREE,125.7,MEDIUM,SWING,,,A1: ||NC   ||,1
+339,340,275,249,147,Ornette Coleman,Ramblin',,1,as,FREE,201.3,UP,SWING,,,A1: ||D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|D7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7|G7||,1
+340,341,276,250,149,Pat Martino,Along Came Betty,,1,g,POSTBOP,132.7,MEDIUM,LATIN,Ab-maj,4/4,"A1: ||Bb-7   |B-7 E7 |Bb-7   |B-7 E7 |Aj7   |Ab7   |Gj7   |Gb7   ||
+A2: ||Gb-7   |G-7 C7 |Gb-7   |G-7 C7 |Fj7   |A7   |D-7   |G7   ||
+B1: ||C-7   |F7   |Am7b5 D7 |G-7   |Em7b5   |A7   |F-7   |Bb7   ||
+C1: ||Bb-7   |B-7 E7 |Bb-7   |B-7 E7 |Cm7b5   |F7   |Bbm7b5   |Eb7   |Abj7   |B-7 E7 ||",2
+341,342,277,207,150,Pat Metheny,All the Things You Are,,1,g,POSTBOP,306.7,UP,SWING,F-maj,4/4,"A1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |G7   |Cj7   |Cj7   |C-7   |F-7   |Bb7   |Ebj7   |Abj7   |D7   |Gj7   |Gj7   ||
+B1: ||A-7   |D7   |Gj7   |Gj7   |F#-7   |B7   |Ej7   |C+7   ||
+C1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |Db-7   |C-7   |Bo7   |Bb-7   |Eb7   |Abj7   |G7 C7 ||",6
+342,343,278,223,128,Pat Metheny,Cabin Fever,,1,g,POSTBOP,308.1,UP,SWING,Bb-maj,4/4,A1: ||Bb7 NC |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |G7   |C-7   |F7   |Bb7   |Bb7   ||,8
+343,344,279,227,128,Pat Metheny,Midnight Voyage,,1,g,POSTBOP,127.7,MEDIUM,SWING,C-min,4/4,"A1: ||C-7   |G79b   |C-7   |Asus7   |Ab7   |G79b   |C-7   |C-7   ||
+A2: ||C-7   |G79b   |C-7   |Asus7   |Ab7   |G7   |C-7   |C-7   ||
+B1: ||F-7   |G-7   |F-7   |A7alt   |Ab7   |G79b   |C-7   |C-7   |F-7   |G-7   |F-7   |A7alt   |Ab7   |G79b   |C-7   |C-7   ||
+A3: ||C-7   |G79b   |C-7   |Asus7   |Ab7   |G79b   |C-7   |C-7   ||
+I1: ||NC   |NC   ||",1
+344,345,280,230,135,Pat Metheny,Nothing Personal,,1,g,POSTBOP,242.1,UP,SWING,G-min,4/4,A1: ||G-   |G-   |G-   |G-   |G-   |G-   |G-   |G-   |C-7   |C-7   |C-7   |C-7   |G-   |G-   |G-   |G-   |Eb7   |Eb7   |D7   |D7   |G-   |G-   |G-   |G-   ||,3
+345,346,281,251,151,Paul Desmond,Alianca,,1,as,COOL,232.7,UP,LATIN,Bb-maj,4/4,A1: ||Bb   |Bb   |A-7   |D7   |G-   |G-   |G-7   |C7   |C-7   |F7   |D-   |G-   |E-7   |E-7   |D   |F7   |F7   |F7   |A-7   |D7   |G-   |G-   |G-7   |C7   |C-   |F7   |D-   |G7   |C-7   |F7   |Bb   |C-7   ||,2
+346,347,281,251,151,Paul Desmond,Alianca,,2,as,COOL,235.9,UP,LATIN,Bb-maj,4/4,"A1: ||Bb   |Bb   |A-7   |D7   |G-   |G-   |G-7   |C7   |C-7   |F7   |D-   |G-   |E-7   |A7   |D   |F7   ||
+A2: ||Bb   |Bb   |A-7   |D7   |G-   |G-   |G-7   |C7   |C-   |F7   |D-   |G7   |C-7   |F7   |Bb   |C-7 F7 ||",1
+347,348,282,252,152,Paul Desmond,Alone Together,,1,as,COOL,199.9,UP,SWING,C-min,4/4,"A1: ||C-6   |Dm7b5 G79b |C-6   |Dm7b5 G79b |C-6   |Gm7b5 C79b |F-7   |F-7   |A-7 D7 |F-7 Bb7 |Ebj7   |Dm7b5 G7 |Cj7   |Dm7b5 G7 ||
+A2: ||C-6   |Dm7b5 G79b |C-6   |Dm7b5 G79b |C-6   |Gm7b5 C79b |F-7   |F-7   |A-7 D7 |F-7 Bb7 |Ebj7   |Dm7b5 G7 |Cj7   |Cj7   ||
+B1: ||Gm7b5   |C79b   |F-6   |F-6   |Fm7b5   |Bb79b   |Ebj7   |Dm7b5 G79b ||
+A3: ||C-6   |Dm7b5 G79b |C-6   |Dm7b5 G79b |C-6   |Ab7 G7 |C-6   |Dm7b5 G7 ||",3
+348,349,283,253,153,Paul Desmond,Blue Rondo a la Turk,,1,as,COOL,117.1,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-7   |C7   |F7 D7 |G-7 C7 ||,4
+349,350,284,254,151,Paul Desmond,Bossa Antigua,,1,as,COOL,191.6,UP,LATIN,Ab-maj,4/4,"A1: ||Abj7   |Abj7   |Bb-7   |Eb7   |Abj7   |F-7   |Bb-7   |Eb7   |C-7   |F7   |Bb-7   |Eb7   |Abj7   |F-7   |Bb-7   |D-7 G7 ||
+B1: ||Cj7   |A-7   |D-7   |G7   |E-7   |A-7   |D-7   |G7   |C-7   |F7   |Bb-7   |Eb7   |Abj7   |F-7   |Bb-7   |Eb7   ||",2
+350,351,285,255,151,Paul Desmond,Samba Cantina,,1,as,COOL,150.8,MEDIUM UP,LATIN,F-min,4/4,"A1: ||Gm7b5   |C79b   |F-7   |F-7   |Bb-7   |Eb7   |Abj7   |Abj7   |Gm7b5   |C7   |F-7   |F-7   |Dm7b5   |G79b   |C79b   |C79b   ||
+B1: ||Gm7b5   |C79b   |F-7   |F-7   |Bb-7   |Eb7   |Cm7b5   |F79b   |Bb-7   |Gm7b5 C7 |F-7   |Dm7b5 Db7 |C7   |C7   |F-7   |F-7   ||",2
+351,352,285,255,151,Paul Desmond,Samba Cantina,,2,as,COOL,152.7,MEDIUM UP,LATIN,F-min,4/4,"A1: ||Gm7b5   |C79b   |F-7   |F-7   |Bb-7   |Eb7   |Abj7   |Abj7   |Gm7b5   |C7   |F-7   |F-7   |Dm7b5   |G79b   |C79b   |C79b   ||
+B1: ||Gm7b5   |C79b   |F-7   |F-7   |Bb-7   |Eb7   |Cm7b5   |F79b   |Bb-7   |Gm7b5 C7 |F-7   |Dm7b5 Db7 |C7   |C7   |F-7   |F-7   ||",1
+352,353,286,256,151,Paul Desmond,The Girl from East 9th Street,,1,as,COOL,142.1,MEDIUM UP,LATIN,Ab-maj,4/4,"A1: ||Ab   |Db7   |C-7   |C-7 F7 |Bb7   |Eb7   |Eb-7   |Ab7   ||
+B1: ||Db   |Db   |Db-7   |Db-7 Gb7 |B-7   |E7   |A7   |Bb-7 Eb7 ||
+A2: ||Ab7   |Db7   |C-7   |C-7 F7 |Bb-7   |Eb7   |Eb-7   |Ab7   ||
+B2: ||Db7   |Db-7 Gb7 |B   |F7   |Bb-7   |Eb7   |Ab   |Eb7   ||",2
+353,354,287,76,120,Pepper Adams,A Night in Tunisia,,1,bs,HARDBOP,127.7,MEDIUM,LATIN,D-min,4/4,"A1: ||D-6   |Eb7   |D-6   |Eb7   |D-6   |Em7b5 A7 |D-6   ||
+A2: ||Eb7   |D-6   |Eb7   |D-6   |Eb7   |D-6   |Em7b5 A7 |D-6   ||
+B1: ||Am7b5   |D79b   |G-6   |G-7 C7 |Gm7b5   |C79b   |F6   |Em7b5 A7 ||
+A3: ||Eb7   |D-6   |Eb7   |D-6   |Eb7   |D-6   |Em7b5 A7 |D-6   ||",2
+354,355,288,257,154,Pepper Adams,Early Morning Mood,,1,bs,HARDBOP,59.8,SLOW,SWING,G-maj,4/4,A1: ||G7   |C7 C#o7 |G7   |G7   |C7   |C7   |G7   |B-7 Bbo |A-7   |D7   |G7 C7 |D7   ||,3
+355,356,289,258,154,Pepper Adams,How High the Moon,,1,bs,HARDBOP,115.7,MEDIUM,SWING,G-maj,4/4,"A1: ||Gj7   |Gj7   |G-7   |C7   |Fj7   |Fj7   |F-7   |Bb7   |Ebj7   |Am7b5 D7 |G-7   |G-7   |G79   |Cj7   |B-7 Bb7 |A-7 D7 ||
+B1: ||Gj7   ||",1
+356,357,237,214,120,Pepper Adams,Just One of Those Things,,1,bs,HARDBOP,314.0,UP,SWING,F-maj,4/4,"A1: ||D-7   |D-7   |E-7   |A7   |F7   |F7   |Bm7b5   |Bb-6   |F/A   |Ab7   |G-7   |C7   |F6   |F#o   |G-7   |Em7b5 A79# ||
+A2: ||D-7   |D-7   |E-7   |A7   |F7   |F7   |Bm7b5   |Bb-6   |F/A   |Ab7   |G-7   |C7   |F6   |F#o7   |F-7   |Bb7   ||
+B1: ||Ebj7   |Eo   |F-7   |Bb7   |Eb6   |Eb6   |D-7   |G7   |C6   |C6   |F#m7b5   |F-7   |E-7   |Ebo   |G-7   |Em7b5 A79# ||
+A3: ||D-7   |D-7   |E-7   |A7   |F7   |F7   |Bm7b5   |Bb-6   |F/A   |D7   |G-7   |C7   |Fj7   |Fj7   |Em7b5   |A7   ||",2
+357,358,290,68,154,Pepper Adams,You'd Be So Nice to Come Home to,,1,bs,HARDBOP,88.6,MEDIUM SLOW,SWING,C-maj,4/4,A1: ||A-6   ||,1
+358,359,291,259,155,Phil Woods,Be My Love,,1,as,BEBOP,218.0,UP,SWING,F-maj,4/4,"A1: ||Fj7   |Fj7   |Em7b5   |A79b   |D-7   |Bm7b5   |E7   |A7   ||
+B1: ||D7   |G-7   |Abo7   |A-7   |D-7   |G7   |G-7   |C7   ||
+A2: ||Fj7   |Fj7   |Em7b5   |A79b   |D-7   |Bm7b5   |E7   |A7   ||
+B2: ||D7   |G-7   |Abo7 A-7 |D-7   |G-7   |C7   |Eb7   |D7   |G-7   |C7   |Fj7   |G-7 C7 ||",3
+359,360,292,260,156,Phil Woods,Cotton Tail,,1,as,BEBOP,241.5,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7 G-7 |C-7 F7 |Bbj7 G-7 |C-7 F7 |Bbj7 Bb7 |Eb7 Ab7 |Bbj7 G-7 |C-7 F7 ||
+A2: ||Bbj7 G-7 |C-7 F7 |Bbj7 G-7 |C-7 F7 |Bbj7 Bb7 |Eb7 Ab7 |Bbj7   |C-7 F7 ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7 G-7 |C-7 F7 |Bbj7 G-7 |C-7 F7 |Bbj7 Bb7 |Eb7 Ab7 |Bbj7 C-7F7|Bbj7   ||",1
+360,361,293,154,156,Phil Woods,Crazy Rhythm,,1,as,BEBOP,236.2,UP,SWING,F-maj,4/4,"A1: ||Fj7   |Fj7   |Fj7   |Fj7/A Abo7 |G-7   |C7   |F6 D7 |G-7 C7 ||
+A2: ||Fj7   |Fj7   |Fj7   |Fj7/A Abo7 |G-7   |C7   |F6   |F6   ||
+B1: ||C-7   |F7   |Bbj7   |Bbj7   |Bb-7   |Eb79   |D7   |G-7 C7 ||
+A3: ||Fj7   |Fj7   |G7   |G7   |G-7   |C7   |F6 D7 |G-7 C7 ||",1
+361,362,294,261,156,Phil Woods,Honeysuckle Rose,,1,as,BEBOP,233.3,UP,SWING,F-maj,4/4,"A1: ||G-7 C7 |G-7 C7 |G-7 C7 |G-7 C7 |F6 D-7 |G-7 C7 |F6   |A-7 D7 ||
+A2: ||G-7 C7 |G-7 C7 |G-7 C7 |G-7 C7 |F6 D-7 |G-7 C7 |F6   |F6   ||
+B1: ||F7   |C-7 F7 |Bb6   |Bb6   |G7   |G7   |C7   |C7   ||
+A3: ||G-7 C7 |G-7 C7 |G-7 C7 |G-7 C7 |F6 D-7 |G-7 C7 |F6   |A-7 D7 ||",1
+362,363,295,262,157,Phil Woods,On a Slow Boat to China,,1,as,BEBOP,242.6,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Bo7 G7 |C-7   |Dbo7   |Bbj7   |Am7b5 D79b |Ebj7   |Dm7b5 G7 |C-7   |Em7b5 A79b |Bbj7 Ab7911 |G7   |C7   |C7   |C-7   |F79   ||
+B1: ||Bbj7   |Bo7 G7 |C-7   |Dbo7   |Bbj7   |Am7b5 D79b |Ebj7   |Dm7b5 G7 |C-7   |Ab7911#   |Bbj7   |Dm7b5 G7 |C7   |F7   |Bbj7   |C-7 F7 ||",4
+363,364,296,263,158,Phil Woods,Strollin' with Pam,,1,as,BEBOP,138.9,MEDIUM,SWING,Eb-maj,4/4,A1: ||Eb7   |Ab7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |D-7 G7 |C-7   |F7   |Eb7 C7 |F-7 Bb7 ||,7
+364,365,204,182,107,Red Garland,Oleo,,1,p,HARDBOP,264.9,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |F-7 Bb7 |Ebj7 Eb-6 |Bbj7 G7 |C-7 F7 ||
+A2: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 Bb7 |Ebj7 Eb-6 |Bbj7 F7 |Bj7   ||
+B1: ||D7   |D7   |G7   |G7   |C7   |C7   |F7   |F7   ||
+A3: ||Bbj7 G7 |C-7 F7 |Bbj7 G7 |C-7 F7 |Bbj7 Bb7 |Ebj7 Eb-6 |Bbj7 F7 |Bbj7   ||",2
+365,366,92,86,46,Rex Stewart,Perdido,,1,cor,SWING,177.8,MEDIUM UP,SWING,Bb-maj,4/4,"A1: ||C-7 F7 |C-7 F7 |Bb   |Bb   |C-7 F7 |C-7 F7 |Bb   |Bo   ||
+A2: ||C-7 F7 |C-7 F7 |Bb   |Bb   |C-7 F7 |C-7 F7 |Bb   |Bb   ||
+B1: ||D7   |D7   |G79   |G+7   |C7   |C7   |F7   |F+7   ||
+A3: ||C-7 F7 |C-7 F7 |Bb   |Bb   |C-7 F7 |C-7 F7 |Bb   |Bb   ||",2
+366,367,79,75,36,Roy Eldridge,Body and Soul,,1,tp,SWING,107.0,MEDIUM SLOW,SWING,Db-maj,4/4,"A1: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6 Bb7 ||
+A2: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db A7 ||
+B1: ||Dj7 E-7 |D/F# G-7C7|F#-7B-7E-7A7|Dj7   |D-7 G7 |Cj7 Ebo |D-7 G7 |C7B7Bb7 ||
+A3: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6   |Db6NC  ||",1
+367,368,297,264,159,Roy Eldridge,King David,,1,tp,SWING,149.8,MEDIUM UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C-7   |F7   |Bb7   |F7   ||,2
+368,369,298,265,160,Roy Eldridge,St. Louis Blues,,1,tp,SWING,361.3,UP,SWING,G-maj,4/4,"A1: ||G-   |G-   |D7   |D7   |D7   |D7   |G-   |G- D7 ||
+A2: ||G-   |G-   |D7   |D7   |D7   |D7   |G- A7 |D7   ||
+B1: ||G   |G   |G   |G7   |C7   |C7 D7 |G   |G   |D7   |A7 D7 |G   |D7   ||
+B2: ||G   |G   |G   |G7   |C7   |C7 D7 |G   |G   |D7   |A7 D7 |G   |D7   ||
+B3: ||G   |G   |G   |G7   |C7   |C7 D7 |G   |G   |D7   |A7 D7 |G   |G7   |G7   ||",1
+369,370,299,266,160,Roy Eldridge,The Gasser,,1,tp,SWING,231.3,UP,SWING,Ab-maj,4/4,"A1: ||F7   |F7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Eb7   |Eb7   |Ab6   |Bb-7 Eb7 |Ab6   |Gm7b5 C7 ||
+B1: ||F7   |F7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   |F-7   |Gm7b5 C7 |F-7   |Bb-7 Eb7 |Ab6 G7 |Gb7 F7 |Bb7 Eb7 |Ab6   ||",2
+370,371,299,266,160,Roy Eldridge,The Gasser,,2,tp,SWING,237.7,UP,SWING,Ab-maj,4/4,"A1: ||F7   |F7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Eb7   |Eb7   |Ab6   |Bb-7 Eb7 |Ab6   |Gm7b5 C7 ||
+B1: ||F7   |F7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   |F-7   |Gm7b5 C7 |F-7   |Bb-7 Eb7 |Ab6 G7 |Gb7 F7 |Bb7 Eb7 |Ab6   ||",2
+371,372,300,267,159,Roy Eldridge,Undecided,,1,tp,SWING,243.6,UP,SWING,Bb-maj,4/4,"A1: ||Bb6   |Bb6   |Eb79   |Eb79   |C7   |C-7 F7 |Bb6 G7 |C-7 F7 ||
+A2: ||Bb6   |Bb6   |Eb79   |Eb79   |C7   |C-7 F7 |Bb6   |Bb6   ||
+B1: ||F-7 Bb7 |Bb7   |Eb6   |Eb6   |G-7 C7 |C7   |F7   |F7   ||
+A3: ||Bb6   |Bb6   |Eb79   |Eb79   |C7   |C-7 F7 |Bb6   |Bb6   ||",2
+372,373,162,146,28,Sidney Bechet,Baby Won't You Please Come Home,,1,ss,TRADITIONAL,207.0,UP,TWOBEAT,Bb-maj,4/4,"A1: ||Bb D7 |G7   |C7   |C7   |F7 F#o |G-   |C7   |F7   ||
+B1: ||Bb D7 |G7   |C- Eb |D7   |Eb Eo |Bb G7 |C7 F7 |Bb G7 |C7 F7 |Bb   ||
+I1: ||Bb   ||",1
+373,374,301,22,28,Sidney Bechet,I'm Coming Virginia,,1,ss,TRADITIONAL,192.8,UP,TWOBEAT,F-maj,4/4,"A1: ||FF7BbBb-|F   |D- A7 |D- F7 |Bb A7Ab7|G7 C7 |F   |F C7 ||
+B1: ||FF7BbBb-|F D-7 |A- E7 |A-   |Fo E7 |C-6/Eb D7 |Bb-/Db C7 |F F7 ||
+C1: ||Bb   |Bb   |Bb-   |C7   |G7   |C7   |F   |F   ||",1
+374,375,64,63,28,Sidney Bechet,Limehouse Blues,,1,ss,TRADITIONAL,273.6,UP,TWOBEAT,Ab-maj,4/4,"A1: ||Db7   |Db7   |Db7   |Db7   |Bb7   |Bb7   |Bb7   |Bb7   |Ab   |Ab   |C7   |F-7   |Bb7   |Bb7   |Eb7   |Ab7   ||
+B1: ||Db7   |Db7   |Db7   |Db7   |Bb7   |Bb7   |Bb7   |Bb7   |Ab   |F7   |Bb-7   |Bb-7   |Bbm7b5   |Eb7   |Ab   |Ab   ||",1
+375,376,302,268,161,Sidney Bechet,Really the Blues,,1,ss,TRADITIONAL,70.6,SLOW,TWOBEAT,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |F7   |F7   |Bb7 Eb7 |Bb7 F7 ||,2
+376,377,303,269,161,Sidney Bechet,Summertime,,1,ss,TRADITIONAL,84.2,MEDIUM SLOW,TWOBEAT,G-min,4/4,"A1: ||G- D7 |G- D7 |G- D7 |G- G7 |C-   |C-   |Am7b5   |D7   ||
+B1: ||G-   |G-   |G-   |C-7 F7 |Bbj7 Eb7 |Am7b5 D7 |G-   |Am7b5 D7 ||",4
+377,378,257,233,137,Sonny Rollins,Airegin,,1,ts,HARDBOP,242.6,UP,SWING,Ab-maj,4/4,"A1: ||F-7   |C79#   |F-7   |F79b   |Bb-7   |F79#   |Bb-7   |Bb-7   ||
+B1: ||Dbj7   |D-7 G7 |Cj7   |Db-7 Gb7 |Bj7   |C-7 F7 |Bbj7   |Bbj7   |Bb-7   |Eb7   |Abj7   |Gm7b5 C7 ||
+A2: ||F-7   |C79#   |F-7   |F79b   |Bb-7   |F79#   |Bb-7   |Bb-7   ||
+B2: ||Dbj7   |Dm7b5 G7 |Cm7b5 Gb7 |F7 B7 |Bb-7   |Eb7   |Ab6   |Gm7b5 C79b ||",3
+378,379,304,270,162,Sonny Rollins,Blue Seven,,1,ts,HARDBOP,134.6,MEDIUM,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |F7   |Eb7   |Bb7   |F7   ||,5
+379,380,304,270,162,Sonny Rollins,Blue Seven,,2,ts,HARDBOP,137.6,MEDIUM,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |C-7   |F7   |Bb7   |Bb7   ||,2
+380,381,304,270,162,Sonny Rollins,Blue Seven,,3,ts,HARDBOP,133.3,MEDIUM,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C-7   |F7   |Bb7   |F7   ||,2
+381,382,83,79,163,Sonny Rollins,I'll Remember April,Alternate Take  2,1,ts,HARDBOP,294.0,UP,SWING,G-maj,4/4,"A1: ||Gj7   |G6   |Gj7   |G6   |G-7   |G-6   |G-7   |G-6   |Am7b5   |D7   |Bm7b5   |E7   |A-7   |D7   |Gj7   |Gj7   ||
+B1: ||C-7   |F7   |Bbj7   |G-7   |C-7   |F7   |Bbj7   |Bbj7   |A-7   |D7   |Gj7   |Gj7   |F#-7   |B7   |Ej7   |A-7 D7 ||
+A2: ||Gj7   |G6   |Gj7   |G6   |G-7   |G-6   |G-7   |G-6   |Am7b5   |D7   |Bm7b5   |E7   |A-7   |D7   |Gj7   |Gj7   ||",2
+382,383,305,271,164,Sonny Rollins,Playin' in the Yard,,1,ts,FUSION,155.2,MEDIUM UP,FUNK,G-maj,4/4,A1: ||G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   ||,1
+383,384,305,271,164,Sonny Rollins,Playin' in the Yard,,2,ts,FUSION,159.4,MEDIUM UP,FUNK,G-maj,4/4,"A1: ||G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |C7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   |G7   |C7   ||
+I1: ||NC   ||",1
+384,385,306,272,165,Sonny Rollins,St. Thomas,,1,ts,HARDBOP,207.0,UP,LATIN,C-maj,4/4,"A1: ||C69   |E-7 A7 |D-7 G7 |C69   |C69   |E-7 A7 |D-7 G7 |C69   ||
+B1: ||Em7b5   |A79#   |D-7   |G7   |C69 C7 |Fj7 F#o |C/G G7 |C79   ||",5
+385,386,306,272,165,Sonny Rollins,St. Thomas,,2,ts,HARDBOP,224.1,UP,LATIN,C-maj,4/4,"A1: ||C69   |E-7 A7 |D-7 G7 |C69   |C69   |E-7 A7 |D-7 G7 |C69   ||
+B1: ||Em7b5   |A79#   |D-7   |G7   |C69 C7/E |F F#o |C/G G7 |C79   ||",4
+386,387,307,273,162,Sonny Rollins,Tenor Madness,,1,ts,HARDBOP,175.6,MEDIUM UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |C-7   |F7   |Bb7   |Bb7   ||,8
+387,388,308,274,164,Sonny Rollins,The Everywhere Calypso,,1,ts,POSTBOP,192.6,UP,LATIN,C-maj,4/4,A1: ||C   |F   |G7   |C   |A7   |D-7   |G7   |C   ||,13
+388,389,308,274,164,Sonny Rollins,The Everywhere Calypso,,2,ts,POSTBOP,197.2,UP,LATIN,C-maj,4/4,A1: ||C   |F   |G7   |C   |A7   |D-7   |G7   |C   ||,19
+389,390,263,239,143,Sonny Rollins,Vierd Blues,,1,ts,HARDBOP,114.4,MEDIUM,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C7   |F7   |Bb7   |F7   ||,6
+390,391,168,152,84,Sonny Stitt,Blue Mode,,1,ts,BEBOP,60.7,SLOW,SWING,Bb-maj,4/4,"A1: ||Bb7   |Eb7 Em7b5 |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7 G7 |C-7   |F7   |Bb7 F7 |B7G7C-7F7||
+A2: ||Bb7   |A-7 D-7 |G-7   |F7   |Eb7   |Eb7   |F7   |Eb7 G7 |C-7   |C-7 F7 |Bb7   |Bb7   |NC   ||",1
+391,392,220,198,86,Sonny Stitt,Blues in Be-Bop,,1,as,BEBOP,185.8,UP,SWING,Eb-maj,4/4,A1: ||Eb7   |Ab7   |Eb7   |Eb7   |Ab7   |Ab7   |Eb7   |Bb-7 A7 |Ab7   |Bb7   |Eb7   |Eb7 Bb7 ||,2
+392,393,309,75,86,Sonny Stitt,Body and Soul,,1,as,BEBOP,67.7,SLOW,BALLAD,Db-maj,4/4,"A1: ||Eb-7 Bb79b |Absus7 Ab7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 B7 |Bb-7Eb7Eb-7Ab7|Db6 Bb7 ||
+A2: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 B7 |Bb-7 D7 |Db6 E-7A7||
+B1: ||Dj7 E-7 |F#-7 G-7C7|F#-7B7E-7A7|Dj7   |D-7 G7 |Cj7 Ebo |D-7 G7 |C7B7Bb7 ||
+A3: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 B7911#F7|Bb-7NC  |NC   |NC   |NC   |Db6   ||",1
+393,394,171,155,86,Sonny Stitt,Elora,,1,ts,BEBOP,192.7,UP,SWING,Bb-maj,4/4,"A1: ||C-7   |F7   |Bbj7 Ebj7 |D-7 Db-7 |C-7   |F7   |Bbj7   |C-7   ||
+A2: ||C-7   |F7   |Bbj7 Ebj7 |D-7 Db-7 |C-7   |F7   |Bb   |F-7 Bb7 ||
+B1: ||Ebj7   |Eb-7   |D-7   |Ao7 D+7 |G-7   |C7   |C-7   |F7   ||
+A3: ||C-7   |F7   |Bbj7 Ebj7 |D-7 Db-7 |C-7   |F7   |Bbj7   |Bbj7   ||
+I1: ||NC   ||",1
+394,395,310,275,86,Sonny Stitt,Good Kick,,1,as,BEBOP,173.4,MEDIUM UP,SWING,F-maj,4/4,A1: ||F7   |F7   |F7 D-7 |G-7 C7 |F7   |F7   |C7   |C7   ||,3
+395,396,173,157,84,Sonny Stitt,Teapot,,1,ts,BEBOP,167.9,MEDIUM UP,SWING,F-maj,4/4,"A1: ||F7 C7 |F7   |Bb7   |Bb7   |Bb-7 Eb7 |Bb-7 Eb7 |Ab6   |Bb-7Eb7Ab6C7||
+B1: ||F7 C7 |F7   |Bb7   |Bb7   |F-7 C7 |F-7   |C-7 F7 |Bb-7Eb7Ab6C7||",2
+396,397,169,153,85,Stan Getz,Blues in the Closet,,1,ts,COOL,242.5,UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |Bb7   |C-7   |F7   |Bb7   |F7   ||,16
+397,398,311,75,166,Stan Getz,Body and Soul,,1,ts,COOL,63.4,SLOW,SWING,Db-maj,4/4,"A1: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7 Eb-7Ab7|Db6 Fm7b5Bb7||
+A2: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7 Eb-7Ab7|Db A7 ||
+B1: ||Dj7 E-7 |F#-7 G-7 |F#-7B-7E-7A7|Dj7   |D-7 G7 |Cj7 Ebo7 |D-7 G7 |C7 Bb7 ||
+A3: ||Eb-7 Bb79b |Eb-7 D7 |Dbj7 Gb7 |F-7 Eo7 |Eb-7   |Cm7b5 F7 |Bb-7Eb7Eb-7Ab7|Db6  A7||
+B2: ||Dj7 E-7 |F#-7 G-7 |F#-7B-7E-7A7|Dj7   |D-7 G7 |Cj7 Ebo7 |D-7 G7 |C7B7Bb7 ||",2
+398,399,170,154,85,Stan Getz,Crazy Rhythm,,1,ts,COOL,287.9,UP,SWING,F-maj,4/4,"A1: ||Fj7   |Fj7   |Bb7   |A-7 Abo7 |G-7   |C7   |F6   |G-7 C7 ||
+A2: ||Fj7   |Fj7   |Bb7   |A-7 Abo7 |G-7   |C7   |F6   |F6   ||
+B1: ||C-7   |F7   |Bbj7   |Bbj7   |Bb-7   |Eb79   |D7   |G7 C7 ||
+A3: ||Fj7   |Fj7   |G7   |G7   |C7   |C7   |Fj7   |Fj7   ||",8
+399,400,312,276,167,Stan Getz,I'm Glad There Is You,,1,ts,COOL,67.0,SLOW,SWING,C#-maj,4/4,"A1: ||C#j7   |C#j7   |C#-7   |F#7913   |D#-7   |G#7   |F-7 E7913 |Aj7 D79 ||
+A2: ||C#j7 D#-7 |F-7 Eo7 |D#-7   |G#79   |C#j7 B79 |A#79b   |D#7913   |G#79 C#sus79 ||
+I1: ||NC   ||",1
+400,401,313,277,167,Stan Getz,Insensatez,,1,ts,COOL,128.2,MEDIUM,LATIN,A-min,4/4,"A1: ||A-79   |A-79   |G#o7   |G#o7   |G-6   |G-6   |D7/F#   |D7/F#   ||
+B1: ||Fj7   |Fj7   |Bbj7   |Bbj7   |Bm7b5   |E79b   |A-7   |Ab7913   ||
+C1: ||G-7   |G-7   |F#o7   |F#o7   |Fj7   |Bm7b5 E7 |A-7   |A-7 Ab7 ||
+D1: ||G-79   |C7   |F#-7   |B79b   |Fj7   |E7   |A-7   |A-7   ||
+I1: ||NC   |NC   ||",1
+401,402,172,156,85,Stan Getz,My Funny Valentine,,1,ts,COOL,130.7,MEDIUM,SWING,F-min,4/4,"A1: ||F-   |F-j7   |F-7   |F-6   |Dbj7   |Bb-7   |Gm7b5   |C79b   ||
+A2: ||F-   |F-j7   |F-7   |F-6   |Dbj7   |Bb-7   |Db-6   |Eb79b   ||
+B1: ||Abj7 Bb-7 |C-7 Bb-7 |Abj7 Bb-7 |C-7 Bb-7 |Abj7 C7 |F- Eb-7D7|Dbj7   |Gm7b5 C79b ||
+C1: ||F-   |Fj7   |F-7   |F-6   |Dbj7   |Gm7b5 C79b |F-   |Eb-7 D7911# |Dbj7   |Bb-7 Eb79b |Ab6   |Ab6   ||",3
+402,403,314,278,168,Steve Coleman,Cross-Fade,,1,as,FUSION,144.8,MEDIUM UP,FUNK,,9/4,A1: ||NC   ||,1
+403,404,314,278,168,Steve Coleman,Cross-Fade,,2,as,FUSION,145.9,MEDIUM UP,FUNK,,9/4,A1: ||NC   ||,1
+404,405,223,201,115,Steve Coleman,Double Vision,,1,ss,POSTBOP,242.2,UP,SWING,,4/4,A1: ||NC   ||,1
+405,406,224,202,116,Steve Coleman,Pass It On,,1,as,FUSION,104.9,MEDIUM SLOW,FUNK,,4/4,"A1: ||C-7   |Eb   |C-7   |Eb   ||
+A2: ||C-7   |Eb   |C-7   |Eb   ||
+B1: ||F-   |Db   |F-   |Gb7   ||
+A3: ||C-7   |Eb   |C-7   |Eb   ||",2
+406,407,315,279,169,Steve Coleman,Processional,,1,as,POSTBOP,103.9,MEDIUM SLOW,LATIN,F-min,5/4,A1: ||F-    |F-    |F-    |F-    |Db7911#    |Db7911#    |F-    |F-    |Gb7911#    |E7911#    |D7911#    |C7alt    ||,3
+407,408,316,59,170,Steve Coleman,Segment,,1,as,POSTBOP,240.0,UP,SWING,Bb-min,4/4,"A1: ||Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   ||
+A2: ||Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   ||
+B1: ||Bb7   |Bb7   |Eb7   |Eb7   |Ab7   |Ab7   |Db7   |Db7   ||
+A3: ||Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus   |Bbsus  ||",5
+408,409,225,203,116,Steve Coleman,Slipped again,,1,as,POSTBOP,131.6,MEDIUM,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-7   |C7   |F7   |G-7 C7 ||,3
+409,410,317,280,171,Steve Coleman,Take the Coltrane,,1,as,POSTBOP,240.0,UP,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |F7   |G7   |C7   |F7   |C7   ||,14
+410,411,318,281,169,Steve Coleman,The Oracle,,1,as,POSTBOP,97.7,MEDIUM SLOW,LATIN,Bb-min,3/4,A1: ||Bb-   ||,1
+411,412,318,281,169,Steve Coleman,The Oracle,,2,as,POSTBOP,104.0,MEDIUM SLOW,LATIN,Bb-min,3/4,"A1: ||Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  |Bb-  ||
+B1: ||Eb-  |C-  |Bj7911#  |Bb-  |Eb-  |Bj7911#  |Eb-  |Bj7911#  |G-7  |F#j7  |Bj7  |Bbj7911#  ||",3
+412,413,319,252,172,Steve Lacy,Alone Together,,1,ss,HARDBOP,134.9,MEDIUM,SWING,D-maj,4/4,"A1: ||D-6   |Em7b5 A79b |D-6   |Em7b5 A79b |D-6   |Am7b5 D79b |G-7   |G-7   |B-7 E7 |G-7 C7 |Fj7   |Em7b5 A7 |Dj7   |Em7b5 A7 ||
+A2: ||D-6   |Em7b5 A79b |D-6   |Em7b5 A79b |D-6   |Am7b5 D79b |G-7   |G-7   |B-7 E7 |G-7 C7 |Fj7   |Em7b5 A7 |Dj7   |Dj7   ||
+B1: ||Am7b5   |D79b   |G-6   |G-6   |Gm7b5   |C79b   |Fj7   |Em7b5 A79b ||
+A3: ||D-6   |Em7b5 A79b |D-6   |Em7b5 A79b |D-6   |Bb7 A7 |D-6   |Em7b5 A7 ||",1
+413,414,320,100,173,Steve Lacy,Ask Me Now,,1,ss,HARDBOP,85.4,MEDIUM SLOW,SWING,Db-maj,4/4,"A1: ||G-7C7F#-7B7|F-7Bb7E-7A7|Eb-7 Ab7 |B7 Bb7 |Eb7 D7 |Dbj7 Eb7 |Eb-7 Ab7 |F-7E7Eb-7D7||
+A2: ||G-7C7F#-7B7|F-7Bb7E-7A7|Eb-7 Ab7 |B7 Bb7 |Eb7 D7 |Dbj7 Eb7 |Eb-7 Ab7 |Db   ||
+B1: ||Eb-7 Ab |Dbj7  E-7|Eb-7 Ab7 |Dbj7   |Bb-7 Eb7 |Eb7 Bb-7 |Eb-7 Ab7 |Db-7 Gb7 ||
+A3: ||G-7C7F#-7B7|F-7Bb7E-7A7|Eb-7 Ab7 |B7 Bb7 |Eb7 D7 |Dbj7 Eb7 |Eb-7 Ab7 |Db   ||",1
+414,415,321,282,172,Steve Lacy,Easy to Love,,1,ss,HARDBOP,166.3,MEDIUM UP,SWING,G-maj,4/4,"A1: ||A-7   |D-7   |A-7   |D7   |Gj7   |C79   |B-7   |E79b   |A-7   |D79   |Gj7   |B-7 E7 |A-7   |D7   |B-7   |B-7 E79b ||
+A2: ||A-7   |D-7   |A-7   |D7   |Gj7   |C79   |B-7   |E79b   |A-7   |C-7 F7 |Gj7   |Bbo7   |A-7   |D7   |G   |Bm7b5 E79b ||",4
+415,416,322,283,172,Steve Lacy,Let's Cool One,,1,ss,HARDBOP,132.2,MEDIUM,SWING,Eb-maj,4/4,"A1: ||Ebj7   |F-7 Bb7 |Ebj7 F-7G-7|C7   |F-7   |Bb7   |Eb C7 |F-7 Bb7 ||
+A2: ||Ebj7   |F-7 Bb7 |Ebj7 F-7G-7|C7   |F-7   |Bb7   |Eb   |Eb   ||
+B1: ||Bb-7   |Eb7   |Abj7   |Abj7   |C-7   |F7   |F-7   |Bb7   ||
+A3: ||Ebj7   |F-7 Bb7 |Ebj7 F-7G-7|C7   |F-7   |Bb7   |Eb   |Eb   ||",2
+416,417,323,284,174,Steve Lacy,Skippy,,1,ss,HARDBOP,266.8,UP,SWING,Ab-maj,4/4,"A1: ||D7 G7 |C7 F7 |Bb7 A7 |Ab7 Db7 |Gb7 F7 |Bb7 A7 |Ab7   |G7   |Gb7 F7 |E7 Eb7 |Ab7 G7 |Gb7 F7 |Bb7 A7 |Ab7 Db7 |F#7 B7 |E7 A7 ||
+B1: ||D7 G7 |C7 F7 |Bb7 A7 |Ab7 Db7 |Gb7 F7 |Bb7 A7 |Ab7 Db7 |Gb7   |Db7C7B7Bb7|A7Ab7G7Gb7|B7Bb7A7Ab7|G7Gb7F7E7|Bb-7 Eb7 |Bb-7 Eb7 |Bb-7 Eb7 |Ab   ||",3
+417,418,324,170,172,Steve Lacy,Work,,1,ss,HARDBOP,165.9,MEDIUM UP,SWING,,4/4,"A1: ||Db7   |Db7   |Gb7   |Gb7   |F7 E7 |Eb7   |D7   |D7   ||
+A2: ||Db7   |Db7   |Gb7   |Gb7   |F7 E7 |Eb7   |D7   |D7   ||
+B1: ||D-7 G7 |G7   |C7   |C7   |C-7   |F7   |E7 A7913b |Ab7alt   ||
+A3: ||Db7   |Db7   |Gb7   |Gb7   |F7 E7 |Eb7   |D7   |D7   ||",2
+418,419,325,285,175,Steve Turre,Dat Dere,,1,tb,POSTBOP,116.0,MEDIUM,SWING,C-min,4/4,"A1: ||C- Eb7 |Am7b5 Ab7 |C- Ab7 |Dm7b5 G7 |C- Eb7 |Am7b5 Ab7 |Dm7b5 G+7 |C- G+79 ||
+A2: ||C- Eb7 |Am7b5 Ab7 |C- Ab7 |Dm7b5 G7 |C- Eb7 |Am7b5 Ab7 |Dm7b5 G+7 |C-   ||
+B1: ||C-7G7C- |G-7D7G-7 |C-7 Ab7 |Dm7b5 G7 |C-7G7C- |G-7D7G-7 |Dm7b5 G79 |C- G79 ||",3
+419,420,326,286,175,Steve Turre,If I Were a Bell,,1,tb,POSTBOP,257.1,UP,SWING,F-maj,4/4,"A1: ||G79   |Csus7913 C7913 |Fj7   |Fj7   |A-7   |D7   |G7   |G-7 C7913 ||
+B1: ||F6 F7/A |Bb6 C7913 |F6   |E-7 A7 |D-7 D-7/C |Bb-7 E7 |Aj7 Bb7 |Aj7 D7 ||
+A2: ||G79   |Csus7913 C7913 |Fj7   |Fj7   |A-7   |D7   |G7   |G-7 C7 ||
+C1: ||F6 F7/A |Bb Bo |F6/C Bb7913 |A-7 D7 |G-7   |C7913   |F6   |F6   ||",2
+420,421,327,287,175,Steve Turre,Steve's Blues,,1,tb,POSTBOP,204.3,UP,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-7   |C7   |F7   |C7   ||,4
+421,422,224,202,116,Von Freeman,Pass It On,,1,ts,FUSION,105.9,MEDIUM SLOW,FUNK,C-min,4/4,"A1: ||C-7NC  |Eb   |C-7   |Eb   ||
+A2: ||C-7   |Eb   |C-7   |Eb   ||
+B1: ||F-   |Db   |F-   |Gb7   ||
+A3: ||C-7   |Eb   |C-7   |Eb   ||",3
+422,423,231,209,176,Warne Marsh,Crosscurrent,,1,ts,COOL,258.2,UP,SWING,F-maj,4/4,"A1: ||Fj7   |G-7 C7 |A-7   |G-7 C7 |F7   |Bbj7   |G-7 C7 |Fj7   ||
+A2: ||Fj7   |G-7 C7 |A-7   |G-7 C7 |F7   |Bbj7   |G-7 C7 |Fj7   ||
+B1: ||Bb-7   |Aj7   |Ab-7   |Gj7   |Gbj7   |F7 D7 |G-7   |C7   ||
+A3: ||Fj7   |G-7 C7 |A-7   |G-7 C7 |F7   |Bbj7   |G-7 C7 |Fj7   |Fj7   ||",1
+423,424,235,212,119,Warne Marsh,Tautology,,1,ts,COOL,269.9,UP,SWING,F-maj,4/4,"A1: ||F   |F7   |A-   |D7   |G-   |C7   |Fj7   |Fj7   ||
+B1: ||Cj7911# Bb7911# |Ab7911# Gbj7911# |Fj7   |D7   |G-   |C7   |Fj7   |Fj7   ||
+C1: ||Bb-7   |Eb7   |Bbo Bb-7 |Ab   |A-7   |D7   |G7   |C7   ||
+A2: ||F   |F7   |A-   |D7   |G-   |C7   |Fj7   |Fj7   ||",2
+424,425,236,213,118,Warne Marsh,Wow,,1,ts,COOL,175.1,MEDIUM UP,SWING,F-maj,4/4,"A1: ||G-   |C7   |F   |A- Abj7 |Gj7   |E79b   |A-   |D- D7 ||
+A2: ||G-   |C79b   |F   |A- Abj7 |Gj7   |C7   |F C |F   |A- Abj7 ||",1
+425,426,328,288,177,Wayne Shorter,Adam's Apple,,1,ts,POSTBOP,174.4,MEDIUM UP,LATIN,Ab-mix,4/4,A1: ||Ab7   |Ab7   |Ab7   |Ab7   |Ab7   |Ab7   |Ab7   |Ab7   |Gb7   |Gb7   |Gb7   |Gb7   |Ab7   |Ab7   |Ab7   |Ab7   |Ab-7   |Db7913   |Bb-7   |Eb7   |Ab-   |Ab-   |Bb-7/Eb   |Bb-7/Eb   ||,4
+426,427,164,148,139,Wayne Shorter,Dolores,,1,ts,POSTBOP,277.4,UP,SWING,Db-chrom,4/4,"A1: ||D-7   |F-7 Bb7 |Ebj7   |A-7 D7 |F-7911   |Am7b5 D7 |Dbsus7   |Dbsus7   ||
+B1: ||G-7   |D7   |G-7   |F-79   |F-79   |Eb   ||
+C1: ||G-7   |F-7 Bb7 |Ebj7   |A-7 D7 |F-7911   |Am7b5 D7 |Dbsus7   |Dbsus7   ||",3
+427,428,96,89,49,Wayne Shorter,Down Under,,1,ts,HARDBOP,147.1,MEDIUM UP,SWING,F#-min,4/4,A1: ||Gb-7   |Abm7b5 Db7 |Gb-7   |Gb-7   |G7   |G7   |Gb-7   |E-7 A7 |D7   |Db7   |Gb-7   |Db7   ||,2
+428,429,259,235,140,Wayne Shorter,E.S.P.,,1,ts,POSTBOP,284.5,UP,SWING,F-maj,4/4,"A1: ||E7alt   |E7alt   |Fj7   |Fj7   |E7alt   |E7alt   |Ebj7911#   |Ebj7911#   |D7   |Ebj7911#   |E7   |Fj7 Eb7 |D-79   |G7   |G-7   |Gb7   ||
+A2: ||E7alt   |E7alt   |Fj7   |Fj7   |E7alt   |E7alt   |Ebj7911#   |Ebj7911#   |D7   |Ebj7911#   |E7   |Fj7 Eb7 |Db7911#   |C7   |Db7 Gb7 |Fj7   ||",2
+429,430,260,236,140,Wayne Shorter,Eighty-One,,1,ts,POSTBOP,138.4,MEDIUM,SWING,F-maj,4/4,A1: ||Fsus7   |Bbsus7   |Fsus7   |Fsus7   |Bbsus7   |Bbsus7   |Fsus7   |Fsus7   |Csus7   |Bbsus7   |Fsus7   |Fsus7   ||,5
+430,431,329,289,177,Wayne Shorter,Footprints,,1,ts,POSTBOP,136.1,MEDIUM,SWING,C-min,6/4,"A1: ||C-7     |C-7     |C-7     |C-7     |F-7     |F-7     |C-7     |C-7     ||
+B1: ||F#m7b5  F7913  |Em7b5  A7alt  |C-7     |C-7     ||",4
+431,432,330,290,178,Wayne Shorter,Infant Eyes,,1,ts,POSTBOP,51.3,SLOW,BALLAD,Eb-chrom,4/4,"A1: ||G-7   |F-7   |Ebj7   |A79b13   |Gbj7   |Fsus79   |Eb-7   |Bbsus79   |Bb7   ||
+B1: ||Ebj7   |Ej7/D#   |Ebj7911#   |Ej7911#   |Bj7   |Bbsus79   |Ab-7   |Ebsus79   |D+79#   ||
+A2: ||G-7   |F-7   |Ebj7   |A79b13   |Gbj7   |Fsus79   |Eb-7   |Bbsus79   |Bbsus79   ||
+I1: ||G-7   |F-7   ||",1
+432,433,331,291,178,Wayne Shorter,Juju,,1,ts,POSTBOP,178.2,MEDIUM UP,LATIN,B-chrom,3/4,A1: ||Bb+7  |Bb+7  |Bb+7  |Bb+7  |Bb+7  |Bb+7  |Bb+7  |Bb+7  |Bb+7  |Bb+7  |A7  |A7  |Abj7  |Abj7  |E-7  |E-7  |Fj7  |Fj7  |B-7  |B-7  |Fj7  |Fj7  |B-7  |B-7  ||,7
+433,434,167,151,139,Wayne Shorter,Orbits,,1,ts,POSTBOP,267.1,UP,SWING,,4/4,A1: ||NC   ||,1
+434,435,151,136,178,Wayne Shorter,Speak No Evil,,1,ts,POSTBOP,142.7,MEDIUM UP,SWING,C-min,4/4,"A1: ||C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |E-7911 A+7 |D-7911 G+7 |Am7b5   |Bb-7   |Am7b5   |Bb-7   ||
+A2: ||C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |E-7911 A+7 |D-7911 G+7 |Am7b5   |Bb-7   |Am7b5   |Bb-7   ||
+B1: ||C-7  Ab7|Ab7   |G-7  Gbm7b5|Gbm7b5   |F-7  Bbm7b5|Bbm7b5   |Eb7  Db7|Db7   ||
+A3: ||C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |C-7   |Dbj7   |E-7911 A+7 |D-7911 G+7 |Am7b5   |Bb-7   |Am7b5   |Bb-7   ||",2
+435,436,325,285,175,Woody Shaw,Dat Dere,,1,tp,POSTBOP,114.7,MEDIUM,SWING,C-min,4/4,"A1: ||C-7   |Am7b5 Abj7 |Am7b5 D7 |Dm7b5 G7 |C-7   |Am7b5 Abj7 |Dm7b5 G+7 |C-7 G7 ||
+A2: ||C-7   |Am7b5 Abj7 |Am7b5 D7 |Dm7b5 G7 |C-7   |Am7b5 Abj7 |Dm7b5 G+7 |C-7   ||
+B1: ||Dm7b5G7C-7 |Am7b5D7G7C-7|Am7b5 D7 |Dm7b5 G7 |Dm7b5G7C-7 |Am7b5D7G+7Eb7|Dm7b5 G+7 |G7 G+7 ||
+A3: ||C-7   |Am7b5 Abj7 |Am7b5 D7 |Dm7b5 G7 |C-7   |Am7b5 Abj7 |Dm7b5 G+7 |C-7   ||",2
+436,437,326,286,175,Woody Shaw,If I Were a Bell,,1,tp,POSTBOP,252.3,UP,SWING,F-maj,4/4,"A1: ||G7   |G-7 C7 |Fj7   |Fj7   |Am7b5   |D7   |G7   |G-7 C7 ||
+B1: ||F7   |Bb7   |F7   |A+7   |D-7   |B-7 E7 |Aj7 E7 |Aj7 D7 ||
+A2: ||G7   |G-7 C7 |Fj7   |Fj7   |Am7b5   |D7   |G7   |G-7 C7 ||
+B2: ||F7   |Bb7 Bo |F E+7 |Eb7 D7 |G-7   |C7   |F   |D+7   ||",2
+437,438,332,292,175,Woody Shaw,Imagination,,1,tp,POSTBOP,60.1,SLOW,LATIN,Eb-maj,4/4,"A1: ||Ebj7 Eo7 |F-7 Bb7 |Ebj7 Ab79 |Gm7b5 C7 |F- C+7 |F-7 Bb7 |G7 C7 |F-7 Bb7 ||
+A2: ||Ebj7 Eo7 |F-7   |Ebj7 Abj7 |Gm7b5 C7 |F- C+7 |F-7 Bb7 |Ebj7   |Bb-7 Eb79 ||
+B1: ||Abj7 F-7 |A-7 D7 |G-7   |Em7b5 A79b |D-7 G-7 |C-7 F7 |F7   |Bb+7   ||
+C1: ||Ebj7 Eo7 |F-7 Bb7 |Ebj7 Ab79 |Gm7b5 C7 |F-7 C+7 |F-7 Bb7 |G7 Db7911# |C7   |F- B7911# |Bbsus79 Bb7 |Eb6 Ebsus |Eb6 Ebsus |Eb6 Ebsus |Eb6 Ebsus |Ebsus   |Ebsus   ||",1
+438,439,333,293,179,Woody Shaw,In a Capricornian Way,,1,cor,POSTBOP,171.8,MEDIUM UP,SWING,,3/4,"A1: ||D-7  |G-69  |D-7  |E-7  |D-7  |Eb7911#  |D-7  |A7  |Fsus7  |Ebsus7  |Fsus7  |Ebsus7  |Fsus7  |Ebsus7  |Gb-7  |B7  ||
+A2: ||D-7  |G-69  |D-7  |E-7  |D-7  |Eb7911#  |D-7  |A7  |Fsus7  |Ebsus7  |Fsus7  |Ebsus7  |Fsus7  |Ebsus7  |Gb-7  |B7  ||
+B1: ||G-7  |Ab-7  |G-7  |Ebsus7  |Bsus7  |Ebsus7  |Esus7/A  |Db+79# C+79#||
+A3: ||D-7  |G-69  |D-7  |E-7  |D-7  |Eb7911#  |D-7  |A7  |Fsus7  |Ebsus7  |Fsus7  |Ebsus7  |Fsus7  |Ebsus7  |Gb-7  |B7  ||",3
+439,440,334,294,180,Woody Shaw,Rahsaan's Run,,1,tp,POSTBOP,297.8,UP,SWING,G-min,4/4,A1: ||G-7911   |G-7911   |G-7911   |G-7911   |C-7911   |C-7911   |G-7911   |G-7911   |A7   |D7   |G-7911   |G-7911   ||,6
+440,441,335,295,180,Woody Shaw,Rosewood,,1,tp,POSTBOP,171.7,MEDIUM UP,LATIN/FUNK,,4/4,"A1: ||G-79 F-79 |G-79 F-79 |C-79 Bb-79 |Gb79   |G-79 F-79 |G-79 F-79 |C-79 Bb-79 |Gbj79   |Abj79   |Abj79   |Ab-79   |Db79 G7911# |Gbj79   |Gbj79   |B79   |Esus79 E79 ||
+B1: ||C-79 Bb-79 |C-79 Bb-79 |Gbj79 Ej7 |Dj7911#   |C-79 Bb-79 |C-79 Bb-79 |Gbj7 Ej7 |Dj7911#   |Bsus7 Asus7 |Bsus7 Asus7 |Gsus7 Fsus7 |Gsus7 Fsus7 |Bb-7   ||
+C1: ||A-7911   |A-7911   |A-7911 A6 |A6   |A6 Bb79 |Bb79   |Bb6 Ab-7 |Gsus7 Absus7 ||
+A2: ||G-79 F-79 |G-79 F-79 |C-7 Bb-7 |Gbj79   |G-79 F-79 |G-79 F-79 |C-79 Bb-79 |Gbj79   |Abj79   |Abj79   |Ab-79   |Db79 G7911# |Gbj79   |Gbj79   |B79   |E79   |C-79 Bb-79 |C-79 Bb79 |Gbj7 Ej7 |Dj7911#   |C-79 Bb-79 |C-79 Bb-79 |Gbj7 Ej7 |Ej7911#   |Csus7 Absus7 |Absus7   |Csus7 Absus7 |Csus7 Absus7 |Absus7   |Csus7   |Absus7   |Csus7 Absus7 ||
+I1: ",1
+441,442,336,296,179,Woody Shaw,Stepping Stone,,1,cor,POSTBOP,266.2,UP,SWING,F-maj,4/4,"A1: ||F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   |F7   ||
+B1: ||Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |Bb7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   |F-7   ||",1
+442,443,327,287,175,Woody Shaw,Steve's Blues,,1,tp,POSTBOP,205.5,UP,SWING,F-maj,4/4,A1: ||F7   |Bb7   |F7   |F7   |Bb7   |Bb7   |F7   |A-7 D7 |G-7   |C7   |F7   |C7   ||,5
+443,444,337,297,181,Wynton Marsalis,April in Paris,,1,tp,POSTBOP,153.7,MEDIUM UP,SWING,C-maj,4/4,"A1: ||Dm7b5 Db7 |Cj7   |Dm7b5 Ab7 |G7   |Cj7   |Cj7   |G-7   |C7   ||
+B1: ||Fj7   |Fj7   |Bm7b5 E7 |A-7 A-/G |F#m7b5   |B79b   |B-7 E7 |Em7b5 A79b ||
+C1: ||F#m7b5 Fo7 |C/E Ebo |Dm7b5 G7 |C6   |Bm7b5 E7 |A-7 A-/G |F#m7b5 B79b |Ej7 D-7G7||
+D1: ||Dm7b5 G7 |Cj7   |Em7b5   |A7alt   |D79   |Dm7b5 G7 |C6   |C6   ||",2
+444,445,338,298,181,Wynton Marsalis,Caravan,,1,tp,POSTBOP,196.6,UP,SWING,C-maj,4/4,"A1: ||C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |F-   |F-   |F-   |F-   ||
+A2: ||C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |F-   |F-   |F-   |F-   ||
+B1: ||F7   |F7   |F7   |F7   |Bb7   |Bb7   |Bb7   |Bb7   |Eb7   |Eb7   |Eb7   |Eb79 Eb79b |Abj7   |Abj7   |G7   |Db7   ||
+A3: ||C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |C79b   |F-   |F-   |F-   |F-   ||",2
+445,446,339,299,181,Wynton Marsalis,Cherokee,,1,tp,POSTBOP,338.0,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |Ab7   |Ab7   |Bbj7   |G-7   |C7   |C7   |C-7   |Bo   |C-7   |F+7   ||
+A2: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |Ab7   |Ab7   |Bbj7   |G-7   |C7   |C7   |C-7   |F7   |Bb6   |Bb6   ||
+B1: ||C#-7   |F#7   |Bj7   |Bj7   |B-7   |E7   |Aj7   |Aj7   |A-7   |D7   |Gj7   |Gj7   |G-7   |C7   |C-7   |F+7   ||
+A3: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |Ab7   |Ab7   |Bbj7   |G-7   |C7   |C7   |C-7   |F7   |Bb6   |Bb6   ||",2
+446,447,340,300,181,Wynton Marsalis,Cherokee II,,1,tp,POSTBOP,340.3,UP,SWING,Bb-maj,4/4,"A1: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |Ab7   |Ab7   |Bbj7   |G-7   |C7   |C7   |C-7   |Bo   |C-7   |F+7   ||
+A2: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |Ab7   |Ab7   |Bbj7   |G-7   |C7   |C7   |C-7   |F7   |Bb6   |Bb6   ||
+B1: ||C#-7   |F#7   |Bj7   |Bj7   |B-7   |E7   |Aj7   |Aj7   |A-7   |D7   |Gj7   |Gj7   |G-7   |C7   |C-7   |F+7   ||
+A3: ||Bbj7   |Bbj7   |F-7   |Bb7   |Ebj7   |Ebj7   |Ab7   |Ab7   |Bbj7   |G-7   |C7   |C7   |C-7   |F7   |Bb6   |Bb6   ||",2
+447,448,177,121,89,Wynton Marsalis,Johnny Come Lately,,1,tp,POSTBOP,245.4,UP,SWING,G-min,4/4,"A1: ||G-7   |Eb79 D79b |G-7   |Eb79 D79b |G-6   |Eb7 D79# |G-7   |Eb7 D79# ||
+A2: ||G-7   |Eb79 D79b |G-7   |Eb79 D79b |G-6   |Eb7 D79# |G-7   |F-7 Bb7 ||
+B1: ||Eb6 F-7 |G-7 F- |Eb6 F-7 |G-7 F-7 |Eb6 F-7 |G-7 C79b |F-6 Bb7 |A79b D79# ||
+A3: ||G-7   |Eb79 D79b |G-7   |Eb79 D79b |G-6   |Eb7 D79# |G-7   |Eb7 D79b ||",2
+448,449,182,38,89,Wynton Marsalis,U.M.M.G.,,1,tp,POSTBOP,221.3,UP,SWING,Db-maj,4/4,"A1: ||Fm7b5   |Bb79b   |Eb-7   |Ab7   |Dbo7 Db6 |Dbj7   |Db-7   |Gb7   ||
+A2: ||Fm7b5   |Bb79b   |Eb-7   |Ab7   |Dbo7 Db6 |Dbj7   |Ab-7 Db7 |Ab-7 Db7 ||
+B1: ||Gm7b5   |C79b   |Fj7   |Fj7   |Abm7b5   |Db79b   |Gb-7   |Ab7   ||
+A3: ||Fm7b5   |Bb79b   |Eb-7   |Ab7   |Dbo7   |Db6   |Dbo   |Db6   ||",2
+449,450,341,301,182,Wynton Marsalis,You're My Everything,,1,tp,POSTBOP,137.6,MEDIUM,SWING,B-maj,4/4,"A1: ||Bj7   |Bj7   |F-7 Bb7 |Eb-7 Ab7 |Db-7   |Db-7   |Gb7   |E-   |Eb-7   |D-7 G79 |D-7   |Bb-7 Eb7 |Ab-7   |Db79   |Db-7   |Gb7   ||
+B1: ||Bj7   |Bj7   |F-7 Bb7 |Eb-7 Ab7 |Db-7   |Db-7   |Bbm7b5   |Eb7   |Ab-7 G7913 |Gb-7 B7 |Ej7   |A79   |Eb-7 D-7 |Db-7 Gb7 |Gj7   |Gj7   ||",1
+450,451,342,207,159,Zoot Sims,All the Things You Are,,1,ts,COOL,192.2,UP,SWING,Ab-maj,4/4,"A1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |D-7 G7 |Cj7   |Cj7   ||
+B1: ||C-7   |F-7   |Bb7   |Ebj7   |Abj7   |A-7 D7 |Gj7   |Gj7   ||
+C1: ||A-7   |D7   |Gj7   |Gj7   |F#-7 NC |B7   |Ej7   |C+7   ||
+D1: ||F-7   |Bb-7   |Eb7   |Abj7   |Dbj7   |Db-7   |C-7   |Bo7   |Bb-7   |Eb7   |Abj7   |Abj7   ||
+I1: ||F-7   |F-7   ||",1
+451,452,343,302,183,Zoot Sims,Dancing in the Dark,,1,ts,COOL,124.7,MEDIUM,SWING,Ab-maj,4/4,"A1: ||Abj7   |Abj7   |Abo7   |Abo7   |Bb-7   |Bb-7   |Bbm7b5   |Eb79b   |Abj7   |Ab-7   |C7alt   |F79b   |Bbm7b5   |Bbm7b5   |Bbm7b5   |Eb79b   ||
+B1: ||Abj7   |Abj7   |Abo7   |Abo7   |Bb-7   |Bb-7   |Bbm7b5   |Bbm7b5 Eb79b |Abj7   |Ab-7   |B7   |A7   |Ab6   |Bbm7b5 Eb7 |Ab6   |Bb-7 Eb7 ||",1
+452,453,343,302,183,Zoot Sims,Dancing in the Dark,,2,ts,COOL,122.1,MEDIUM,SWING,Ab-maj,4/4,"A1: ||Abj7   |Abj7   |Abo7   |Abo7   |Bb-7   |Bb-7   |Bbm7b5   |Eb79b   |Abj7   |Ab-7   |C7911#   |F79b   |Bbm7b5   |Bbm7b5   |Bbm7b5   |Eb79b   ||
+B1: ||Abj7   |Abj7   |Abo7   |Abo7   |Bb-7   |Bb-7   |Bbm7b5   |Bbm7b5 Eb79b |Abj7   |Ab-7   |B7   |A7   |Ab6   |Bbm7b5 Eb7 |Ab6   |Bb-7 Eb7 |Abj7   ||
+I1: ||Eb7   |Eb7   |Eb7   |Eb7   |Eb7   ||",1
+453,454,297,264,184,Zoot Sims,King David,,1,ts,COOL,151.1,MEDIUM UP,SWING,Bb-maj,4/4,A1: ||Bb7   |Eb7   |Bb7   |Bb7   |Eb7   |Eb7   |Bb7   |D-7 G7 |C-7   |F7   |Bb7   |C-7 F7 ||,1
+454,455,344,20,183,Zoot Sims,Night and Day,,1,ts,COOL,216.7,UP,SWING,D-maj,4/4,"A1: ||Em7b5   |A7   |Dj7   |Dj7   |Em7b5   |A7   |Dj7   |Dj7   |G#m7b5   |G-7   |F#-7   |Fo7   |E-7   |A7   |Dj7   |Dj7   ||
+A2: ||Em7b5   |A7   |Dj7   |Dj7   |Em7b5   |A7   |Dj7   |Dj7   |G#m7b5   |G-7   |F#-7   |Fo7   |E-7   |A7   |Dj7   |C7   ||
+B1: ||Fj7   |Fj7   |Dj7   |Dj7   |Fj7   |Fj7   |Dj7   |Dj7   ||
+C1: ||G#m7b5   |G-7   |F#-7   |Fo7   |E-7   |A7   |D6   |E7 A7 ||",2
+455,456,344,20,183,Zoot Sims,Night and Day,,2,ts,COOL,217.6,UP,SWING,D-maj,4/4,"B1: ||Fj7   |Fj7   |Dj7   |Dj7   |Fj7   |Fj7   |Dj7   |Dj7   ||
+C1: ||G#m7b5   |G-7   |F#-7   |Fo7   |E-7   |A7   |Dj7   |E7 A7 ||",1
